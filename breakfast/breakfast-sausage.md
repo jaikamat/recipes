@@ -1,5 +1,6 @@
 ### Breakfast Sausage
 
+**Servings:** 6
 **Per serving:** 149 cal | 4g carbs | 15g protein | 8g fat
 
 **Ingredients:**
@@ -19,8 +20,8 @@
 **Instructions:**
 
 1. In a bowl, add pork and all seasonings and mix well until everything is fully incorporated
-1. Press pork mixture evenly into the ½ cup silicone molds making sure to press out any air bubbles. Try your best to flatten the top
+2. Press pork mixture evenly into the ½ cup silicone molds making sure to press out any air bubbles. Try your best to flatten the top
 
-**Freeze:** In six 1/2 cup molds overnight
+**Freeze:** In six 1/2 cup molds overnight.
 
-**Reheat:** Air fryer at 370°F for 14 minutes
+**Reheat:** Air fryer at 370°F for 14 minutes.

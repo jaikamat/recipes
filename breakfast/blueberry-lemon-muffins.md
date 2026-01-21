@@ -1,5 +1,6 @@
 ### Blueberry-Banana-Lemon Muffins
 
+**Servings:** 6
 **Per serving:** 283 cal | 44g carbs | 8g protein | 10g fat
 
 **Ingredients:**
@@ -17,13 +18,13 @@
 **Instructions:**
 
 1. Mash bananas in a bowl then add yogurt, lemon zest, juice and eggs and mix
-1. Add honey and coconut sugar and mix well. The honey may clump, but just keep whisking until incorporated
-1. Add melted butter to the bowl and mix well
-1. In a separate bowl, add flour, baking powder and salt
-1. Dump the dry ingredients into the bowl and incorporate slowly with a spatula until it just comes together
-1. Place into your ½ cup silicone molds filled ¾ of the way
-1. Bake at 350°F for 20-25 minutes, flipping the tray halfway through
+2. Add honey and coconut sugar and mix well. The honey may clump, but just keep whisking until incorporated
+3. Add melted butter to the bowl and mix well
+4. In a separate bowl, add flour, baking powder and salt
+5. Dump the dry ingredients into the bowl and incorporate slowly with a spatula until it just comes together
+6. Place into your ½ cup silicone molds filled ¾ of the way
+7. Bake at 350°F for 20-25 minutes, flipping the tray halfway through
 
-**Freeze:** In six 1/2 cup molds after cooling
+**Freeze:** In six 1/2 cup molds after cooling.
 
-**Reheat:** Microwave for 2 minutes each for a softer muffin OR air fryer for 10 minutes at 375°F for a crispier result
+**Reheat:** Microwave for 2 minutes each for a softer muffin OR air fryer for 10 minutes at 375°F for a crispier result.
