@@ -5,15 +5,15 @@
 
 **Ingredients:**
 
-- 2 bananas
-- 2 eggs
-- ½ cup yogurt
-- 4 TBSP melted butter
-- ¼ cup coconut sugar
-- ¼ cup honey
-- 2 tsp baking powder
+- 2 bananas (200g)
+- 2 eggs (100g)
+- ½ cup yogurt (120g)
+- 4 TBSP melted butter (57g)
+- ¼ cup coconut sugar (45g)
+- ¼ cup honey (85g)
+- 2 tsp baking powder (10g)
 - Zest and juice of half a lemon
-- 1¼ cup whole wheat flour
+- 1¼ cup whole wheat flour (150g)
 
 **Instructions:**
 
