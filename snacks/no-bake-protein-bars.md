@@ -1,17 +1,17 @@
 ### No-Bake Protein Bars
 
 **Servings:** 12
-**Per serving:** 343 cal | 24g carbs | 17g protein | 22g fat
+**Per serving:** 345 cal | 23g carbs | 18g protein | 21g fat
 
 **Ingredients:**
 
 - 100g medjool dates, roughly chopped
 - 250g crunchy peanut butter
-- 125g plant-based protein powder, unflavored
+- 125g whey/casein blend (unflavored whey + vanilla casein)
 - 100g ground almonds (or almond flour)
 - 75g chia seeds, milled
 - 2 TBSP maple syrup
-- 175ml water
+- 200ml water
 - 150g dark chocolate (80%), roughly chopped
 
 _Optional toppings: chopped pistachios, dried goji berries, coconut flakes, cacao nibs_
