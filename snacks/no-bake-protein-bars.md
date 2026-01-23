@@ -11,7 +11,7 @@
 - 100g ground almonds (or almond flour)
 - 75g chia seeds, milled
 - 2 TBSP maple syrup
-- 200ml water
+- ~150ml water
 - 150g dark chocolate (80%), roughly chopped
 
 _Optional toppings: chopped pistachios, dried goji berries, coconut flakes, cacao nibs_
