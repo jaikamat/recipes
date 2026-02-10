@@ -10,7 +10,6 @@
 - 55g basil pesto sauce
 - 10g (3-4 cloves) fresh garlic, minced
 - 10g grated parmesan
-- Handful chopped spinach
 - 1 large egg
 - 1/2 tsp Worcestershire sauce
 - 1g (1/4 tsp) kosher salt
@@ -19,7 +18,7 @@
 **Instructions:**
 
 1. Add chicken to a food processor and blend until ground
-2. Add pesto, parmesan, garlic, bread crumbs, spinach, Worcestershire, egg and salt. Pulse until just combined, scraping down sides as needed
+2. Add pesto, parmesan, garlic, bread crumbs, Worcestershire, egg and salt. Pulse until just combined, scraping down sides as needed
 3. Form mixture into 14 meatballs, roughly golf ball sized
 4. Heat oil in a cast iron skillet over medium heat until shimmering
 5. Add meatballs and cook without moving for 3-4 minutes until a brown crust forms on the bottom
