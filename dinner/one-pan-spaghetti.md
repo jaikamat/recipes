@@ -18,7 +18,7 @@
 - 8g brown sugar
 - 0.5 tsp dried oregano
 - 0.5 tsp chili flakes
-- Salt to taste
+- Salt to taste (6-8g works with Costco broth)
 - Oil for cooking
 
 **Instructions:**
