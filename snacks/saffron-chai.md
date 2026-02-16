@@ -16,7 +16,7 @@ A spiced Assam chai with ginger paste, warm spices, and a touch of saffron.
 - 2 saffron strands
 - 4 tsp Assam tea
 - 240ml (1 cup) whole milk
-- 23g (0.8 oz) brown sugar
+- 22g brown sugar
 
 **Instructions:**
 
@@ -26,4 +26,4 @@ A spiced Assam chai with ginger paste, warm spices, and a touch of saffron.
 4. As soon as the chai rises to a rolling boil, cut the heat. Optionally, bring it back to a boil 2-3 more times for a creamier result.
 5. Strain through a fine mesh strainer into cups. Serve immediately.
 
-**Notes:** Ginger paste is more concentrated than fresh — start with 1 tsp if you prefer milder ginger. The black pepper is to taste; a few cracks from a pepper mill is a good starting point. The saffron adds a subtle floral note and golden color.
+**Notes:** Start with 1 tsp ginger paste if you prefer milder ginger — paste is more concentrated than fresh. The saffron adds a subtle floral note and golden color.
