@@ -1,7 +1,7 @@
 ### Rich Malty Chocolate Milk
 
 **Servings:** 2
-**Per serving:** 337 cal | 43g carbs | 11g protein | 15g fat
+**Per serving:** 320 cal | 40g carbs | 11g protein | 15g fat
 
 A rich, warming chocolate milk made in the Vitamix. The oats blend completely smooth and the friction heat melts the chocolate chips, creating a creamy, malty drink.
 
@@ -10,7 +10,7 @@ A rich, warming chocolate milk made in the Vitamix. The oats blend completely sm
 - 480ml (2 cups) Lactaid milk
 - 2 tbsp dutch process cocoa powder
 - 42g (1/4 cup) semi-sweet chocolate chips (Toll House)
-- 2 tbsp rolled oats
+- 1 tbsp rolled oats
 - 1 tbsp brown sugar
 - 1 tsp molasses
 - 1 pinch salt
