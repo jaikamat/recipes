@@ -12,7 +12,7 @@
 - 6 cloves garlic, minced
 - 3 green onions, sliced ⅜-½"
 - 2 tomatoes, small dice (optional)
-- 1 cup Tony Chachere's Instant Roux Mix
+- 1 cup Tony Chachere's Instant Roux Mix (powder, unmixed)
 - 6 cups chicken broth (or water)
 - 4 cups long-grain rice
 - 1-2 tbsp Cajun seasoning (start low since Tony's is salty)
