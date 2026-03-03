@@ -26,7 +26,7 @@ Spiced Indian-style chicken meatballs with a crispy pan-fried crust.
 
 1. In a large bowl, combine ground chicken, cornstarch, salt, ginger paste, and garlic paste. Mix well until the meat becomes slightly tacky
 2. Add garam masala, coriander powder, cumin seeds, lemon juice, green chilis, onion, cilantro, and 1 tsp oil. Mix again until evenly combined
-3. Form into 14 meatballs
+3. Form into 14 meatballs, about 35g per ball
 4. Heat oil in a cast iron skillet over medium heat until shimmering
 5. Working in batches, add meatballs and cook without moving for 3-4 minutes until a brown crust forms on the bottom
 6. Turn and continue cooking on all sides, 8-10 minutes total, until golden brown and cooked through (165°F internal)

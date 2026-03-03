@@ -1,7 +1,7 @@
 ### All-Sausage Cajun Jambalaya with Tony's Instant Roux
 
 **Servings:** 8
-**Per serving:** 755 cal | 94g carbs | 22g protein | 30g fat
+**Per serving:** 778 cal | 94g carbs | 28g protein | 30g fat
 
 **Ingredients:**
 
@@ -13,7 +13,7 @@
 - 3 green onions, sliced ⅜-½"
 - 2 tomatoes, small dice (optional)
 - 1 cup Tony Chachere's Instant Roux Mix (powder, unmixed)
-- 6 cups chicken broth (or water)
+- 6 cups Kirkland chicken bone broth (or water)
 - 4 cups long-grain rice
 - 1-2 TBSP Cajun seasoning (start low since Tony's is salty)
 - Salt and pepper to taste
