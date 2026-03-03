@@ -69,7 +69,7 @@ Pantry recipes (spice blends, sauces) use `**Yield:**` instead of `**Servings:**
 - Recipe title uses `###` (H3)
 - Bold for all section headers (`**Ingredients:**`, `**Instructions:**`, etc.)
 - Ingredient sub-groups use italicized headers with a colon (e.g., `_Sauce:_`)
-- Instructions are numbered prose steps, not terse fragments
+- Instructions are numbered prose steps, not terse fragments — no trailing periods
 - Temperatures in °F
 - Internal meat temp noted where relevant (e.g., `165°F internal`)
 - TODOs or unverified recipes note it at the top (e.g., `TODO: Evaluate this one...`)
