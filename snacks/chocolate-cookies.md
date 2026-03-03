@@ -19,10 +19,10 @@
 
 **Instructions:**
 
-1. In a medium bowl, whisk together flour, cocoa powder, salt, baking powder and baking soda. Set aside.
-2. In a stand mixer fitted with the paddle attachment, beat together butter, brown sugar and granulated sugar until very light, about 5 minutes. Add egg and vanilla and beat until well combined.
-3. With the mixer on low, add the dry ingredients and beat just until combined. Add the chocolate discs and mix briefly to combine. Press plastic wrap against the dough and chill for at least 24 hours and up to 36.
-4. Heat oven to 350 degrees. Line a baking sheet with parchment paper. Portion the dough into balls slightly larger than golf balls, about 3.5 ounces each, and transfer five balls to the baking sheet (they will spread significantly). Bake until set, being careful to remove cookies from the oven when still soft in the center, about 18 minutes. Transfer the parchment with the cookies to a rack to cool. Repeat with the remaining dough, baking a second batch of four or five cookies.
+1. In a medium bowl, whisk together flour, cocoa powder, salt, baking powder and baking soda. Set aside
+2. In a stand mixer fitted with the paddle attachment, beat together butter, brown sugar and granulated sugar until very light, about 5 minutes. Add egg and vanilla and beat until well combined
+3. With the mixer on low, add the dry ingredients and beat just until combined. Add the chocolate discs and mix briefly to combine. Press plastic wrap against the dough and chill for at least 24 hours and up to 36
+4. Heat oven to 350°F. Line a baking sheet with parchment paper. Portion the dough into balls slightly larger than golf balls, about 3.5 ounces each, and transfer five balls to the baking sheet (they will spread significantly). Bake until set, being careful to remove cookies from the oven when still soft in the center, about 18 minutes. Transfer the parchment with the cookies to a rack to cool. Repeat with the remaining dough, baking a second batch of four or five cookies
 
 **Freeze:** Wrap cooled cookies individually in plastic wrap and store in a freezer bag.
 

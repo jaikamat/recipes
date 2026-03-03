@@ -15,7 +15,7 @@
 - 1 cup Tony Chachere's Instant Roux Mix (powder, unmixed)
 - 6 cups chicken broth (or water)
 - 4 cups long-grain rice
-- 1-2 tbsp Cajun seasoning (start low since Tony's is salty)
+- 1-2 TBSP Cajun seasoning (start low since Tony's is salty)
 - Salt and pepper to taste
 
 **Instructions:**
