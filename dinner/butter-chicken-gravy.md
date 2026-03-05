@@ -1,7 +1,7 @@
 ### Butter Chicken Gravy
 
 **Servings:** 4
-**Per serving:** 294 cal | 15g carbs | 6g protein | 24g fat
+**Per serving:** 212 cal | 16g carbs | 6g protein | 15g fat
 
 A rich butter chicken gravy. Pair with chili chicken meatballs for a complete meal.
 
@@ -24,7 +24,7 @@ A rich butter chicken gravy. Pair with chili chicken meatballs for a complete me
 - 1 cinnamon stick
 - 5 whole cloves
 - 6 green cardamom pods
-- 120ml (1/2 cup) heavy cream
+- 120ml (1/2 cup) whole milk
 - 28g (2 TBSP) cold unsalted butter (optional)
 - Fresh cilantro for garnish
 - Salt to taste
@@ -36,7 +36,7 @@ A rich butter chicken gravy. Pair with chili chicken meatballs for a complete me
 3. Add crushed tomatoes, broth, and kasoori methi. Place cinnamon stick, cloves, and cardamom in cheesecloth, wrap tightly, and add to the sauce. Bring to a boil, then simmer 10-15 minutes until the vegetables soften and the mixture reduces by about 25%
 4. Remove spice bundle. Puree the sauce with an immersion blender until smooth. Adjust consistency with broth as needed
 5. Add remaining ghee and simmer for 5 minutes until slightly thickened with visible fat globules
-7. Add cream and simmer 1 minute. Stir in cold butter if using. Season with salt
+7. Add milk and simmer 1 minute. Stir in cold butter if using. Season with salt
 
 **Freeze:** Cool completely before freezing in containers for up to 3 months.
 
