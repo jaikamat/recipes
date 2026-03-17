@@ -34,4 +34,4 @@
 
 **Freeze:** In 2-cup molds after cooling.
 
-**Reheat:** Microwave until heated through.
+**Reheat:** Place frozen portion into a 2-cup stoneware container with a splash of broth. Tent loosely with foil and bake at 350°F for 60-90 minutes, stirring halfway through once edges loosen. Remove foil and bake 5-10 more minutes until bubbling and excess moisture cooks off.
