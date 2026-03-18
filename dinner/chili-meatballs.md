@@ -1,13 +1,13 @@
-### Chili Chicken Meatballs
+### Chili Meatballs
 
 **Servings:** 2 (about 6 meatballs each)
 **Per serving:** 417 cal | 5g carbs | 45g protein | 25g fat
 
-Spiced Indian-style chicken meatballs with a crispy pan-fried crust.
+Spiced Indian-style meatballs with a crispy pan-fried crust.
 
 **Ingredients:**
 
-- 454g (1 lb) ground chicken
+- 454g (1 lb) ground turkey
 - 1/2 tsp cornstarch
 - 1/2 tsp salt
 - 1 tsp ginger paste
@@ -24,7 +24,7 @@ Spiced Indian-style chicken meatballs with a crispy pan-fried crust.
 
 **Instructions:**
 
-1. In a large bowl, combine ground chicken, cornstarch, salt, ginger paste, and garlic paste. Mix well until the meat becomes slightly tacky
+1. In a large bowl, combine ground turkey, cornstarch, salt, ginger paste, and garlic paste. Mix well until the meat becomes slightly tacky
 2. Add garam masala, coriander powder, cumin seeds, lemon juice, green chilis, onion, cilantro, and 1 tsp oil. Mix again until evenly combined
 3. Form into 12 meatballs, about 50g per ball
 4. Heat oil in a cast iron skillet over medium heat until shimmering

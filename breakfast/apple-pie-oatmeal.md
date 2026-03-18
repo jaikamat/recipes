@@ -19,7 +19,7 @@
 1. Peel and chop apples into small bite sized pieces, but large enough that they will maintain texture
 2. In a small pot on medium heat, add butter, apples, maple syrup, cinnamon, cardamom, and a pinch of salt and cook until the apples soften and the liquid begins to thicken, about 10 minutes
 3. Remove the apples from the pot and set aside to cool slightly
-4. Rinse your pot, then add 1 cup of oatmeal and 2 cups of water and cook on medium heat, about 10-15 minutes, stirring frequently, then remove from the stove and let cool slightly
+4. Add 1 cup of oatmeal and 2 cups of water and cook on medium heat, about 5-10 minutes, stirring frequently, then remove from the stove and let cool slightly
 5. To your molds, add just enough apples to cover the bottom, about 3 TBSP then cover with the oatmeal
 6. Repeat this step until all the molds are filled
 
