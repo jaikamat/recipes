@@ -32,7 +32,7 @@ _Cream cheese swirl:_
 4. Preheat oven to 350°F while the oats rest
 5. In the now-empty bowl, beat softened neufchatel, sugar, and the remaining egg with a whisk until completely smooth
 6. Working one mold at a time, add a spoonful of neufchatel mixture and a spoonful of blueberry preserves side by side on top of the oat mixture. Draw a knife or skewer through both a few times to create a marbled swirl. Repeat for all 8 molds
-7. Bake at 350°F for 25-32 minutes, until the centers are just set and no longer jiggly. Start checking at 25 minutes — edges will be lightly golden and the neufchatel swirl will have a slight matte surface when done
+7. Bake at 350°F for 40-50 minutes, until the centers are just set and no longer jiggly. Start checking at 40 minutes — edges will be lightly golden and the neufchatel swirl will have a slight matte surface when done
 8. Let the molds rest on a cooling rack for 10-15 minutes for clean release. Flex each Souper Cube cavity from the bottom to pop the portions out
 
 **Freeze:** Once fully cooled, portions go back into the Souper Cube tray or a zip bag and freeze individually.
