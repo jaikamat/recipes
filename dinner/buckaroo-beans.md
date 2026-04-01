@@ -5,7 +5,7 @@
 
 **Ingredients:**
 
-- 454g (1 lb) dried red beans or pinto beans
+- 454g (1 lb) dried pinto beans
 - 113g (4 oz) ham, bacon, or salt pork, cut in pieces
 - 200g (1 large) onion, coarsely chopped
 - 6g (2 cloves) garlic, minced
@@ -21,11 +21,14 @@
 
 **Instructions:**
 
-1. Wash beans and place in a pot with water. Bring to a boil and cook for 10 minutes, then drain
-2. Add beans and all ingredients except salt to slow cooker with water
+1. Rinse beans and add directly to slow cooker with all ingredients except salt and water
+2. Add water to barely cover the beans
 3. Cook on low for 8-10 hours or high for 5-6 hours, until beans are tender
-4. Remove bay leaf and season with salt to taste (about 1.5 tsp)
+4. Add salt to taste (about 1.5 tsp) during the last 30-60 minutes of cooking to prevent tough skins
+5. Remove bay leaf before serving
 
 **Freeze:** In 1-cup portions after cooling.
 
 **Reheat:** Microwave until heated through, or warm in a pot over medium heat.
+
+**Notes:** Do not substitute red kidney beans without adding a pre-boil step — kidney beans contain lectins that require a hard boil (10 minutes) to neutralize, which a slow cooker alone cannot do.
