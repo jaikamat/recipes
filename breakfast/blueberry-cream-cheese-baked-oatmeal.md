@@ -1,7 +1,7 @@
 ### High-Protein Blueberry Cream Cheese Baked Oatmeal
 
 **Servings:** 8
-**Per serving:** 473 cal | 55g carbs | 23g protein | 18g fat
+**Per serving:** 499 cal | 62g carbs | 23g protein | 18g fat
 
 Individual Souper Cube portions with Fairlife milk and whey for a serious protein boost.
 
@@ -12,6 +12,7 @@ _Oat mixture:_
 - 960ml (4 cups) Fairlife 2% ultra-filtered milk
 - 2 scoops unflavored whey protein powder
 - 2 eggs
+- 55g (1/4 cup) brown sugar
 - 42g (3 TBSP) melted butter
 - 4 tsp bourbon (or vanilla extract)
 - 1.5 tsp baking powder
@@ -27,7 +28,7 @@ _Cream cheese swirl:_
 **Instructions:**
 
 1. Whisk whey protein powder into Fairlife milk in a large bowl until fully dissolved with no clumps. This works best if the milk is at room temperature
-2. Add oats, baking powder, salt, eggs, melted butter, bourbon, and frozen blueberries to the milk mixture. Stir well to combine
+2. Add oats, brown sugar, baking powder, salt, eggs, melted butter, bourbon, and frozen blueberries to the milk mixture. Stir well to combine
 3. Place 8 Souper Cube molds on a rimmed baking sheet for stability. Divide the oat mixture evenly among all 8 molds — they should be about 3/4 full. Let rest for 15 minutes to allow the oats to absorb the liquid
 4. Preheat oven to 350°F while the oats rest
 5. In the now-empty bowl, beat softened neufchatel, sugar, and egg whites with a whisk until completely smooth
