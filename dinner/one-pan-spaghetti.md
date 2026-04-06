@@ -5,7 +5,7 @@
 
 **Ingredients:**
 
-- 906g (2 lb) ground turkey, 93% lean
+- 906g (2 lb) turkey italian sausage (bulk ground, casings removed)
 - 340g (12 oz) rotini or pasta of choice
 - 794g (28 oz) crushed tomatoes, canned
 - 794g (28 oz) chicken bone broth
