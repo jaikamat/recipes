@@ -26,7 +26,7 @@
 4. Build jambalaya: Return sausage to pot. Add roux mixture and remaining 4 cups broth. Add Cajun seasoning, salt, and pepper. Bring to boil
 5. Cook rice: Add rice and return to boil. Cover, reduce to bare simmer. Cook 10 minutes without lifting lid
 6. Turn rice: Working quickly, remove lid and add tomatoes and green onions. Turn rice once from bottom to top with spatula (2-3 scoops max). Don't over-mix
-7. Finish: Cover immediately and simmer 15 more minutes until rice is done
+7. Finish: Cover immediately and simmer 10-15 more minutes until rice is done
 8. Rest and serve: Remove from heat, let sit 2-3 minutes with lid on. Fluff with fork and serve. Pass hot sauce at table
 
 **Notes:**

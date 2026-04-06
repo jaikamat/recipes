@@ -10,7 +10,7 @@
 - 200g (1 large) onion, coarsely chopped
 - 6g (2 cloves) garlic, minced
 - 1 small bay leaf
-- 75g (1/2 cup) green pepper, chopped
+- 75g (1/2 cup) poblano pepper, chopped
 - 14g (2 TBSP) chili powder
 - 25g (2 TBSP) brown sugar
 - 1g (1/2 tsp) dry mustard
