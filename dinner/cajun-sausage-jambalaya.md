@@ -21,7 +21,7 @@
 **Instructions:**
 
 1. Brown sausage: In large stockpot over medium-high heat, brown andouille in batches until fat renders and edges crisp. Remove and set aside
-2. Sauté trinity: In rendered fat, sauté onions and celery until nearly tender. Add poblano peppers and garlic, cook 1-2 minutes until fragrant and peppers start to soften
+2. Sauté trinity: In rendered fat, sauté onions and celery until nearly tender, about 5-7 minutes. Add poblano peppers and garlic, cook 1-2 minutes until fragrant and peppers start to soften
 3. Make Tony's roux: Over medium heat, whisk Tony's Instant Roux Mix with 2 cups cool broth/water. Bring to boil, stirring as it thickens. Remove from heat and continue stirring until well mixed (about 3 minutes)
 4. Build jambalaya: Return sausage to pot. Add roux mixture and remaining 4 cups broth. Add Cajun seasoning, salt, and pepper. Bring to boil
 5. Cook rice: Add rice and return to boil. Cover, reduce to bare simmer. Cook 10 minutes without lifting lid
