@@ -6,7 +6,7 @@
 **Ingredients:**
 
 - 3 medium sweet potatoes
-- 2 red bell peppers
+- 2 poblano peppers
 - 1 large onion
 - 1 tsp garlic powder
 - 1 tsp paprika
