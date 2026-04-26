@@ -1,7 +1,7 @@
 ### Black Bean Brownies
 
 **Servings:** 12
-**Per serving:** 155 cal | 29g carbs | 4g protein | 5g fat
+**Per serving:** 151 cal | 28g carbs | 4g protein | 5g fat
 
 Ultra-healthy, flour-free brownies based on Dr. Fuhrman's recipe, elevated with espresso powder and bloomed chia for better binding.
 
@@ -9,7 +9,7 @@ Ultra-healthy, flour-free brownies based on Dr. Fuhrman's recipe, elevated with 
 
 - 425g (15 oz) can no-salt-added black beans, rinsed and drained
 - 200g (10 pitted) medjool dates
-- 100g (1 medium) ripe banana
+- 90g (1 pouch) unsweetened applesauce
 - 64g (3/4 cup) natural non-alkalized cocoa powder
 - 32g (2 TBSP) raw almond butter
 - 14g (2 TBSP) chia seeds, bloomed in 3 TBSP hot water for 5 minutes
