@@ -2,6 +2,7 @@
 
 **Servings:** 12 muffins
 **Per serving:** 172 cal | 3g protein | 8g fat | 24g carbs
+**Per 100g:** 313 cal | 5g protein | 15g fat | 44g carbs (~55g per muffin)
 
 **Ingredients:**
 

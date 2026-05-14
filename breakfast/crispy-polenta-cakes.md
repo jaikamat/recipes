@@ -2,6 +2,7 @@
 
 **Servings:** 6
 **Per serving:** 319 cal | 15g protein | 17g fat | 25g carbs
+**Per 100g:** 168 cal | 8g protein | 9g fat | 13g carbs (~190g per serving)
 
 **Ingredients:**
 

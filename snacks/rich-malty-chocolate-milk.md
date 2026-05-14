@@ -2,6 +2,7 @@
 
 **Servings:** 2
 **Per serving:** 320 cal | 11g protein | 15g fat | 40g carbs
+**Per 100g:** 112 cal | 4g protein | 5g fat | 14g carbs (~285g per serving)
 
 A rich, warming chocolate milk made in the Vitamix. The oats blend completely smooth and the friction heat melts the chocolate chips, creating a creamy, malty drink.
 

@@ -2,6 +2,7 @@
 
 **Servings:** 36 cookies
 **Per serving:** 111 cal | 2g protein | 5g fat | 16g carbs
+**Per 100g:** 396 cal | 7g protein | 18g fat | 57g carbs (~28g per cookie)
 
 Classic no-bake chocolate peanut butter oat cookies — just boil, mix, and drop.
 

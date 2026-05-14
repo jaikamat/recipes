@@ -2,6 +2,7 @@
 
 **Servings:** 14 meatballs
 **Per serving:** 80 cal | 9g protein | 3g fat | 4g carbs
+**Per 100g:** 200 cal | 23g protein | 8g fat | 10g carbs (~40g per meatball)
 
 **Ingredients:**
 

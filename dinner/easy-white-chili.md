@@ -2,6 +2,7 @@
 
 **Servings:** 4
 **Per serving:** 400 cal | 38g protein | 14g fat | 32g carbs
+**Per 100g:** 125 cal | 12g protein | 4g fat | 10g carbs (~320g per serving)
 
 A quick weeknight white chili using pantry staples and ground turkey.
 

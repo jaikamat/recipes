@@ -2,6 +2,7 @@
 
 **Servings:** 4
 **Per serving:** 229 cal | 4g protein | 17g fat | 18g carbs
+**Per 100g:** 115 cal | 2g protein | 9g fat | 9g carbs (~200g per serving)
 
 A rich, creamy butter chicken gravy. Pair with chili chicken meatballs for a complete meal.
 

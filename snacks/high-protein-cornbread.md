@@ -2,6 +2,7 @@
 
 **Servings:** 8 wedges
 **Per serving:** 183 cal | 8g protein | 5g fat | 25g carbs
+**Per 100g:** 254 cal | 11g protein | 7g fat | 35g carbs (~72g per wedge)
 
 **Ingredients:**
 

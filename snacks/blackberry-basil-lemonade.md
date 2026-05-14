@@ -2,6 +2,7 @@
 
 **Servings:** 2
 **Per serving:** 135 cal | 1g protein | 0g fat | 34g carbs
+**Per 100g:** 52 cal | 0g protein | 0g fat | 13g carbs (~260g per serving)
 
 Everything goes in the blender, then through a strainer. Adapted from the [Allrecipes Blackberry Lemonade](https://www.allrecipes.com/recipe/280577/homemade-blackberry-lemonade/).
 

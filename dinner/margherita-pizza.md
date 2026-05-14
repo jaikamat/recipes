@@ -2,6 +2,7 @@
 
 **Servings:** 2
 **Per serving:** 649 cal | 39g protein | 20g fat | 80g carbs
+**Per 100g:** 250 cal | 15g protein | 8g fat | 31g carbs (~260g per serving)
 
 A classic Neapolitan-style margherita with a 24-48 hour cold fermented dough for better flavor and texture.
 

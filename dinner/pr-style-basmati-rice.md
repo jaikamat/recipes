@@ -2,6 +2,7 @@
 
 **Servings:** 4 (200g each)
 **Per serving:** 323 cal | 11g protein | 5g fat | 59g carbs
+**Per 100g:** 162 cal | 6g protein | 3g fat | 30g carbs (~200g per serving)
 
 **Ingredients:**
 

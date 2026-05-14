@@ -2,6 +2,7 @@
 
 **Servings:** 2
 **Per serving:** 126 cal | 4g protein | 4g fat | 19g carbs
+**Per 100g:** 29 cal | 1g protein | 1g fat | 4g carbs (~430g per serving)
 
 A spiced Assam chai with ginger paste, warm spices, and a touch of saffron.
 

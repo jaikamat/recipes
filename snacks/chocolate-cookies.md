@@ -2,6 +2,7 @@
 
 **Servings:** 10 cookies
 **Per serving:** 446 cal | 5g protein | 22g fat | 62g carbs
+**Per 100g:** 490 cal | 5g protein | 24g fat | 68g carbs (~91g per cookie)
 
 **Ingredients:**
 

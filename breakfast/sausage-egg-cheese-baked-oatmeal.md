@@ -2,6 +2,7 @@
 
 **Servings:** 6
 **Per serving:** 577 cal | 42g protein | 27g fat | 39g carbs
+**Per 100g:** 199 cal | 14g protein | 9g fat | 13g carbs (~290g per serving)
 
 A savory, high-protein baked oatmeal with homemade breakfast sausage, peppers, and cheddar.
 

@@ -2,6 +2,7 @@
 
 **Servings:** 30 meatballs
 **Per serving:** 62 cal | 6g protein | 4g fat | 2g carbs
+**Per 100g:** 194 cal | 19g protein | 13g fat | 6g carbs (~32g per meatball)
 
 **Ingredients:**
 

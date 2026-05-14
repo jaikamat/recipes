@@ -2,6 +2,7 @@
 
 **Servings:** 4 (690g each)
 **Per serving:** 711 cal | 72g protein | 24g fat | 87g carbs
+**Per 100g:** 103 cal | 10g protein | 3g fat | 13g carbs (~690g per serving)
 
 **Ingredients:**
 

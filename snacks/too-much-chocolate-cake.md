@@ -2,6 +2,7 @@
 
 **Servings:** 12
 **Per serving:** 675 cal | 5g protein | 41g fat | 77g carbs
+**Per 100g:** 422 cal | 3g protein | 26g fat | 48g carbs (~160g per slice)
 
 Devil's food cake loaded with pudding mix, sour cream, and chocolate chips, topped with pourable chocolate icing. Based on the award-winning Allrecipes recipe with Mom's tweaks.
 

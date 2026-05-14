@@ -2,6 +2,7 @@
 
 **Servings:** 12
 **Per serving:** 345 cal | 18g protein | 21g fat | 23g carbs
+**Per 100g:** 426 cal | 22g protein | 26g fat | 28g carbs (~81g per bar)
 
 **Ingredients:**
 

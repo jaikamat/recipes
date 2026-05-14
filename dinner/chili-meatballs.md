@@ -2,6 +2,7 @@
 
 **Servings:** 2 (about 6 meatballs each)
 **Per serving:** 417 cal | 45g protein | 25g fat | 5g carbs
+**Per 100g:** 181 cal | 20g protein | 11g fat | 2g carbs (~230g per serving)
 
 Spiced Indian-style meatballs with a crispy pan-fried crust.
 

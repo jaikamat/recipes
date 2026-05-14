@@ -2,6 +2,7 @@
 
 **Servings:** 6
 **Per serving:** 449 cal | 27g protein | 25g fat | 27g carbs
+**Per 100g:** 102 cal | 6g protein | 6g fat | 6g carbs (~440g per serving)
 
 A simple, hearty minestrone with kidney beans, zucchini, and Rao's marinara.
 

@@ -2,6 +2,7 @@
 
 **Servings:** 4
 **Per serving:** 452 cal | 30g protein | 20g fat | 85g carbs
+**Per 100g:** 129 cal | 9g protein | 6g fat | 24g carbs (~350g per serving)
 
 Andy Baraghani's creamy, bright, and spicy pasta — butter, lemon, serrano, and parmesan come together in minutes.
 

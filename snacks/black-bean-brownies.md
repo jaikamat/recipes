@@ -2,6 +2,7 @@
 
 **Servings:** 12
 **Per serving:** 151 cal | 4g protein | 5g fat | 28g carbs
+**Per 100g:** 216 cal | 6g protein | 7g fat | 40g carbs (~70g per brownie)
 
 Ultra-healthy, flour-free brownies based on Dr. Fuhrman's recipe, elevated with espresso powder and bloomed chia for better binding.
 

@@ -2,6 +2,7 @@
 
 **Servings:** 8
 **Per serving:** 778 cal | 28g protein | 30g fat | 94g carbs
+**Per 100g:** 169 cal | 6g protein | 7g fat | 20g carbs (~460g per serving)
 
 **Ingredients:**
 

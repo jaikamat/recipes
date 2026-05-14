@@ -2,6 +2,7 @@
 
 **Servings:** 8
 **Per serving:** 499 cal | 23g protein | 18g fat | 62g carbs
+**Per 100g:** 208 cal | 10g protein | 8g fat | 26g carbs (~240g per serving)
 
 Individual Souper Cube portions with Fairlife milk and whey for a serious protein boost.
 

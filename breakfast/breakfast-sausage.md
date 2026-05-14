@@ -2,6 +2,7 @@
 
 **Servings:** 6
 **Per serving:** 149 cal | 15g protein | 8g fat | 4g carbs
+**Per 100g:** 222 cal | 22g protein | 12g fat | 6g carbs (~67g per patty)
 
 **Ingredients:**
 

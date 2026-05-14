@@ -2,6 +2,7 @@
 
 **Servings:** 10 sticks
 **Per serving:** 110 cal | 7g protein | 6g fat | 7g carbs
+**Per 100g:** 200 cal | 13g protein | 11g fat | 13g carbs (~55g per stick)
 
 Almond-crusted baked tofu dipped in marinara — crispy, simple, and high protein.
 
