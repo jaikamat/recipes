@@ -13,7 +13,7 @@ _Turkey seasoning:_
 - 300g ground turkey (93/7 lean)
 - 1 tsp garam masala
 - 1 tsp ground coriander
-- 1/2 tsp ground cumin
+- 1/4 tsp ground cumin
 - 1/2 tsp salt
 - 1 tsp grated ginger
 - 2 cloves garlic, minced
@@ -27,6 +27,7 @@ _Biryani:_
 - 1 DEEP brand ready-to-cook biryani spice packet
 - 240ml (1 cup) Kirkland chicken bone broth (for sauce)
 - 100-150g chopped spinach (fresh or frozen, thawed and squeezed dry)
+- 1 small onion, finely diced
 - 1 TBSP oil
 - 1 TBSP ghee
 
@@ -45,10 +46,11 @@ _Optional garnish:_
 1. Mix ground turkey with garam masala, coriander, cumin, salt, ginger, garlic, and lemon juice. Let sit 15-20 minutes while the rice cooks
 2. Rinse basmati rice until water runs clear. Add rice and 465ml bone broth to the Zojirushi and cook on the white rice setting. Fluff and set aside
 3. Heat oil in a large heavy-bottomed pot over medium heat. Add seasoned turkey, break it up, and brown well with good color for 5-7 minutes
-4. Add the entire spice packet, bone broth, blended cottage cheese, and chopped spinach. Stir to combine and simmer on medium-low until a thick sauce coats the meat, about 5-8 minutes. Taste for salt
-5. Spread cooked rice evenly over the meat layer — do not mix. Drizzle ghee over the top and add garnishes if using
-6. Cover tightly, reduce to lowest heat, and cook 10 minutes until steam escapes the lid
-7. Remove from heat and rest covered for 5 minutes, then fold gently to combine the layers
+4. Add diced onion and a pinch of salt. Reduce heat to medium-low, cover, and sweat for 3-4 minutes until softened
+5. Add the entire spice packet, bone broth, blended cottage cheese, and chopped spinach. Stir to combine and simmer on medium-low until a thick sauce coats the meat, about 5-8 minutes. Taste for salt
+6. Spread cooked rice evenly over the meat layer — do not mix. Drizzle ghee over the top and add garnishes if using
+7. Cover tightly, reduce to lowest heat, and cook 10 minutes until steam escapes the lid
+8. Remove from heat and rest covered for 5 minutes, then fold gently to combine the layers
 
 **Freeze:** Cool completely, portion into airtight containers, and freeze for up to 3 months.
 
