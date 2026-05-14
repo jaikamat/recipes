@@ -1,7 +1,7 @@
 ### Boiled Cookies
 
 **Servings:** 36 cookies
-**Per serving:** 111 cal | 16g carbs | 2g protein | 5g fat
+**Per serving:** 111 cal | 2g protein | 5g fat | 16g carbs
 
 Classic no-bake chocolate peanut butter oat cookies — just boil, mix, and drop.
 

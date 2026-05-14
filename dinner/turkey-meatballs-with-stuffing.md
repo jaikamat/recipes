@@ -1,7 +1,7 @@
 ### Turkey Meatballs with Stuffing
 
 **Servings:** 30 meatballs
-**Per serving:** 62 cal | 2g carbs | 6g protein | 4g fat
+**Per serving:** 62 cal | 6g protein | 4g fat | 2g carbs
 
 **Ingredients:**
 

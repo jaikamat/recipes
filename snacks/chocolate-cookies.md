@@ -1,7 +1,7 @@
 ### Chocolate Cookies
 
 **Servings:** 10 cookies
-**Per serving:** 446 cal | 62g carbs | 5g protein | 22g fat
+**Per serving:** 446 cal | 5g protein | 22g fat | 62g carbs
 
 **Ingredients:**
 

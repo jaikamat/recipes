@@ -1,7 +1,7 @@
 ### One-Pan Spaghetti
 
 **Servings:** 4 (690g each)
-**Per serving:** 711 cal | 87g carbs | 72g protein | 24g fat
+**Per serving:** 711 cal | 72g protein | 24g fat | 87g carbs
 
 **Ingredients:**
 

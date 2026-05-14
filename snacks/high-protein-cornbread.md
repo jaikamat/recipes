@@ -1,7 +1,7 @@
 ### High-Protein Cornbread
 
 **Servings:** 8 wedges
-**Per serving:** 183 cal | 25g carbs | 8g protein | 5g fat
+**Per serving:** 183 cal | 8g protein | 5g fat | 25g carbs
 
 **Ingredients:**
 

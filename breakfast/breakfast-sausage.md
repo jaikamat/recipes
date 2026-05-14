@@ -1,7 +1,7 @@
 ### Breakfast Sausage
 
 **Servings:** 6
-**Per serving:** 149 cal | 4g carbs | 15g protein | 8g fat
+**Per serving:** 149 cal | 15g protein | 8g fat | 4g carbs
 
 **Ingredients:**
 

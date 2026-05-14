@@ -1,7 +1,7 @@
 ### Minestrone Soup
 
 **Servings:** 6
-**Per serving:** 449 cal | 27g carbs | 27g protein | 25g fat
+**Per serving:** 449 cal | 27g protein | 25g fat | 27g carbs
 
 A simple, hearty minestrone with kidney beans, zucchini, and Rao's marinara.
 

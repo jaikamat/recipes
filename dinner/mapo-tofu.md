@@ -1,7 +1,7 @@
 ### Mapo Tofu
 
 **Servings:** 2
-**Per serving:** 516 cal | 28g carbs | 32g protein | 30g fat
+**Per serving:** 516 cal | 32g protein | 30g fat | 28g carbs
 
 **Ingredients:**
 

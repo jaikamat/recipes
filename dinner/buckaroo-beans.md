@@ -1,7 +1,7 @@
 ### Buckaroo Beans
 
 **Servings:** 7
-**Per serving:** 260 cal | 42g carbs | 14g protein | 3g fat
+**Per serving:** 260 cal | 14g protein | 3g fat | 42g carbs
 
 **Ingredients:**
 

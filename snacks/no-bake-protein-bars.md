@@ -1,7 +1,7 @@
 ### No-Bake Protein Bars
 
 **Servings:** 12
-**Per serving:** 345 cal | 23g carbs | 18g protein | 21g fat
+**Per serving:** 345 cal | 18g protein | 21g fat | 23g carbs
 
 **Ingredients:**
 

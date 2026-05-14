@@ -1,7 +1,7 @@
 ### Ricotta Pancakes
 
 **Servings:** 4
-**Per serving:** 268 cal | 24g carbs | 12g protein | 13g fat
+**Per serving:** 268 cal | 12g protein | 13g fat | 24g carbs
 
 **Ingredients:**
 

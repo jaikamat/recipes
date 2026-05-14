@@ -1,7 +1,7 @@
 ### PR Style Basmati Rice
 
 **Servings:** 4 (200g each)
-**Per serving:** 323 cal | 59g carbs | 11g protein | 5g fat
+**Per serving:** 323 cal | 11g protein | 5g fat | 59g carbs
 
 **Ingredients:**
 

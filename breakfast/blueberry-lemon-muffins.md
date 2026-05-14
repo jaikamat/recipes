@@ -1,7 +1,7 @@
 ### Blueberry-Banana-Lemon Muffins
 
 **Servings:** 6
-**Per serving:** 283 cal | 44g carbs | 8g protein | 10g fat
+**Per serving:** 283 cal | 8g protein | 10g fat | 44g carbs
 
 **Ingredients:**
 

@@ -1,7 +1,7 @@
 ### Saffron Chai
 
 **Servings:** 2
-**Per serving:** 126 cal | 19g carbs | 4g protein | 4g fat
+**Per serving:** 126 cal | 4g protein | 4g fat | 19g carbs
 
 A spiced Assam chai with ginger paste, warm spices, and a touch of saffron.
 

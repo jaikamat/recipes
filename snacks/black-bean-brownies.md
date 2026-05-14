@@ -1,7 +1,7 @@
 ### Black Bean Brownies
 
 **Servings:** 12
-**Per serving:** 151 cal | 28g carbs | 4g protein | 5g fat
+**Per serving:** 151 cal | 4g protein | 5g fat | 28g carbs
 
 Ultra-healthy, flour-free brownies based on Dr. Fuhrman's recipe, elevated with espresso powder and bloomed chia for better binding.
 

@@ -1,7 +1,7 @@
 ### Too Much Chocolate Cake
 
 **Servings:** 12
-**Per serving:** 675 cal | 77g carbs | 5g protein | 41g fat
+**Per serving:** 675 cal | 5g protein | 41g fat | 77g carbs
 
 Devil's food cake loaded with pudding mix, sour cream, and chocolate chips, topped with pourable chocolate icing. Based on the award-winning Allrecipes recipe with Mom's tweaks.
 

@@ -1,7 +1,7 @@
 ### Butter Chicken Gravy
 
 **Servings:** 4
-**Per serving:** 229 cal | 18g carbs | 4g protein | 17g fat
+**Per serving:** 229 cal | 4g protein | 17g fat | 18g carbs
 
 A rich, creamy butter chicken gravy. Pair with chili chicken meatballs for a complete meal.
 

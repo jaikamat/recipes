@@ -1,7 +1,7 @@
 ### Easy White Chili
 
 **Servings:** 4
-**Per serving:** 400 cal | 32g carbs | 38g protein | 14g fat
+**Per serving:** 400 cal | 38g protein | 14g fat | 32g carbs
 
 A quick weeknight white chili using pantry staples and ground turkey.
 

@@ -1,7 +1,7 @@
 ### Apricot, Almond & Chickpea Tagine
 
 **Servings:** 2
-**Per serving:** 950 cal | 124g carbs | 28g protein | 38g fat
+**Per serving:** 950 cal | 28g protein | 38g fat | 124g carbs
 
 **Ingredients:**
 

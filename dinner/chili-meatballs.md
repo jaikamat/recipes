@@ -1,7 +1,7 @@
 ### Chili Meatballs
 
 **Servings:** 2 (about 6 meatballs each)
-**Per serving:** 417 cal | 5g carbs | 45g protein | 25g fat
+**Per serving:** 417 cal | 45g protein | 25g fat | 5g carbs
 
 Spiced Indian-style meatballs with a crispy pan-fried crust.
 

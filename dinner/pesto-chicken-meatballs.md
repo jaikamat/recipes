@@ -1,7 +1,7 @@
 ### Pesto Chicken Meatballs
 
 **Servings:** 14 meatballs
-**Per serving:** 80 cal | 4g carbs | 9g protein | 3g fat
+**Per serving:** 80 cal | 9g protein | 3g fat | 4g carbs
 
 **Ingredients:**
 

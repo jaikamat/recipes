@@ -1,7 +1,7 @@
 ### Crispy Marinara Baked Tofu
 
 **Servings:** 10 sticks
-**Per serving:** 110 cal | 7g carbs | 7g protein | 6g fat
+**Per serving:** 110 cal | 7g protein | 6g fat | 7g carbs
 
 Almond-crusted baked tofu dipped in marinara — crispy, simple, and high protein.
 

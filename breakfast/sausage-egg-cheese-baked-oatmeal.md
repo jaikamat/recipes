@@ -1,7 +1,7 @@
 ### Sausage, Egg, and Cheese Savory Baked Oatmeal
 
 **Servings:** 6
-**Per serving:** 577 cal | 39g carbs | 42g protein | 27g fat
+**Per serving:** 577 cal | 42g protein | 27g fat | 39g carbs
 
 A savory, high-protein baked oatmeal with homemade breakfast sausage, peppers, and cheddar.
 

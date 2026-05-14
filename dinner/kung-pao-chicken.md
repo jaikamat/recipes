@@ -2,7 +2,7 @@
 
 TODO: Evaluate this one once because Claude generated it, I haven't created it yet
 **Servings:** 4
-**Per serving:** 383 cal | 18g carbs | 31g protein | 20g fat
+**Per serving:** 383 cal | 31g protein | 20g fat | 18g carbs
 
 **Ingredients:**
 

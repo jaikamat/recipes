@@ -1,7 +1,7 @@
 ### Margherita Pizza
 
 **Servings:** 2
-**Per serving:** 649 cal | 80g carbs | 39g protein | 20g fat
+**Per serving:** 649 cal | 39g protein | 20g fat | 80g carbs
 
 A classic Neapolitan-style margherita with a 24-48 hour cold fermented dough for better flavor and texture.
 

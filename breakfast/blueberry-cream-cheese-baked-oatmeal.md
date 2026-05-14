@@ -1,7 +1,7 @@
 ### High-Protein Blueberry Cream Cheese Baked Oatmeal
 
 **Servings:** 8
-**Per serving:** 499 cal | 62g carbs | 23g protein | 18g fat
+**Per serving:** 499 cal | 23g protein | 18g fat | 62g carbs
 
 Individual Souper Cube portions with Fairlife milk and whey for a serious protein boost.
 

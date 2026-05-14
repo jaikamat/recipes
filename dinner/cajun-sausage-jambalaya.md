@@ -1,7 +1,7 @@
 ### All-Sausage Cajun Jambalaya with Tony's Instant Roux
 
 **Servings:** 8
-**Per serving:** 778 cal | 94g carbs | 28g protein | 30g fat
+**Per serving:** 778 cal | 28g protein | 30g fat | 94g carbs
 
 **Ingredients:**
 

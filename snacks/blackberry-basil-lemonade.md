@@ -1,7 +1,7 @@
 ### Blackberry Basil Lemonade
 
 **Servings:** 2
-**Per serving:** 135 cal | 34g carbs | 1g protein | 0g fat
+**Per serving:** 135 cal | 1g protein | 0g fat | 34g carbs
 
 Everything goes in the blender, then through a strainer. Adapted from the [Allrecipes Blackberry Lemonade](https://www.allrecipes.com/recipe/280577/homemade-blackberry-lemonade/).
 

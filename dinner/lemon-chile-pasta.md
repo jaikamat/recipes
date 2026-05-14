@@ -1,7 +1,7 @@
 ### Fresh Lemon and Chile Pasta
 
 **Servings:** 4
-**Per serving:** 452 cal | 85g carbs | 30g protein | 20g fat
+**Per serving:** 452 cal | 30g protein | 20g fat | 85g carbs
 
 Andy Baraghani's creamy, bright, and spicy pasta — butter, lemon, serrano, and parmesan come together in minutes.
 

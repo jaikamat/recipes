@@ -1,7 +1,7 @@
 ### Banana Oat Muffins
 
 **Servings:** 12 muffins
-**Per serving:** 172 cal | 24g carbs | 3g protein | 8g fat
+**Per serving:** 172 cal | 3g protein | 8g fat | 24g carbs
 
 **Ingredients:**
 

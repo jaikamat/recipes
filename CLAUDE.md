@@ -19,7 +19,7 @@ All recipes follow this Markdown format:
 ### Recipe Name
 
 **Servings:** N
-**Per serving:** Xcal | Xg carbs | Xg protein | Xg fat
+**Per serving:** Xcal | Xg protein | Xg fat | Xg carbs
 
 Optional 1-2 sentence description of the dish.
 

@@ -1,7 +1,7 @@
 ### Crispy Polenta Cakes
 
 **Servings:** 6
-**Per serving:** 319 cal | 25g carbs | 15g protein | 17g fat
+**Per serving:** 319 cal | 15g protein | 17g fat | 25g carbs
 
 **Ingredients:**
 

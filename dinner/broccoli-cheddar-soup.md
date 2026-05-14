@@ -1,8 +1,8 @@
 ### Broccoli Cheddar Soup
 
 **Servings:** 4
-**Per serving:** 520 cal | 22g carbs | 32g protein | 34g fat
-**Per 100g:** 100 cal | 4g carbs | 6g protein | 7g fat (~525g per serving)
+**Per serving:** 520 cal | 32g protein | 34g fat | 22g carbs
+**Per 100g:** 100 cal | 6g protein | 7g fat | 4g carbs (~525g per serving)
 
 **Ingredients:**
 

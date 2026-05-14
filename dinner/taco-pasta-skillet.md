@@ -1,7 +1,7 @@
 ### Taco Pasta Skillet
 
 **Servings:** 4
-**Per serving:** 720 cal | 50g carbs | 59g protein | 37g fat
+**Per serving:** 720 cal | 59g protein | 37g fat | 50g carbs
 
 **Ingredients:**
 

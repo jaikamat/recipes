@@ -1,7 +1,7 @@
 ### Sweet Potato Hash
 
 **Servings:** 6
-**Per serving:** 118 cal | 18g carbs | 2g protein | 5g fat
+**Per serving:** 118 cal | 2g protein | 5g fat | 18g carbs
 
 **Ingredients:**
 

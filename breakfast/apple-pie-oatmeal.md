@@ -1,7 +1,7 @@
 ### Apple Pie Oatmeal
 
 **Servings:** 4
-**Per serving:** 248 cal | 39g carbs | 3g protein | 10g fat
+**Per serving:** 248 cal | 3g protein | 10g fat | 39g carbs
 
 **Ingredients:**
 
