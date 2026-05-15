@@ -1,8 +1,8 @@
 ### High-Protein Blueberry Cream Cheese Baked Oatmeal
 
 **Servings:** 8
-**Per serving:** 499 cal | 23g protein | 18g fat | 62g carbs
-**Per 100g:** 208 cal | 10g protein | 8g fat | 26g carbs (~240g per serving)
+**Per serving:** 489 cal | 23g protein | 17g fat | 62g carbs
+**Per 100g:** 200 cal | 9g protein | 7g fat | 25g carbs (~244g per serving)
 
 Individual Souper Cube portions with Fairlife milk and whey for a serious protein boost.
 
@@ -12,7 +12,7 @@ _Oat mixture:_
 - 360g (4 cups) old-fashioned rolled oats
 - 960ml (4 cups) Fairlife 2% ultra-filtered milk
 - 2 scoops unflavored whey protein powder
-- 2 eggs
+- 4 egg whites
 - 55g (1/4 cup) brown sugar
 - 42g (3 TBSP) melted butter
 - 4 tsp bourbon (or vanilla extract)
@@ -29,7 +29,7 @@ _Cream cheese swirl:_
 **Instructions:**
 
 1. Whisk whey protein powder into Fairlife milk in a large bowl until fully dissolved with no clumps. This works best if the milk is at room temperature
-2. Add oats, brown sugar, baking powder, salt, eggs, melted butter, bourbon, and frozen blueberries to the milk mixture. Stir well to combine
+2. Add oats, brown sugar, baking powder, salt, egg whites, melted butter, bourbon, and frozen blueberries to the milk mixture. Stir well to combine
 3. Place 8 Souper Cube molds on a rimmed baking sheet for stability. Divide the oat mixture evenly among all 8 molds — they should be about 3/4 full. Let rest for 15 minutes to allow the oats to absorb the liquid
 4. Preheat oven to 350°F while the oats rest
 5. In the now-empty bowl, beat softened neufchatel, sugar, and egg whites with a whisk until completely smooth
@@ -41,4 +41,4 @@ _Cream cheese swirl:_
 
 **Reheat:** From frozen, microwave at 50% power for 2-3 minutes.
 
-**Notes:** Whisk the whey into the milk first before adding oats and eggs — adding dry whey directly to the full mixture causes gummy texture. Place the Souper Cube tray on a rimmed baking sheet before filling for safe oven transfer. No need to grease the molds.
+**Notes:** Whisk the whey into the milk first before adding oats and egg whites — adding dry whey directly to the full mixture causes gummy texture. Place the Souper Cube tray on a rimmed baking sheet before filling for safe oven transfer. No need to grease the molds.
