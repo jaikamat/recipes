@@ -1,12 +1,12 @@
 ### All-Sausage Cajun Jambalaya with Tony's Instant Roux
 
 **Servings:** 8
-**Per serving:** 778 cal | 28g protein | 30g fat | 94g carbs
-**Per 100g:** 169 cal | 6g protein | 7g fat | 20g carbs (~460g per serving)
+**Per serving:** 670 cal | 42g protein | 13g fat | 94g carbs
+**Per 100g:** 136 cal | 9g protein | 3g fat | 19g carbs (~490g per serving)
 
 **Ingredients:**
 
-- 1½-2 lbs smoked sausage or andouille, sliced diagonally ¼-⅜" thick
+- 1134g (2.5 lbs) Amylu paleo chicken andouille, sliced diagonally ¼-⅜" thick
 - 3 onions, diced ⅜"
 - 4 celery stalks, diced ⅜"
 - 3 poblano peppers, diced ⅜"
@@ -23,12 +23,11 @@
 
 1. Brown sausage: In large stockpot over medium-high heat, brown andouille in batches until fat renders and edges crisp. Remove and set aside
 2. Sauté trinity: In rendered fat, sauté onions and celery until nearly tender, about 5-7 minutes. Add poblano peppers and garlic, cook 1-2 minutes until fragrant and peppers start to soften
-3. Make Tony's roux: Over medium heat, whisk Tony's Instant Roux Mix with 2 cups cool broth/water. Bring to boil, stirring as it thickens. Remove from heat and continue stirring until well mixed (about 3 minutes)
-4. Build jambalaya: Return sausage to pot. Add roux mixture and remaining 4 cups broth. Add Cajun seasoning, salt, and pepper. Bring to boil
-5. Cook rice: Add rice and return to boil. Cover, reduce to bare simmer. Cook 10 minutes without lifting lid
-6. Turn rice: Working quickly, remove lid and add tomatoes and green onions. Turn rice once from bottom to top with spatula (2-3 scoops max). Don't over-mix
-7. Finish: Cover immediately and simmer 10-15 more minutes until rice is done
-8. Rest and serve: Remove from heat, let sit 2-3 minutes with lid on. Fluff with fork and serve. Pass hot sauce at table
+3. Build jambalaya: Add 6 cups broth and bring to a simmer. Whisk in Tony's Instant Roux Mix gradually, stirring constantly to avoid lumps. Simmer until thickened, about 3 minutes. Return sausage to pot. Add Cajun seasoning, salt, and pepper. Bring to boil
+4. Cook rice: Add rice and return to boil. Cover, reduce to bare simmer. Cook 10 minutes without lifting lid
+5. Turn rice: Working quickly, remove lid and add tomatoes and green onions. Turn rice once from bottom to top with spatula (2-3 scoops max). Don't over-mix
+6. Finish: Cover immediately and simmer 10-15 more minutes until rice is done
+7. Rest and serve: Remove from heat, let sit 2-3 minutes with lid on. Fluff with fork and serve. Pass hot sauce at table
 
 **Notes:**
 
