@@ -41,7 +41,7 @@ _Filling:_
 1. In a large bowl, whisk together flour, vital wheat gluten, salt, sugar, and yeast. Add oil and warm water, then mix until a shaggy dough forms
 2. Turn out onto a clean surface and knead for 10 minutes until smooth, elastic, and slightly tacky — the dough should bounce back when pressed. If lumpy, let rest 10 min covered, then knead 2–3 more
 3. Place dough in a lightly oiled bowl, cover, and let rise in a warm spot until doubled in size, about 1 hour
-4. While the dough rises, add all filling ingredients to a food processor. Pulse minimally — you want a coarse mix, not a paste, about 5–8 short pulses. Cover and chill in the fridge until ready to use, ideally 30+ min for the MSG and seasonings to dissolve and penetrate the meat
+4. While the dough rises, combine all filling ingredients in a large bowl and mix by hand until evenly incorporated — don't overwork it. Cover and chill in the fridge until ready to use, ideally 30+ min for the MSG and seasonings to dissolve and penetrate the meat
 5. Punch the risen dough down to release the air. Roll into a long log and divide into 21 equal pieces (~35g each). Cover with a damp towel and let bench rest for 10–15 minutes — this relaxes the gluten and makes rolling much easier
 6. Flatten each piece with your palm, then use a small rolling pin to roll into a 3–4 inch round with thinner edges and a slightly thicker center — this prevents the bottom from blowing out during steaming
 7. Place a heaping TBSP of filling in the center of a wrapper. Pleat traditionally, fold in half (half-moon), or gather edges to top and twist closed (money bag). Pleating is cosmetic — a tight seal is what matters. Use slightly damp hands, not floured, to maintain tack
