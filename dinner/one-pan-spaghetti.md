@@ -1,13 +1,13 @@
 ### One-Pan Spaghetti
 
 **Servings:** 4 (690g each)
-**Per serving:** 711 cal | 72g protein | 24g fat | 87g carbs
-**Per 100g:** 103 cal | 10g protein | 3g fat | 13g carbs (~690g per serving)
+**Per serving:** 575 cal | 74g protein | 24g fat | 84g carbs
+**Per 100g:** 83 cal | 11g protein | 3g fat | 12g carbs (~690g per serving)
 
 **Ingredients:**
 
 - 906g (2 lb) turkey italian sausage (bulk ground, casings removed)
-- 340g (12 oz) rotini or pasta of choice
+- 340g (12 oz) Carbe Diem spaghetti
 - 794g (28 oz) crushed tomatoes, canned
 - 794g (28 oz) chicken bone broth
 - 184g (6.5 oz) onion, diced

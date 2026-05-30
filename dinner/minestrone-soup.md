@@ -1,8 +1,8 @@
 ### Minestrone Soup
 
 **Servings:** 6
-**Per serving:** 449 cal | 27g protein | 25g fat | 27g carbs
-**Per 100g:** 102 cal | 6g protein | 6g fat | 6g carbs (~440g per serving)
+**Per serving:** 435 cal | 27g protein | 25g fat | 27g carbs
+**Per 100g:** 99 cal | 6g protein | 6g fat | 6g carbs (~440g per serving)
 
 A simple, hearty minestrone with kidney beans, zucchini, and Rao's marinara.
 
@@ -15,7 +15,7 @@ A simple, hearty minestrone with kidney beans, zucchini, and Rao's marinara.
 - 1 tsp Italian seasoning
 - 1/2 tsp dried basil
 - 1 carton (32 oz) Kirkland chicken bone broth
-- 56g (1/2 cup) small pasta (elbow or mini penne)
+- 56g (1/2 cup) Carbe Diem elbow pasta
 - 1 medium zucchini, chopped
 - Rao's Marinara (24 oz bottle)
 - 1 can (15 oz) kidney beans, drained

@@ -1,8 +1,8 @@
 ### Taco Pasta Skillet
 
 **Servings:** 4
-**Per serving:** 720 cal | 59g protein | 37g fat | 50g carbs
-**Per 100g:** 157 cal | 13g protein | 8g fat | 11g carbs (~460g per serving)
+**Per serving:** 630 cal | 60g protein | 37g fat | 48g carbs
+**Per 100g:** 137 cal | 13g protein | 8g fat | 10g carbs (~460g per serving)
 
 **Ingredients:**
 
@@ -12,7 +12,7 @@
 - 567g (1.25 lbs) ground turkey (taco seasoned) or lean ground beef + low-sodium taco seasoning packet
 - 480ml (2 cups) low-sodium chicken broth
 - 538g (19oz) can red enchilada sauce
-- 227g (8oz, about 2.5 cups) dried rotini pasta
+- 227g (8oz, about 2.5 cups) Carbe Diem elbow pasta
 - 226g (2 cups) shredded Kerrygold Reserve Cheddar
 - 60g (2 cups) spinach
 - Pinch of salt
