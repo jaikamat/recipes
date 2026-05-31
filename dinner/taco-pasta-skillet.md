@@ -9,7 +9,7 @@
 - 30ml (2 TBSP) extra virgin olive oil
 - 2 cloves garlic, minced
 - 1/2 small onion, diced
-- 567g (1.25 lbs) ground turkey (taco seasoned) or lean ground beef + low-sodium taco seasoning packet
+- 567g (1.25 lbs) ground turkey (taco seasoned) or ground turkey + low-sodium taco seasoning packet
 - 480ml (2 cups) low-sodium chicken broth
 - 538g (19oz) can red enchilada sauce
 - 227g (8oz, about 2.5 cups) Carbe Diem elbow pasta

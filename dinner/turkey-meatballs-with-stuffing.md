@@ -29,7 +29,7 @@ _Sauce (enough for half the batch):_
 1. Preheat to 425°F. Line a baking sheet with parchment paper or foil
 2. Combine stuffing and parmesan in a large bowl. Add tomato paste, eggs, olive oil, Italian seasoning, garlic powder, salt, and red pepper flakes. Mix until well blended
 3. Add ground turkey and mix gently just until combined — do not overwork. Form into ~30 walnut-sized meatballs (about 2 TBSP each), spacing at least 1 inch apart on the prepared sheets
-4. Bake, rotating sheet halfway through, until a thermometer reads 160°F in the center, about 15 minutes. Start checking at 15 mins, turkey dries out faster than beef or pork
+4. Bake, rotating sheet halfway through, until a thermometer reads 160°F in the center, about 15 minutes. Start checking at 15 mins, turkey dries out quickly
 5. Pour marinara into a large saucepan and add half the meatballs. Cover and simmer over medium-low heat, stirring occasionally, until heated through, about 5 minutes. Top with chopped basil
 
 **Freeze:** Freeze remaining meatballs on the baking sheet until solid, then transfer to a freezer bag for up to 3 months.
