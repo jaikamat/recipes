@@ -20,7 +20,7 @@ _Filling:_
 
 - 454g (1 lb) lean ground turkey (99/1)
 - 50g egg (1 large)
-- 100g small onion, roughly chopped
+- 30g dried shiitake mushrooms, rehydrated, squeezed dry, and finely diced
 - 80g scallions, roughly chopped
 - 5g fresh ginger, grated
 - 6g salt
@@ -38,19 +38,28 @@ _Filling:_
 
 **Instructions:**
 
-1. In a large bowl, whisk together flour, vital wheat gluten, salt, and yeast. Add oil and warm water, then mix by hand until a shaggy dough forms — no spoon, use your hands from the start
-2. Turn out onto a clean surface and knead for 10 minutes until smooth, elastic, and slightly tacky — the dough should bounce back when pressed. If lumpy, let rest 10 min covered, then knead 2–3 more
-3. Place dough in a lightly oiled bowl, cover, and let rise in a warm spot until doubled in size, about 1 hour
-4. While the dough rises, combine all filling ingredients including cornstarch in a large bowl and mix by hand until evenly incorporated — don't overwork it. Cover and refrigerate overnight so the MSG and seasonings dissolve into the meat and the cornstarch sets the filling into a cohesive mixture
-5. Punch the risen dough down to release the air. Divide into 16 equal pieces (~50g each). Roll each piece into a ball by pressing against the counter and pulling toward you to build surface tension. Cover and let rest 5 minutes
-6. Roll each ball out with a small rolling pin into a rough round, then cover and let rest another 15 minutes — this second rest relaxes the gluten enough to prevent splitting
-7. Re-roll each piece into a 3–4 inch round with thinner edges and a slightly thicker center — this prevents the bottom from blowing out during steaming
-8. Place a heaping TBSP of filling in the center of a wrapper. Pleat traditionally, fold in half (half-moon), or gather edges to top and twist closed (money bag). Pleating is cosmetic — a tight seal is what matters. Use slightly damp hands, not floured, to maintain tack
-9. Place each baozi on a square of parchment paper in the steamer basket, leaving at least 1.5 inches between buns (they expand ~40%). Cover and let proof until light and puffy, 20–30 minutes
-10. Fill the steamer pot with 540mL water (depending on the rice cooker model). Place 3 proofed buns in the steamer basket with 1.5" spacing. Steam for 30 minutes. Verify 165°F internal before eating
-11. When cycle finishes, leave lid closed for 3 minutes to prevent collapse from sudden temperature change. Lift lid and enjoy. Refill water before steaming the next batch
+_Night before — filling:_
 
-**Freeze:** After the second proof (step 9), flash freeze on a parchment-lined tray for 1–2 hours, then transfer to a freezer bag. Keeps 2–3 months.
+1. Soak dried shiitake in hot water for 30–45 minutes until soft. Squeeze out excess water and finely dice. Reserve soaking liquid for another use if desired
+2. Combine all filling ingredients including cornstarch and diced shiitake in a large bowl and mix by hand until evenly incorporated — don't overwork it. Cover and refrigerate overnight so the MSG and seasonings dissolve into the meat and the cornstarch sets the filling into a cohesive mixture
+
+_Day of — dough:_
+
+3. In a large bowl, whisk together flour, vital wheat gluten, salt, and yeast. Add oil and warm water, then mix by hand until a shaggy dough forms — no spoon, use your hands from the start
+4. Turn out onto a clean surface and knead for 10 minutes until smooth, elastic, and slightly tacky — the dough should bounce back when pressed. If lumpy, let rest 10 min covered, then knead 2–3 more
+5. Place dough in a lightly oiled bowl, cover, and let rise in a warm spot until doubled in size, about 1 hour
+6. Punch the risen dough down to release the air. Divide into 16 equal pieces (~50g each). Roll each piece into a ball by pressing against the counter and pulling toward you to build surface tension. Cover and let rest 5 minutes
+7. Roll each ball out with a small rolling pin into a rough round, then cover and let rest another 15 minutes — this second rest relaxes the gluten enough to prevent splitting
+8. Re-roll each piece into a 3–4 inch round with thinner edges and a slightly thicker center — this prevents the bottom from blowing out during steaming
+
+_Assembly and steaming:_
+
+9. Place a heaping TBSP of filling in the center of a wrapper. Pleat traditionally, fold in half (half-moon), or gather edges to top and twist closed (money bag). Pleating is cosmetic — a tight seal is what matters. Use slightly damp hands, not floured, to maintain tack
+10. Place each baozi on a square of parchment paper in the steamer basket, leaving at least 1.5 inches between buns (they expand ~40%). Cover and let proof until light and puffy, 20–30 minutes
+11. Fill the steamer pot with 540mL water (depending on the rice cooker model). Place 3 proofed buns in the steamer basket with 1.5" spacing. Steam for 30 minutes. Verify 165°F internal before eating
+12. When cycle finishes, leave lid closed for 3 minutes to prevent collapse from sudden temperature change. Lift lid and enjoy. Refill water before steaming the next batch
+
+**Freeze:** After the second proof (step 10), flash freeze on a parchment-lined tray for 1–2 hours, then transfer to a freezer bag. Keeps 2–3 months.
 
 **Reheat:** Steam directly from frozen for 35 minutes using a cold-water start to prevent cracking. Rest 3 min with lid closed after cycle ends.
 
