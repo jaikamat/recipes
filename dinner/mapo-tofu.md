@@ -14,7 +14,7 @@
 - 15g ginger, grated
 - 30g garlic, minced
 - 75g scallions, sliced (white and light green parts separated)
-- 10g Thai chiles, thinly sliced
+
 - 2g Szechuan peppercorns, ground
 - 30g Shaoxing wine
 - 300g (1.25 cups) chicken bone broth
@@ -29,7 +29,7 @@
 
 1. Heat ghee in a large pan or pot over medium-high heat. Add ground turkey and cook, breaking it up, until browned
 2. Add doubanjiang and gochugaru. Stir and cook for 1-2 minutes until fragrant and oil turns red
-3. Add ginger, garlic, white parts of scallions, and Thai chiles. Cook for another minute
+3. Add ginger, garlic, and white parts of scallions. Cook for another minute
 4. Pour in Shaoxing wine and let it sizzle for 30 seconds
 5. Add bone broth, soy sauce, sugar, salt, and MSG if using. Bring to a simmer
 6. Gently add tofu cubes. Simmer for 5-6 minutes, carefully stirring occasionally
