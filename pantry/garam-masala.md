@@ -11,8 +11,7 @@ A robust North Indian garam masala from grandmother's recipe. Heavy on coriander
 - 50g (1/2 cup) black peppercorns
 - 40g (4 TBSP) brown cardamom seeds
 - 40g cinnamon sticks, snapped into small pieces
-- 15g (1.5 TBSP) black cumin seeds
-- 15g (1.5 TBSP) white cumin seeds
+- 30g (3 TBSP) cumin seeds
 - 15g (2 TBSP) grated nutmeg
 - 15g (1.5 TBSP) black mace
 - 4 bay leaves

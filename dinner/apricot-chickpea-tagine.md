@@ -14,11 +14,10 @@
 - 2 zucchini, halved lengthwise and cut into 1/2-inch half-moons
 - 760g (26.8 oz) chickpeas, drained and rinsed
 - 200g (1 cup) basmati rice
-- 4 tsp vegetable bouillon paste (Better Than Bouillon)
+- 4 tsp chicken bouillon paste (Better Than Bouillon)
 - 120g (8 TBSP) sour cream
 - 2 TBSP Tunisian spice blend
 - 28g (1 oz) sliced almonds
-- 57g (2 oz) dried apricots, roughly chopped
 - 1 tsp hot sauce (optional)
 - 4 TBSP olive oil
 - 4 TBSP butter
@@ -36,8 +35,8 @@
 8. Pour 3/4 cup water and remaining bouillon into pan. Stir in chickpeas and bring to a low simmer. Cook until liquid is slightly reduced, 1-2 minutes
 9. Reduce heat to low and stir in 2 TBSP butter until melted. Season with salt and pepper
 10. Fluff rice with a fork and stir in remaining 2 TBSP butter. Season with salt and pepper
-11. Divide rice between plates and top with tagine, almonds, and apricots. Drizzle with lemon cream and chermoula. Add hot sauce if desired. Serve with lemon wedges on the side
+11. Divide rice between plates and top with tagine and almonds. Drizzle with lemon cream and chermoula. Add hot sauce if desired. Serve with lemon wedges on the side
 
-**Freeze:** Portion tagine and rice into containers. Top with chermoula before freezing. Do not add sour cream, almonds, or apricots until serving.
+**Freeze:** Portion tagine and rice into containers. Top with chermoula before freezing. Do not add sour cream or almonds until serving.
 
-**Reheat:** Microwave until heated through. Top with lemon cream, almonds, and apricots before serving.
+**Reheat:** Microwave until heated through. Top with lemon cream and almonds before serving.

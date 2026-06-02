@@ -12,7 +12,7 @@ _Dough:_
 - 190g 00 flour
 - 40g vital wheat gluten
 - 5g salt
-- 3g instant yeast
+- 3g active dry yeast
 - 170g water
 
 _Pizza Build (per pizza):_

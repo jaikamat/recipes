@@ -13,7 +13,7 @@ _Dough:_
 - 60g vital wheat gluten
 - 5g salt
 - 5g active dry yeast
-- 14g neutral oil or lard
+- 14g ghee
 - 275g warm water, 110°F
 
 _Filling:_

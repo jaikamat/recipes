@@ -11,17 +11,17 @@ Individual Souper Cube portions with Fairlife milk and whey for a serious protei
 _Oat mixture:_
 - 360g (4 cups) old-fashioned rolled oats
 - 960ml (4 cups) Fairlife 2% ultra-filtered milk
-- 2 scoops unflavored whey protein powder
+- 2 scoops vanilla whey protein powder
 - 4 egg whites
 - 55g (1/4 cup) brown sugar
 - 42g (3 TBSP) melted butter
-- 4 tsp bourbon (or vanilla extract)
+- 4 tsp vanilla extract
 - 1.5 tsp baking powder
 - 1 tsp salt
 - 140g (1 cup) frozen wild blueberries
 
 _Cream cheese swirl:_
-- 226g (8 oz) neufchatel, softened
+- 226g (8 oz) light cream cheese, softened
 - 60g (1/3 cup) granulated sugar
 - 2 egg whites
 - 120g (1/2 cup) blueberry preserves

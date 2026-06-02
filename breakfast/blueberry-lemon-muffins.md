@@ -14,7 +14,7 @@
 - ¼ cup honey (85g)
 - 2 tsp baking powder (10g)
 - Zest and juice of half a lemon
-- 1¼ cup whole wheat flour (150g)
+- 1¼ cup all purpose flour (150g)
 
 **Instructions:**
 

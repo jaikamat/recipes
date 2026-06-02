@@ -17,7 +17,7 @@ Spiced Indian-style meatballs with a crispy pan-fried crust.
 - 1 tsp coriander powder
 - 1 tsp cumin seeds
 - 1/2 tsp lemon juice
-- 1 green chili, finely chopped
+- 1/4 serrano pepper, finely chopped
 - 60g (1/4 cup) onion, finely chopped
 - 1 TBSP cilantro, chopped
 - 1/2 tsp oil (for the mixture)
@@ -26,7 +26,7 @@ Spiced Indian-style meatballs with a crispy pan-fried crust.
 **Instructions:**
 
 1. In a large bowl, combine ground turkey, cornstarch, salt, ginger paste, and garlic paste. Mix well until the meat becomes slightly tacky
-2. Add garam masala, coriander powder, cumin seeds, lemon juice, green chilis, onion, cilantro, and 1 tsp oil. Mix again until evenly combined
+2. Add garam masala, coriander powder, cumin seeds, lemon juice, serrano, onion, cilantro, and 1 tsp oil. Mix again until evenly combined
 3. Form into 12 meatballs, about 50g per ball
 4. Heat oil in a cast iron skillet over medium heat until shimmering
 5. Working in batches, add meatballs and cook without moving for 3-4 minutes until a brown crust forms on the bottom
@@ -37,5 +37,3 @@ Spiced Indian-style meatballs with a crispy pan-fried crust.
 **Reheat:** Oven at 375°F for 10-12 minutes from frozen, or 6-8 minutes from refrigerated.
 
 **Storage:** Refrigerate in an airtight container for up to 4 days.
-
-**Notes:** Malt vinegar can substitute for lemon juice if preferred. Adjust green chilis to taste — 2 gives moderate heat.

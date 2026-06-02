@@ -10,7 +10,7 @@
 - 30-40g unflavored whey protein powder
 - 360ml (~1.5 cups) whole milk, adjust for consistency
 - 1 large egg
-- 1 TBSP neutral oil, plus 1-2 tsp for skillet
+- 1 TBSP olive oil, plus 1-2 tsp for skillet
 
 **Instructions:**
 

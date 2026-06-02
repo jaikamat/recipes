@@ -14,7 +14,7 @@
 - 1 large egg
 - 1/2 tsp Worcestershire sauce
 - 1g (1/4 tsp) kosher salt
-- 1 TBSP neutral oil, for pan frying
+- 1 TBSP olive oil, for pan frying
 
 **Instructions:**
 

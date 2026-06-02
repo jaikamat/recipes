@@ -12,10 +12,9 @@
 - 3 poblano peppers, diced ⅜"
 - 6 cloves garlic, minced
 - 3 green onions, sliced ⅜-½"
-- 2 tomatoes, small dice (optional)
-- 1 cup Tony Chachere's Instant Roux Mix (powder, unmixed)
+- 1 cup Tony Chachere's Instant Roux Mix (144g) (powder, unmixed)
 - 6 cups Kirkland chicken bone broth (or water)
-- 4 cups long-grain rice
+- 4 cups basmati rice
 - 1-2 TBSP Cajun seasoning (start low since Tony's is salty)
 - Salt and pepper to taste
 
@@ -25,7 +24,7 @@
 2. Sauté trinity: In rendered fat, sauté onions and celery until nearly tender, about 5-7 minutes. Add poblano peppers and garlic, cook 1-2 minutes until fragrant and peppers start to soften
 3. Build jambalaya: Add 6 cups broth and bring to a simmer. Whisk in Tony's Instant Roux Mix gradually, stirring constantly to avoid lumps. Simmer until thickened, about 3 minutes. Return sausage to pot. Add Cajun seasoning, salt, and pepper. Bring to boil
 4. Cook rice: Add rice and return to boil. Cover, reduce to bare simmer. Cook 10 minutes without lifting lid
-5. Turn rice: Working quickly, remove lid and add tomatoes and green onions. Turn rice once from bottom to top with spatula (2-3 scoops max). Don't over-mix
+5. Turn rice: Working quickly, remove lid and add green onions. Turn rice once from bottom to top with spatula (2-3 scoops max). Don't over-mix
 6. Finish: Cover immediately and simmer 10-15 more minutes until rice is done
 7. Rest and serve: Remove from heat, let sit 2-3 minutes with lid on. Fluff with fork and serve. Pass hot sauce at table
 

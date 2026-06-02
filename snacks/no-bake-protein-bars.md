@@ -8,12 +8,12 @@
 
 - 100g medjool dates, roughly chopped
 - 250g crunchy peanut butter
-- 125g whey/casein blend (unflavored whey + vanilla casein)
+- 125g vanilla whey powder
 - 100g ground almonds (or almond flour)
 - 75g chia seeds, milled
 - 2 TBSP maple syrup
 - ~150ml water
-- 150g dark chocolate (80%), roughly chopped
+- 150g chocolate chips, roughly chopped
 
 _Optional toppings: chopped pistachios, dried goji berries, coconut flakes, cacao nibs_
 

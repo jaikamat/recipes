@@ -16,7 +16,7 @@
 - 133g (2/3 cup) granulated sugar
 - 1 large egg
 - 2 tsp pure vanilla extract
-- 305g (2 cups) semisweet or bittersweet chocolate discs (or 340g/2 cups chocolate chips)
+- 340g/2 cups chocolate chips
 
 **Instructions:**
 

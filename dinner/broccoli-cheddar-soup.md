@@ -13,7 +13,7 @@
 - 1/2 tsp sea salt
 - Freshly ground black pepper
 - 3 cloves garlic, chopped
-- 1/4 cup powdered roux mix (or 1/4 cup flour)
+- 1/4 cup (36g) powdered roux mix (or 1/4 cup flour)
 - 1 cup whole milk
 - 3 cups chicken bone broth
 - 3 cups chopped broccoli florets

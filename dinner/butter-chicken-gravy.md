@@ -18,7 +18,7 @@ A rich, creamy butter chicken gravy. Pair with chili chicken meatballs for a com
 - 1 tsp kasoori methi, plus extra for garnish
 - 2.5 TBSP butter, divided
 - 3 TBSP Lactaid milk
-- 2 TBSP malt vinegar (or 1.5 TBSP white vinegar)
+- 1.5 TBSP white vinegar
 - Salt to taste
 - Oil for cooking
 
