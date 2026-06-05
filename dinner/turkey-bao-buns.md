@@ -9,12 +9,12 @@ Pillowy steamed Chinese buns with lean turkey filling. Boosted with vital wheat 
 
 _Dough:_
 
-- 440g all-purpose flour
+- 440g 00 flour
 - 60g vital wheat gluten
 - 5g salt
 - 5g active dry yeast
 - 14g ghee
-- 275g warm water, 110°F
+- 265g warm water, 110°F
 
 _Filling:_
 
@@ -34,14 +34,13 @@ _Filling:_
 - 15g Shaoxing wine
 - 1g Chinese five-spice powder
 - 14g sesame oil
-- 15g cornstarch
 
 **Instructions:**
 
 _Night before — filling:_
 
 1. Soak dried shiitake in hot water for 30–45 minutes until soft. Squeeze out excess water and finely dice. Reserve soaking liquid for another use if desired
-2. Combine all filling ingredients including cornstarch and diced shiitake in a large bowl and mix by hand until evenly incorporated — don't overwork it. Cover and refrigerate overnight so the MSG and seasonings dissolve into the meat and the cornstarch sets the filling into a cohesive mixture
+2. Combine all filling ingredients and diced shiitake in a large bowl and mix by hand until evenly incorporated — don't overwork it. Cover and refrigerate overnight so the MSG and seasonings dissolve into the meat and the rehydrated mushrooms bind the filling into a cohesive mixture
 
 _Day of — dough:_
 
