@@ -8,7 +8,7 @@
 
 - 100g medjool dates, roughly chopped
 - 250g crunchy peanut butter
-- 125g vanilla whey powder
+- 125g vanilla whey protein
 - 100g ground almonds (or almond flour)
 - 75g chia seeds, milled
 - 2 TBSP maple syrup

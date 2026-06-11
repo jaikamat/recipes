@@ -13,7 +13,7 @@ A spiced Assam chai with ginger paste, warm spices, and a touch of saffron.
 - 1 cinnamon stick
 - 4 whole cloves
 - 1/2 tsp ground cardamom
-- 1 pinch ground black pepper
+- 1 pinch black pepper, ground
 - 2 saffron strands
 - 4 tsp Assam tea
 - 240ml (1 cup) whole milk

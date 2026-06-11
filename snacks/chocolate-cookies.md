@@ -6,17 +6,17 @@
 
 **Ingredients:**
 
-- 145g (1 cup) all-purpose flour
-- 75g (3/4 cup) Dutch-process cocoa powder
-- 3/4 tsp kosher salt
+- 145g (1 cup) 00 flour
+- 75g (3/4 cup) dutch process cocoa powder
+- 3/4 tsp sea salt
 - 1/2 tsp baking powder
 - 1/2 tsp baking soda
-- 141g (10 TBSP) unsalted butter, at room temperature
-- 150g (3/4 cup) dark brown sugar
+- 141g (10 TBSP) butter, at room temperature
+- 150g (3/4 cup) brown sugar
 - 133g (2/3 cup) granulated sugar
-- 1 large egg
-- 2 tsp pure vanilla extract
-- 340g/2 cups chocolate chips
+- 1 egg
+- 2 tsp vanilla extract
+- 340g chocolate chips
 
 **Instructions:**
 

@@ -11,18 +11,18 @@
 - 125g ground turkey (93/7)
 - 40g doubanjiang (fermented bean & chile paste)
 - 15g gochugaru chile powder
-- 15g ginger, grated
-- 30g garlic, minced
+- 15g ginger paste
+- 30g garlic paste
 - 75g scallions, sliced (white and light green parts separated)
 
 - 2g Szechuan peppercorns, ground
 - 30g Shaoxing wine
-- 300g (1.25 cups) chicken bone broth
+- 300g (1.25 cups) Kirkland chicken bone broth
 - 10g soy sauce
-- 5g sugar
-- 3g salt
+- 5g granulated sugar
+- 3g sea salt
 - 1g MSG
-- 5g cornstarch mixed with 20g water
+- 5g cornstarch, mixed with 20g water
 - 5g sesame oil
 
 **Instructions:**

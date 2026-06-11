@@ -7,7 +7,7 @@
 **Ingredients:**
 
 - 448g (1 lb) 90% lean ground pork
-- 6g salt
+- 6g sea salt
 - 2g MSG
 - 2g black pepper
 - 1.5g sage
@@ -15,7 +15,7 @@
 - 1g garlic powder
 - 1g onion powder
 - 0.5g nutmeg
-- 2.5g corn starch
+- 2.5g cornstarch
 - 20g brown sugar
 
 **Instructions:**

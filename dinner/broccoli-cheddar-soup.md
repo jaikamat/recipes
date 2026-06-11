@@ -6,20 +6,20 @@
 
 **Ingredients:**
 
-- 4 TBSP unsalted butter
-- 1 medium yellow onion, chopped
+- 4 TBSP butter
+- 1 onion, chopped
 - 1 large carrot, chopped
 - 2 stalks celery, chopped
 - 1/2 tsp sea salt
-- Freshly ground black pepper
-- 3 cloves garlic, chopped
-- 1/4 cup (36g) powdered roux mix (or 1/4 cup flour)
+- Black pepper to taste
+- 15g garlic paste
+- 1/4 cup (36g) powdered roux mix (or 1/4 cup 00 flour)
 - 1 cup whole milk
-- 3 cups chicken bone broth
+- 3 cups Kirkland chicken bone broth
 - 3 cups chopped broccoli florets
 - 1/2 tsp Dijon mustard
-- 226g (8 oz) shredded cheddar cheese
-- 226g (1 cup) 2% cottage cheese
+- 226g (8 oz) cheddar
+- 226g (1 cup) 0% cottage cheese
 - Homemade croutons for serving (optional)
 
 **Instructions:**
@@ -28,7 +28,7 @@
 2. While vegetables cook, mix 1/2c water with the roux mix. Heat the powdered roux mix in a microwave-safe bowl for 1 minute or until thickened
 3. Add milk and broth to the pot. Whisk in the heated roux mix until smooth and fully incorporated
 4. Add broccoli and mustard and stir to combine. Simmer for 15-20 minutes until broccoli is tender
-5. Gradually add cheddar cheese, stirring after each addition, until melted. Add cottage cheese
+5. Shred the cheddar, then add it gradually, stirring after each addition, until melted. Add cottage cheese
 6. Use an immersion blender to blend until completely smooth. Season to taste and serve with croutons if desired
 
 **Freeze:** In 2-cup portions after cooling. Croutons should be added fresh when serving.

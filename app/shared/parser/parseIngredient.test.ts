@@ -148,6 +148,79 @@ describe('parseIngredient — real corpus shapes', () => {
       name: 'salt',
     });
   });
+
+  test('comma inside a parenthetical does not split the name', () => {
+    expect(parseIngredient('8g dark soy sauce (optional, for color)')).toMatchObject({
+      parsed: true,
+      quantity: { value: 8 },
+      unit: 'g',
+      name: 'dark soy sauce',
+      note: '(optional, for color)',
+    });
+  });
+
+  test('leading parenthetical with comma stays whole, name survives', () => {
+    expect(
+      parseIngredient('227g (8oz, about 2.5 cups) Carbe Diem elbow pasta'),
+    ).toMatchObject({
+      parsed: true,
+      quantity: { value: 227 },
+      unit: 'g',
+      name: 'carbe diem elbow pasta',
+      note: '(8oz, about 2.5 cups)',
+    });
+  });
+
+  test('non-measure leading parenthetical moves to the note', () => {
+    expect(parseIngredient('200g (1 large) onion, coarsely chopped')).toMatchObject({
+      parsed: true,
+      quantity: { value: 200 },
+      unit: 'g',
+      name: 'onion',
+      note: '(1 large), coarsely chopped',
+    });
+  });
+
+  test('approximate parenthetical measure parses as the alternate', () => {
+    expect(
+      parseIngredient('465ml (~2 cups) Kirkland chicken bone broth (for rice)'),
+    ).toMatchObject({
+      parsed: true,
+      quantity: { value: 465 },
+      unit: 'ml',
+      altQuantity: { value: 2, unit: 'cup' },
+      name: 'kirkland chicken bone broth',
+      note: '(for rice)',
+    });
+  });
+
+  test('trailing parenthetical containing commas becomes the note', () => {
+    expect(
+      parseIngredient(
+        '3 cups water (For creamier: add 6 cups water, or sub ½ the water with milk)',
+      ),
+    ).toMatchObject({
+      parsed: true,
+      unit: 'cup',
+      name: 'water',
+      note: '(For creamier: add 6 cups water, or sub ½ the water with milk)',
+    });
+  });
+
+  test('scoops and bags are count units, "of" is absorbed', () => {
+    expect(parseIngredient('2 scoops vanilla whey protein')).toMatchObject({
+      parsed: true,
+      quantity: { value: 2 },
+      unit: 'scoop',
+      name: 'vanilla whey protein',
+    });
+    expect(parseIngredient('1 bag of spinach')).toMatchObject({
+      parsed: true,
+      quantity: { value: 1 },
+      unit: 'bag',
+      name: 'spinach',
+    });
+  });
 });
 
 describe('parseIngredient — unparsed passthrough', () => {

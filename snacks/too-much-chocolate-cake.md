@@ -14,8 +14,8 @@ _Cake:_
 - 230g (1 cup) sour cream
 - 218ml (1 cup) vegetable oil
 - 180ml (3/4 cup) warm water
-- 3 large eggs
-- 336g (2 cups) semisweet chocolate chips
+- 3 eggs
+- 336g (2 cups) chocolate chips
 
 _Topping:_
 - 1 can (16 oz) chocolate icing

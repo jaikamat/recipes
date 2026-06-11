@@ -11,15 +11,15 @@ Ultra-healthy, flour-free brownies based on Dr. Fuhrman's recipe, elevated with 
 - 425g (15 oz) can no-salt-added black beans, rinsed and drained
 - 200g (10 pitted) medjool dates
 - 90g (1 pouch) unsweetened applesauce
-- 64g (3/4 cup) natural non-alkalized cocoa powder
+- 64g (3/4 cup) dutch process cocoa powder
 - 32g (2 TBSP) raw almond butter
 - 14g (2 TBSP) chia seeds, bloomed in 3 TBSP hot water for 5 minutes
 - 1 tsp espresso powder or 1/2 tsp ground coffee
 - 1 tsp baking powder
 - 1 tsp baking soda
 - 1 tsp vanilla extract
-- 84g (1/2 cup) semisweet chocolate chips
-- 1/2 tsp flaky salt, plus more for topping
+- 84g (1/2 cup) chocolate chips
+- 1/2 tsp sea salt, plus more for topping
 
 **Instructions:**
 
@@ -27,7 +27,7 @@ Ultra-healthy, flour-free brownies based on Dr. Fuhrman's recipe, elevated with 
 2. Toast cocoa powder in a dry pan over medium heat for 1-2 minutes until fragrant
 3. Preheat oven to 325°F and line a baking pan with parchment paper
 4. Place all ingredients including bloomed chia in a food processor and blend until smooth. Fold in chocolate chips. A food processor works better than a blender — if using a blender, add 60-120ml (1/4-1/2 cup) unsweetened milk to help it process
-5. Pour batter into the prepared pan and sprinkle lightly with flaky salt
+5. Pour batter into the prepared pan and sprinkle lightly with sea salt
 6. Bake for 28-30 minutes — pull when the edges are set but the center still looks slightly underdone. They will firm up as they cool
 7. Cool completely in the pan, then refrigerate overnight before cutting into 12 squares
 

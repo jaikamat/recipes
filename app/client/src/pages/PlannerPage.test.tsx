@@ -53,11 +53,14 @@ describe('PlannerPage', () => {
 
     renderWithRecipes(<PlannerPage />, [makeRecipe()]);
 
-    expect(await screen.findByText('Test Recipe')).toBeInTheDocument();
-    // Pruning happens in an effect after the collection loads.
-    await waitFor(() =>
-      expect(screen.queryByText(/renamed-away/)).not.toBeInTheDocument(),
-    );
+    // Pruning happens in an effect after the collection loads, and the
+    // resulting re-render replaces the entry rows (their array indices
+    // shift). Query fresh inside one waitFor for the settled final state —
+    // holding a node across that re-render races against its replacement.
+    await waitFor(() => {
+      expect(screen.queryByText(/renamed-away/)).not.toBeInTheDocument();
+      expect(screen.getByText('Test Recipe')).toBeInTheDocument();
+    });
     // Only the surviving entry counts: 1 × 383.
     expect(screen.getByText('383 cal')).toBeInTheDocument();
   });

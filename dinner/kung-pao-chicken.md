@@ -20,7 +20,7 @@ _Sauce:_
 - 8g dark soy sauce (optional, for color)
 - 30g Chinese black vinegar
 - 15g Shaoxing wine
-- 25g sugar
+- 25g granulated sugar
 - 45g water
 - 5g cornstarch
 - 5g sesame oil
@@ -30,8 +30,8 @@ _Stir-fry:_
 - 30g ghee (high smoke point for stir-frying)
 - 8-10 dried red chiles, snipped and seeds shaken out
 - 2g Szechuan peppercorns
-- 10g garlic, minced
-- 10g ginger, minced
+- 10g garlic paste
+- 10g ginger paste
 - 75g scallions, cut into 1-inch pieces (white and green separated)
 - 75g roasted peanuts
 

@@ -11,7 +11,7 @@ _Dough:_
 
 - 440g 00 flour
 - 60g vital wheat gluten
-- 5g salt
+- 5g sea salt
 - 5g active dry yeast
 - 14g ghee
 - 265g warm water, 110°F
@@ -19,15 +19,15 @@ _Dough:_
 _Filling:_
 
 - 454g (1 lb) lean ground turkey (99/1)
-- 50g egg (1 large)
+- 1 egg (50g)
 - 30g dried shiitake mushrooms, rehydrated, squeezed dry, and finely diced
 - 80g scallions, roughly chopped
-- 5g fresh ginger, grated
-- 6g salt
+- 5g ginger paste
+- 6g sea salt
 - 1g black pepper, ground
 - 1g white pepper, ground
 - 5g MSG
-- 2g sugar
+- 2g granulated sugar
 - 30g soy sauce
 - 15g dark soy sauce
 - 18g oyster sauce

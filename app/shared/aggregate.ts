@@ -62,9 +62,11 @@ interface Bucket {
 }
 
 /**
- * Pick the quantity/unit to aggregate with. Mass is preferred: for
- * "½ cup yogurt (120g)" the gram measure is the more useful one to shop
- * with, so a parseable mass alternate wins over a volume/count primary.
+ * Pick the quantity/unit to aggregate with. A parseable mass alternate
+ * wins over a *volume* primary — for "½ cup yogurt (120g)" the gram
+ * measure is the more useful one to shop with. A *count* primary is kept
+ * as-is ("1 egg (50g)" shops as 1 egg, not 50g), so counted items merge
+ * with other counted lines.
  */
 function effectiveMeasure(ing: Ingredient): {
   value: number;
@@ -77,10 +79,23 @@ function effectiveMeasure(ing: Ingredient): {
     unit: ing.unit ?? ('count' as CanonicalUnit),
   };
   const alt = ing.altQuantity;
-  if (alt && dimensionOf(alt.unit) === 'mass' && dimensionOf(primary.unit) !== 'mass') {
+  if (alt && dimensionOf(alt.unit) === 'mass' && dimensionOf(primary.unit) === 'volume') {
     return { value: alt.value, max: alt.value, unit: alt.unit };
   }
   return primary;
+}
+
+/**
+ * Aggregation-key form of a name: simple trailing-s plurals fold so
+ * "2 eggs" merges with "1 egg" and "3 onions" with "1 onion". Conservative
+ * on purpose — "ss" endings (molasses) are left alone, and the fold only
+ * affects the key, never the displayed label.
+ */
+function keyName(name: string): string {
+  if (name.length > 3 && name.endsWith('s') && !name.endsWith('ss')) {
+    return name.slice(0, -1);
+  }
+  return name;
 }
 
 /** True when a value sits (almost) exactly on quarter precision. */
@@ -153,7 +168,7 @@ export function aggregate(selections: Selection[]): AggregatedItem[] {
 
         const measure = effectiveMeasure(ing);
         const dimension = dimensionOf(measure.unit);
-        const key = `${ing.name}|${dimension}`;
+        const key = `${keyName(ing.name)}|${dimension}`;
         let bucket = buckets.get(key);
         if (!bucket) {
           bucket = {

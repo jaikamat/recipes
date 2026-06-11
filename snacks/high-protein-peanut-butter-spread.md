@@ -11,7 +11,7 @@ A quick, high-protein peanut butter spread with a fraction of the fat of regular
 - 10g vanilla whey protein
 - 6g erythritol
 - 2 TBSP water
-- Pinch of salt
+- Pinch of sea salt
 
 **Instructions:**
 

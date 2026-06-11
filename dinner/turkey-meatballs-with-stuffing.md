@@ -10,19 +10,19 @@ _Meatballs:_
 
 - 680g (1.5 lbs) ground turkey (93/7)
 - 1.5 cups leftover bread stuffing (pulse in food processor if chunky)
-- 56g (2 oz) parmesan cheese, grated
+- 56g (2 oz) parmesan, grated
 - 48g (3 TBSP) tomato paste
-- 2 large eggs
+- 2 eggs
 - 20g olive oil
 - 2 1/4 tsp Italian seasoning
 - 3/4 tsp garlic powder
-- 1/2 tsp kosher salt
+- 1/2 tsp sea salt
 - 1-2 pinches red pepper flakes (optional)
 
 _Sauce (enough for half the batch):_
 
 - 680g (24 oz) jar marinara sauce
-- 1/4 cup fresh basil leaves
+- 1/4 cup basil leaves
 
 **Instructions:**
 

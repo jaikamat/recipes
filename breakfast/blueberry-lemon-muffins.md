@@ -9,12 +9,12 @@
 - 2 bananas (200g)
 - 2 eggs (100g)
 - ½ cup yogurt (120g)
-- 4 TBSP melted butter (57g)
+- 57g (4 TBSP) butter, melted
 - ¼ cup coconut sugar (45g)
 - ¼ cup honey (85g)
 - 2 tsp baking powder (10g)
 - Zest and juice of half a lemon
-- 1¼ cup all purpose flour (150g)
+- 150g (1¼ cup) 00 flour
 
 **Instructions:**
 

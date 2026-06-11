@@ -13,16 +13,16 @@ _Sausage:_
 - 1 TBSP oil
 
 _Oatmeal:_
-- 240g (3 cups) old-fashioned oats
+- 240g (3 cups) rolled oats
 - 40g (1/2 cup) oat flour
 - 6 eggs
 - 480ml (2 cups) Fairlife 2% ultra-filtered milk
-- 226g (1 cup) low-fat cottage cheese
-- 113g (1 cup) shredded cheddar cheese
+- 226g (1 cup) 0% cottage cheese
+- 113g (1 cup) cheddar
 - 1 tsp baking powder
-- 1/2 tsp salt
-- 1 medium poblano pepper, diced
-- 1 small onion, diced
+- 1/2 tsp sea salt
+- 1 poblano pepper, diced
+- 1 onion, diced
 - 1 TBSP oil
 
 **Instructions:**
@@ -32,7 +32,7 @@ _Oatmeal:_
 3. In the same skillet, add oil and sauté diced onion and poblano pepper until lightly colored
 4. Preheat oven to 375°F
 5. Beat eggs in a large bowl and combine with milk and cottage cheese
-6. Mix in oats, oat flour, baking powder, salt, cooked sausage, sautéed peppers and onion, and cheddar cheese
+6. Mix in oats, oat flour, baking powder, salt, cooked sausage, sautéed peppers and onion, and shredded cheddar
 7. Spread mixture evenly in a greased 13x9" pan
 8. Bake for 40-45 minutes until set in the center
 9. Let cool slightly, then cut into 6 equal portions

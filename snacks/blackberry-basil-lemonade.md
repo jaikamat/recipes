@@ -11,7 +11,7 @@ Everything goes in the blender, then through a strainer. Adapted from the [Allre
 - 150g (1 cup) fresh blackberries
 - 50g (1/4 cup) granulated sugar
 - 1 lemon, juiced (~45ml)
-- 6-8 fresh basil leaves (picked from stems)
+- 6-8 basil leaves (picked from stems)
 - 360ml (1.5 cups) cold water
 
 **Instructions:**

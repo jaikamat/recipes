@@ -7,19 +7,19 @@
 **Ingredients:**
 
 - 453g (1 lb) boneless skinless chicken breast, cut into chunks
-- 60g plain bread crumbs
+- 60g breadcrumbs
 - 55g basil pesto sauce
-- 10g (3-4 cloves) fresh garlic, minced
-- 10g grated parmesan
-- 1 large egg
+- 10g garlic paste
+- 10g parmesan
+- 1 egg
 - 1/2 tsp Worcestershire sauce
-- 1g (1/4 tsp) kosher salt
+- 1g (1/4 tsp) sea salt
 - 1 TBSP olive oil, for pan frying
 
 **Instructions:**
 
 1. Add chicken to a food processor and blend until ground
-2. Add pesto, parmesan, garlic, bread crumbs, Worcestershire, egg and salt. Pulse until just combined, scraping down sides as needed
+2. Add pesto, grated parmesan, garlic paste, breadcrumbs, Worcestershire, egg and salt. Pulse until just combined, scraping down sides as needed
 3. Form mixture into 14 meatballs, roughly golf ball sized
 4. Heat oil in a cast iron skillet over medium heat until shimmering
 5. Add meatballs and cook without moving for 3-4 minutes until a brown crust forms on the bottom

@@ -33,6 +33,12 @@ const UNIT_INFO: Record<CanonicalUnit, UnitInfo> = {
   pinch: { dimension: 'count', toBase: 1 },
   clove: { dimension: 'count', toBase: 1 },
   can: { dimension: 'count', toBase: 1 },
+  scoop: { dimension: 'count', toBase: 1 },
+  bag: { dimension: 'count', toBase: 1 },
+  box: { dimension: 'count', toBase: 1 },
+  carton: { dimension: 'count', toBase: 1 },
+  packet: { dimension: 'count', toBase: 1 },
+  jar: { dimension: 'count', toBase: 1 },
   count: { dimension: 'count', toBase: 1 },
 };
 
@@ -79,6 +85,18 @@ const UNIT_VARIANTS: Record<string, CanonicalUnit> = {
   cloves: 'clove',
   can: 'can',
   cans: 'can',
+  scoop: 'scoop',
+  scoops: 'scoop',
+  bag: 'bag',
+  bags: 'bag',
+  box: 'box',
+  boxes: 'box',
+  carton: 'carton',
+  cartons: 'carton',
+  packet: 'packet',
+  packets: 'packet',
+  jar: 'jar',
+  jars: 'jar',
 };
 
 /**

@@ -10,11 +10,11 @@ A rich, warming chocolate milk made in the Vitamix. The oats blend completely sm
 
 - 480ml (2 cups) Lactaid milk
 - 2 TBSP dutch process cocoa powder
-- 42g (1/4 cup) semi-sweet chocolate chips (Toll House)
+- 42g (1/4 cup) chocolate chips (Toll House)
 - 1 TBSP rolled oats
 - 1 TBSP brown sugar
 - 1 tsp molasses
-- 1 pinch salt
+- 1 pinch sea salt
 - 1/2 tsp vanilla extract
 
 **Instructions:**

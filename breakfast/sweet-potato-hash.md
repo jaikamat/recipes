@@ -8,11 +8,11 @@
 
 - 3 medium sweet potatoes
 - 2 poblano peppers
-- 1 large onion
+- 1 onion
 - 1 tsp garlic powder
 - 1 tsp paprika
 - 1 tsp smokey chipotle powder or bbq spice
-- 2 tsp salt
+- 2 tsp sea salt
 - ~2 TBSP olive oil
 
 **Instructions:**

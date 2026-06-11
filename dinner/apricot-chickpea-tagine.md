@@ -6,9 +6,9 @@
 
 **Ingredients:**
 
-- 2 yellow onions, diced
-- 7g (1/4 oz) fresh cilantro, minced
-- 2 cloves garlic, minced
+- 2 onions, diced
+- 7g (1/4 oz) cilantro, minced
+- 10g garlic paste
 - 1 lemon, zested and juiced
 - 1 jalapeño, minced (remove ribs and seeds for less heat)
 - 2 zucchini, halved lengthwise and cut into 1/2-inch half-moons
@@ -21,7 +21,7 @@
 - 1 tsp hot sauce (optional)
 - 4 TBSP olive oil
 - 4 TBSP butter
-- Salt and black pepper to taste
+- Sea salt and black pepper to taste
 
 **Instructions:**
 

@@ -11,8 +11,8 @@ Classic no-bake chocolate peanut butter oat cookies — just boil, mix, and drop
 - 400g (2 cups) granulated sugar
 - 120ml (1/2 cup) milk
 - 113g (1 stick) butter
-- 21g (1/4 cup) unsweetened baking cocoa
-- 200g (2 1/2 cups) quick-cooking oats
+- 21g (1/4 cup) dutch process cocoa powder
+- 200g (2 1/2 cups) rolled oats
 - 130g (1/2 cup) peanut butter
 - 1 tsp vanilla extract
 - 110g (1 cup) chopped pecans (optional)

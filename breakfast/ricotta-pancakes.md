@@ -6,13 +6,13 @@
 
 **Ingredients:**
 
-- 120g flour
+- 120g 00 flour
 - 5g baking powder
 - 1.25g baking soda
-- 1.5g salt
+- 1.5g sea salt
 - 185g ricotta cheese
 - 90g milk or water
-- 100g eggs (2 large)
+- 2 eggs (100g)
 - 2.5g vanilla extract
 - 28g butter, melted
 

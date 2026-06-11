@@ -29,7 +29,7 @@ _Almond crust:_
 - 3/4 tsp italian seasoning
 - 1/2 tsp dried oregano
 - 1/8 tsp MSG
-- 3/4 tsp salt
+- 3/4 tsp sea salt
 - 1/8 tsp cayenne pepper
 
 _For serving:_

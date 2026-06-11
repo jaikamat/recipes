@@ -7,10 +7,10 @@
 **Ingredients:**
 
 - 300g basmati rice, uncooked
-- 465g chicken bone broth
+- 465g Kirkland chicken bone broth
 - 30g sofrito sauce
 - 14g olive oil
-- 3g salt
+- 3g sea salt
 - 1.5g garlic powder
 - 1.5g MSG
 - 1.4g sazon (coriander & annatto)

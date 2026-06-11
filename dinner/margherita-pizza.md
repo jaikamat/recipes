@@ -11,16 +11,16 @@ A classic Neapolitan-style margherita with a 24-48 hour cold fermented dough for
 _Dough:_
 - 190g 00 flour
 - 40g vital wheat gluten
-- 5g salt
+- 5g sea salt
 - 3g active dry yeast
 - 170g water
 
 _Pizza Build (per pizza):_
 - 70g 6-in-1 ground tomatoes
 - 60g fresh mozzarella
-- 5g Parmigiano Reggiano
+- 5g parmesan (Parmigiano Reggiano)
 - 5g olive oil
-- 3g fresh basil
+- 3g basil
 
 **Instructions:**
 

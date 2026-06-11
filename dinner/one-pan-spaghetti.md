@@ -9,17 +9,17 @@
 - 906g (2 lb) turkey italian sausage (bulk ground, casings removed)
 - 340g (12 oz) Carbe Diem spaghetti
 - 794g (28 oz) crushed tomatoes, canned
-- 794g (28 oz) chicken bone broth
+- 794g (28 oz) Kirkland chicken bone broth
 - 184g (6.5 oz) onion, diced
 - 70g tomato paste
-- 50g parmesan cheese, shredded
+- 50g parmesan, shredded
 - 15g chicken bouillon paste (Better Than Bouillon)
-- 12g (4 cloves) garlic, minced
-- 10g fresh basil
+- 12g garlic paste
+- 10g basil
 - 8g brown sugar
 - 0.5 tsp dried oregano
 - 0.5 tsp chili flakes
-- Salt to taste (6-8g works with Costco broth)
+- Sea salt to taste (6-8g works with Costco broth)
 - Oil for cooking
 
 **Instructions:**

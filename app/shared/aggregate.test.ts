@@ -50,9 +50,10 @@ describe('aggregate', () => {
     ]);
     const oats = items.filter((i) => i.label === 'rolled oats');
     expect(oats).toHaveLength(2);
+    // Keys carry the plural-folded name (see keyName).
     expect(oats.map((o) => o.key).sort()).toEqual([
-      'rolled oats|mass',
-      'rolled oats|volume',
+      'rolled oat|mass',
+      'rolled oat|volume',
     ]);
   });
 
@@ -112,6 +113,27 @@ describe('aggregate', () => {
     expect(manual[0]!.sources).toHaveLength(2);
     // Manual items sort after merged items.
     expect(items.at(-1)!.manual).toBe(true);
+  });
+
+  test('simple plurals fold: eggs merge with egg, onions with onion', () => {
+    const items = aggregate([
+      { recipe: recipeOf('a', ['2 eggs (100g)', '2 onions, diced']), multiplier: 1 },
+      { recipe: recipeOf('b', ['1 egg', '1 onion, chopped']), multiplier: 1 },
+    ]);
+    const egg = items.find((i) => i.key === 'egg|count');
+    expect(egg?.quantityText).toBe('3');
+    const onion = items.find((i) => i.key === 'onion|count');
+    expect(onion?.quantityText).toBe('3');
+  });
+
+  test('a count primary keeps its count even with a gram alternate', () => {
+    const items = aggregate([
+      { recipe: recipeOf('a', ['1 egg (50g)']), multiplier: 1 },
+      { recipe: recipeOf('b', ['6 eggs']), multiplier: 1 },
+    ]);
+    const egg = items.filter((i) => i.key.startsWith('egg'));
+    expect(egg).toHaveLength(1);
+    expect(egg[0]!.quantityText).toBe('7');
   });
 
   test('keys are stable as more recipes are added (check-off persistence)', () => {

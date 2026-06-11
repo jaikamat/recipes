@@ -24,10 +24,26 @@ const LEADING_QUANTITY = new RegExp(
   `^(~)?(${QUANTITY_TOKEN_SOURCE})(?:\\s*[-–]\\s*(${QUANTITY_TOKEN_SOURCE}))?\\s*`,
 );
 
-/** "(1 lb)" / "(2 cups)" / "(120g)" — a parenthetical that is purely qty + unit. */
+/** "(1 lb)" / "(~2 cups)" / "(120g)" — a parenthetical that is purely qty + unit. */
 const PAREN_QUANTITY = new RegExp(
-  `^\\(\\s*(${QUANTITY_TOKEN_SOURCE})\\s*([A-Za-z]+)\\s*\\)$`,
+  `^\\(\\s*~?\\s*(${QUANTITY_TOKEN_SOURCE})\\s*([A-Za-z]+)\\s*\\)$`,
 );
+
+/**
+ * Index of the first comma that sits outside any parentheses, or -1.
+ * Needed so "dark soy sauce (optional, for color)" keeps its parenthetical
+ * intact instead of being split mid-paren.
+ */
+function topLevelCommaIndex(text: string): number {
+  let depth = 0;
+  for (let i = 0; i < text.length; i++) {
+    const ch = text[i];
+    if (ch === '(') depth++;
+    else if (ch === ')') depth = Math.max(0, depth - 1);
+    else if (ch === ',' && depth === 0) return i;
+  }
+  return -1;
+}
 
 /**
  * Parse the inside of a parenthetical as an alternate measure.
@@ -96,36 +112,37 @@ export function parseIngredient(rawLine: string): Ingredient {
     }
   }
 
-  // --- Stage 3: alternate measure right after the unit -------------------
-  // "454g (1 lb) ground turkey" / "480ml (2 cups) Lactaid milk"
+  // --- Stage 3: leading parenthetical right after the unit ---------------
+  // A measure ("(1 lb)", "(~2 cups)") becomes the alternate quantity;
+  // anything else ("(1 large)", "(1 stick)") is descriptive and moves to
+  // the note so it never pollutes the name.
   let altQuantity: Ingredient['altQuantity'];
+  const noteParts: string[] = [];
   const leadingParen = rest.match(/^(\([^)]*\))\s*/);
   if (leadingParen) {
     const alt = parseParenQuantity(leadingParen[1]!);
-    if (alt) {
-      altQuantity = alt;
-      rest = rest.slice(leadingParen[0].length);
-    }
+    if (alt) altQuantity = alt;
+    else noteParts.push(leadingParen[1]!);
+    rest = rest.slice(leadingParen[0].length);
   }
 
-  // --- Stage 4: name / note split at the first comma ---------------------
-  const commaIndex = rest.indexOf(',');
+  // --- Stage 4: name / note split at the first comma outside parens ------
+  const commaIndex = topLevelCommaIndex(rest);
   let namePart = commaIndex === -1 ? rest : rest.slice(0, commaIndex);
-  let note = commaIndex === -1 ? undefined : rest.slice(commaIndex + 1).trim();
+  const commaNote = commaIndex === -1 ? undefined : rest.slice(commaIndex + 1).trim();
 
   // --- Stage 5: trailing parenthetical on the name -----------------------
   // "½ cup yogurt (120g)" → altQuantity; "ground turkey (93/7)" → note.
   const trailingParen = namePart.match(/\s*(\([^)]*\))\s*$/);
   if (trailingParen) {
     const alt = parseParenQuantity(trailingParen[1]!);
-    if (alt && !altQuantity) {
-      altQuantity = alt;
-      namePart = namePart.slice(0, trailingParen.index).trim();
-    } else if (!alt) {
-      note = note ? `${trailingParen[1]} ${note}` : trailingParen[1];
-      namePart = namePart.slice(0, trailingParen.index).trim();
-    }
+    if (alt && !altQuantity) altQuantity = alt;
+    else noteParts.push(trailingParen[1]!);
+    namePart = namePart.slice(0, trailingParen.index).trim();
   }
+
+  if (commaNote && commaNote.length > 0) noteParts.push(commaNote);
+  const note = noteParts.length > 0 ? noteParts.join(', ') : undefined;
 
   const displayName = namePart.trim().replace(/\s+/g, ' ');
   const name = displayName.toLowerCase();
@@ -133,6 +150,6 @@ export function parseIngredient(rawLine: string): Ingredient {
 
   const ingredient: Ingredient = { raw, parsed: true, quantity, unit, name, displayName };
   if (altQuantity) ingredient.altQuantity = altQuantity;
-  if (note && note.length > 0) ingredient.note = note;
+  if (note) ingredient.note = note;
   return ingredient;
 }

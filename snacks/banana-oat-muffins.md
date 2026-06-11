@@ -21,7 +21,7 @@ _Wet:_
 - 160g (120ml) maple syrup
 - 72g (80ml) melted ghee or olive oil
 - 120ml milk
-- 1 tsp vanilla
+- 1 tsp vanilla extract
 
 **Instructions:**
 

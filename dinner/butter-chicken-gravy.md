@@ -12,14 +12,14 @@ A rich, creamy butter chicken gravy. Pair with chili chicken meatballs for a com
 - 100g onions, roughly chopped
 - 1 TBSP garlic paste
 - 50g cashews
-- 4 tsp sugar
+- 4 tsp granulated sugar
 - 1 tsp Kashmiri chili powder
 - 1/2 tsp garam masala
 - 1 tsp kasoori methi, plus extra for garnish
 - 2.5 TBSP butter, divided
 - 3 TBSP Lactaid milk
 - 1.5 TBSP white vinegar
-- Salt to taste
+- Sea salt to taste
 - Oil for cooking
 
 **Instructions:**

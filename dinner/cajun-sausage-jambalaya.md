@@ -10,13 +10,13 @@
 - 3 onions, diced ⅜"
 - 4 celery stalks, diced ⅜"
 - 3 poblano peppers, diced ⅜"
-- 6 cloves garlic, minced
+- 30g garlic paste
 - 3 green onions, sliced ⅜-½"
-- 1 cup Tony Chachere's Instant Roux Mix (144g) (powder, unmixed)
+- 144g (1 cup) Tony Chachere's Instant Roux Mix (powder, unmixed)
 - 6 cups Kirkland chicken bone broth (or water)
 - 4 cups basmati rice
 - 1-2 TBSP Cajun seasoning (start low since Tony's is salty)
-- Salt and pepper to taste
+- Sea salt and black pepper to taste
 
 **Instructions:**
 

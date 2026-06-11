@@ -34,6 +34,12 @@ const UNIT_DISPLAY: Record<
   pinch: { text: 'pinch', plural: 'pinches' },
   clove: { text: 'clove', plural: 'cloves' },
   can: { text: 'can', plural: 'cans' },
+  scoop: { text: 'scoop', plural: 'scoops' },
+  bag: { text: 'bag', plural: 'bags' },
+  box: { text: 'box', plural: 'boxes' },
+  carton: { text: 'carton', plural: 'cartons' },
+  packet: { text: 'packet', plural: 'packets' },
+  jar: { text: 'jar', plural: 'jars' },
   count: { text: '' },
 };
 

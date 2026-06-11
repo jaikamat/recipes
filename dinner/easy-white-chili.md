@@ -12,8 +12,8 @@ A quick weeknight white chili using pantry staples and ground turkey.
 - 1 can (15 oz) Bush's Chili Magic White Chili Starter
 - 1 can (15 oz) chili beans
 - 1 TBSP chili seasoning
-- 2 cups fresh spinach, chopped
-- 1/2 cup shredded cheddar, for topping
+- 2 cups spinach, chopped
+- 1/2 cup cheddar, shredded, for topping
 
 **Instructions:**
 

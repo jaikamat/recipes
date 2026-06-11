@@ -14,12 +14,12 @@ A simple, hearty minestrone with kidney beans, zucchini, and Rao's marinara.
 - 130g (1 cup) baby carrots, chopped
 - 1 tsp Italian seasoning
 - 1/2 tsp dried basil
-- 1 carton (32 oz) Kirkland chicken bone broth
+- 907g (32 oz) Kirkland chicken bone broth
 - 56g (1/2 cup) Carbe Diem elbow pasta
 - 1 medium zucchini, chopped
 - Rao's Marinara (24 oz bottle)
 - 1 can (15 oz) kidney beans, drained
-- Salt and pepper to taste
+- Sea salt and black pepper to taste
 - Parmesan for serving (optional)
 
 **Instructions:**

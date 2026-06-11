@@ -14,27 +14,27 @@ _Turkey seasoning:_
 - 1 tsp garam masala
 - 1 tsp ground coriander
 - 1/4 tsp ground cumin
-- 1/2 tsp salt
-- 1 tsp grated ginger
-- 2 cloves garlic, minced
+- 1/2 tsp sea salt
+- 1 tsp ginger paste
+- 10g garlic paste
 - Squeeze of lemon juice
 
 _Biryani:_
 
 - 300g (2 Zojirushi cups) uncooked basmati rice
 - 465ml (~2 cups) Kirkland chicken bone broth (for rice)
-- 100g cottage cheese (2% lowfat), blended smooth
+- 100g 0% cottage cheese, blended smooth
 - 1 DEEP brand ready-to-cook biryani spice packet
 - 240ml (1 cup) Kirkland chicken bone broth (for sauce)
-- 100-150g chopped spinach (fresh or frozen, thawed and squeezed dry)
-- 1 small onion, finely diced
+- 100-150g spinach, chopped (fresh or frozen, thawed and squeezed dry)
+- 1 onion, finely diced
 - 1 TBSP oil
 - 1 TBSP ghee
 
 _Garnish:_
 
 - 30g cashews
-- Fresh cilantro
+- Cilantro
 
 _Optional garnish:_
 

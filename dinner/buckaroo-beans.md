@@ -8,8 +8,8 @@
 
 - 454g (1 lb) dried pinto beans
 - 113g (4 oz) ham, bacon, or salt pork, cut in pieces
-- 200g (1 large) onion, coarsely chopped
-- 6g (2 cloves) garlic, minced
+- 200g onion, coarsely chopped
+- 6g garlic paste
 - 1 small bay leaf
 - 75g (1/2 cup) poblano pepper, chopped
 - 14g (2 TBSP) chili powder
@@ -17,7 +17,7 @@
 - 1g (1/2 tsp) dry mustard
 - 480g (2 cups) canned tomatoes
 - 1/2 tsp crushed oregano leaves
-- Salt to taste
+- Sea salt to taste
 - 3-4 cups water (just enough to barely cover beans; slow cookers retain moisture)
 
 **Instructions:**

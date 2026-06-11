@@ -10,9 +10,9 @@ Spiced Indian-style meatballs with a crispy pan-fried crust.
 
 - 454g (1 lb) ground turkey
 - 1/2 tsp cornstarch
-- 1/2 tsp salt
+- 1/2 tsp sea salt
 - 1 tsp ginger paste
-- 1 tsp garlic paste or minced garlic
+- 1 tsp garlic paste
 - 1 tsp garam masala
 - 1 tsp coriander powder
 - 1 tsp cumin seeds

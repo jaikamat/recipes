@@ -8,13 +8,13 @@ A MUSH-style overnight oats with dark cocoa and date paste. No cooking required 
 **Ingredients:**
 
 - 1.5 frozen date paste cubes (3 TBSP)
-- 115g (1/2 cup) 1% cottage cheese
-- 10g (2 TBSP) cocoa powder (natural, unsweetened)
+- 115g (1/2 cup) 0% cottage cheese
+- 10g (2 TBSP) dutch process cocoa powder
 - 60mL (1/4 cup) Fairlife 0% skim milk
 - 20g (1/4 cup) rolled oats
 - 1mL (1/4 tsp) vanilla extract
 - 5g (1 tsp) erythritol
-- Pinch of salt
+- Pinch of sea salt
 
 **Instructions:**
 
@@ -30,7 +30,7 @@ A MUSH-style overnight oats with dark cocoa and date paste. No cooking required 
 **Notes:**
 
 - Try espresso powder (1/4 tsp) to deepen chocolate flavor without adding coffee taste
-- Try dutch process cocoa instead of natural for a smoother, less acidic chocolate
+- Natural (non-alkalized) cocoa works too, for a sharper, more acidic chocolate
 - Try 5g chia seeds for a thicker pudding-like mouthfeel (~25 cal)
 - Try 1-2g white miso paste for umami depth — a pastry chef trick that makes chocolate taste richer
 - Try a pinch of cardamom for a floral, exotic warmth that pairs with dates

@@ -50,6 +50,12 @@ export type CanonicalUnit =
   | 'pinch'
   | 'clove'
   | 'can'
+  | 'scoop'
+  | 'bag'
+  | 'box'
+  | 'carton'
+  | 'packet'
+  | 'jar'
   | 'count';
 
 /** A quantity like `2`, `2-3` (range), or `~150` (approximate). */
