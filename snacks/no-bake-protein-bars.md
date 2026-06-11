@@ -15,7 +15,12 @@
 - ~150ml water
 - 150g chocolate chips, roughly chopped
 
-_Optional toppings: chopped pistachios, dried goji berries, coconut flakes, cacao nibs_
+_Optional toppings:_
+
+- chopped pistachios
+- dried goji berries
+- coconut flakes
+- cacao nibs
 
 **Instructions:**
 

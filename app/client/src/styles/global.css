@@ -1,0 +1,691 @@
+/*
+ * Global stylesheet, organized by section:
+ *   1. Theme tokens & base
+ *   2. App shell (nav, banners)
+ *   3. Recipe list
+ *   4. Cook page (large kitchen type)
+ *   5. Shopping list
+ *   6. Weekly planner
+ * Kitchen-first sizing: body text is larger than a typical web app, and the
+ * cook page is larger still — readable from a counter away.
+ */
+
+/* ---------- 1. Theme tokens & base ---------- */
+
+:root {
+  --bg: #faf7f2;
+  --surface: #ffffff;
+  --ink: #2b2620;
+  --muted: #8a8276;
+  --line: #e5ded2;
+  --accent: #c0532b;
+  --accent-soft: #f6e3d9;
+  --good: #3a7d44;
+  --warn-bg: #fff3cd;
+  --error-bg: #f8d7da;
+  --chip-cal: #f0e6d6;
+  --chip-protein: #ddebdd;
+  --chip-fat: #f3e0d3;
+  --chip-carbs: #dde4ef;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #211d18;
+    --surface: #2b2620;
+    --ink: #ece5da;
+    --muted: #a39a8c;
+    --line: #463e33;
+    --accent: #e0764a;
+    --accent-soft: #4a3326;
+    --warn-bg: #4a3f1d;
+    --error-bg: #4a2326;
+    --chip-cal: #3d362b;
+    --chip-protein: #2d3d2d;
+    --chip-fat: #44352a;
+    --chip-carbs: #2d3442;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family:
+    -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+.content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1rem 1.5rem 4rem;
+}
+
+button {
+  font: inherit;
+  cursor: pointer;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+  padding: 0.35rem 0.8rem;
+}
+
+button:hover {
+  border-color: var(--accent);
+}
+
+button.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+input,
+select {
+  font: inherit;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.45rem 0.7rem;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+code {
+  background: var(--accent-soft);
+  padding: 0.05rem 0.35rem;
+  border-radius: 4px;
+}
+
+h2 {
+  margin: 1.6rem 0 0.6rem;
+}
+
+/* ---------- 2. App shell ---------- */
+
+.topnav {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  padding: 0.7rem 1.5rem;
+  background: var(--surface);
+  border-bottom: 1px solid var(--line);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.topnav-brand {
+  font-weight: 700;
+  margin-right: 0.5rem;
+}
+
+.topnav a {
+  color: var(--ink);
+  text-decoration: none;
+  padding: 0.25rem 0.6rem;
+  border-radius: 8px;
+}
+
+.topnav a.active {
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.banner {
+  padding: 0.7rem 1.5rem;
+  border-bottom: 1px solid var(--line);
+}
+
+.banner-warning {
+  background: var(--warn-bg);
+}
+
+.banner-error {
+  background: var(--error-bg);
+}
+
+.banner ul {
+  margin: 0.4rem 0;
+}
+
+/* ---------- 3. Recipe list ---------- */
+
+.list-controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 0.8rem 0 0.4rem;
+}
+
+.list-controls input[type='search'] {
+  flex: 1;
+  min-width: 220px;
+  font-size: 1.05rem;
+}
+
+.category-header {
+  text-transform: capitalize;
+  border-bottom: 2px solid var(--line);
+  padding-bottom: 0.25rem;
+}
+
+.recipe-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 0.7rem;
+}
+
+.recipe-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  transition: border-color 0.15s;
+}
+
+.recipe-card:hover {
+  border-color: var(--accent);
+}
+
+.recipe-card-link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  padding: 0.8rem 1rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+.recipe-card-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.recipe-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.9rem;
+}
+
+.todo-badge {
+  margin-left: 0.5rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  background: var(--warn-bg);
+  border-radius: 6px;
+  padding: 0.1rem 0.4rem;
+  vertical-align: middle;
+}
+
+.macro-chips {
+  display: inline-flex;
+  gap: 0.3rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.macro-prefix {
+  color: var(--muted);
+  margin-right: 0.2rem;
+}
+
+.chip {
+  border-radius: 6px;
+  padding: 0.08rem 0.45rem;
+  font-size: 0.85em;
+  white-space: nowrap;
+}
+
+.chip-cal {
+  background: var(--chip-cal);
+}
+.chip-protein {
+  background: var(--chip-protein);
+}
+.chip-fat {
+  background: var(--chip-fat);
+}
+.chip-carbs {
+  background: var(--chip-carbs);
+}
+
+/* ---------- 4. Cook page ---------- */
+
+.cook-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin: 0.6rem 0;
+}
+
+.cook-header h1 {
+  margin: 0;
+  font-size: 1.9rem;
+}
+
+.cook-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+}
+
+.batch-bar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.7rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.55rem 0.9rem;
+  margin-bottom: 1rem;
+  font-size: 1.05rem;
+}
+
+.batch-bar .stepper {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.batch-bar .stepper button {
+  font-size: 1.1rem;
+  padding: 0.15rem 0.7rem;
+}
+
+.batch-count {
+  font-size: 1.3rem;
+  font-weight: 700;
+  min-width: 2.2rem;
+  text-align: center;
+}
+
+.batch-note {
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
+.cook-layout {
+  display: grid;
+  grid-template-columns: minmax(320px, 2fr) 3fr;
+  gap: 1.4rem;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .cook-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.ingredient-panel {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  font-size: 1.4rem;
+  line-height: 1.45;
+  position: sticky;
+  top: 4.2rem;
+  max-height: calc(100vh - 5.5rem);
+  overflow-y: auto;
+}
+
+.ingredient-panel h3 {
+  margin: 0.8rem 0 0.3rem;
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+}
+
+.ingredient-panel ul {
+  list-style: none;
+  margin: 0.2rem 0 0.6rem;
+  padding: 0;
+}
+
+.ingredient-panel li {
+  padding: 0.28rem 0;
+  border-bottom: 1px dashed var(--line);
+}
+
+.not-scaled {
+  font-size: 0.75em;
+  color: var(--muted);
+  margin-left: 0.4rem;
+}
+
+.step-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  position: relative;
+}
+
+.step-phase {
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.step-context {
+  font-size: 1.15rem;
+  opacity: 0.45;
+  min-height: 1.6rem;
+}
+
+.step-current {
+  font-size: 2rem;
+  line-height: 1.4;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 1.4rem 1.6rem;
+}
+
+.step-current .step-number {
+  color: var(--accent);
+  font-weight: 700;
+  margin-right: 0.6rem;
+}
+
+.step-dots {
+  display: flex;
+  gap: 0.45rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 0.4rem;
+}
+
+.step-dot {
+  width: 0.85rem;
+  height: 0.85rem;
+  border-radius: 50%;
+  border: 1px solid var(--muted);
+  background: transparent;
+  padding: 0;
+}
+
+.step-dot.done {
+  background: var(--line);
+}
+
+.step-dot.current {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.step-dot-gap {
+  width: 0.7rem;
+}
+
+.tap-zones {
+  display: flex;
+  gap: 0.6rem;
+  margin-top: 0.5rem;
+}
+
+.tap-zones button {
+  flex: 1;
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+
+.keyboard-hint {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 0.6rem;
+}
+
+.wake-indicator {
+  font-size: 0.85rem;
+  color: var(--good);
+}
+
+.extras {
+  margin-top: 1.6rem;
+}
+
+.extras details {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 0.6rem 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.extras summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+/* ---------- 5. Shopping list ---------- */
+
+.shopping-layout {
+  display: grid;
+  grid-template-columns: minmax(300px, 2fr) 3fr;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+@media (max-width: 900px) {
+  .shopping-layout {
+    grid-template-columns: 1fr;
+  }
+}
+
+.picker {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 0.9rem 1.1rem;
+}
+
+.picker input[type='search'] {
+  width: 100%;
+  margin-bottom: 0.6rem;
+}
+
+.picker-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.picker-list li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.3rem 0;
+  border-bottom: 1px dashed var(--line);
+}
+
+.picker-list .grow {
+  flex: 1;
+}
+
+.picker-category {
+  text-transform: capitalize;
+  color: var(--accent);
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-top: 0.6rem;
+}
+
+.mult-input {
+  width: 4.2rem;
+  text-align: center;
+}
+
+.agg-section {
+  margin-bottom: 1.4rem;
+}
+
+.agg-list {
+  list-style: none;
+  margin: 0.4rem 0;
+  padding: 0;
+}
+
+.agg-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.4rem 0.2rem;
+  border-bottom: 1px dashed var(--line);
+  font-size: 1.1rem;
+}
+
+.agg-list input[type='checkbox'] {
+  transform: scale(1.3);
+}
+
+.agg-qty {
+  font-weight: 700;
+  min-width: 7.5rem;
+}
+
+.agg-sources {
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.have-it {
+  opacity: 0.55;
+}
+
+.have-it .agg-name,
+.have-it .agg-qty {
+  text-decoration: line-through;
+}
+
+.shopping-actions {
+  display: flex;
+  gap: 0.7rem;
+  margin: 0.8rem 0;
+  flex-wrap: wrap;
+}
+
+/* ---------- 6. Weekly planner ---------- */
+
+.planner-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.planner-table th,
+.planner-table td {
+  border: 1px solid var(--line);
+  padding: 0.45rem 0.55rem;
+  vertical-align: top;
+  text-align: left;
+}
+
+.planner-table th {
+  background: var(--accent-soft);
+  font-size: 0.9rem;
+}
+
+.planner-table th.slot-label {
+  width: 6.5rem;
+}
+
+.planner-cell {
+  min-width: 110px;
+  min-height: 3.2rem;
+}
+
+.planner-entry {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.88rem;
+  margin-bottom: 0.3rem;
+}
+
+.planner-entry .grow {
+  flex: 1;
+}
+
+.planner-entry button,
+.planner-add {
+  font-size: 0.8rem;
+  padding: 0.05rem 0.4rem;
+}
+
+.planner-servings {
+  width: 3.3rem;
+  padding: 0.1rem 0.3rem;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.planner-totals td {
+  font-size: 0.82rem;
+  background: var(--bg);
+}
+
+.planner-week-summary {
+  margin: 1rem 0;
+  font-size: 1.05rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.planner-actions {
+  display: flex;
+  gap: 0.7rem;
+  margin: 0.8rem 0;
+  flex-wrap: wrap;
+}
+
+.popover {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 50;
+}
+
+.popover-inner {
+  background: var(--bg);
+  border-radius: 12px;
+  padding: 1.2rem;
+  width: min(560px, 92vw);
+  max-height: 80vh;
+  overflow-y: auto;
+}

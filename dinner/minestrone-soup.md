@@ -26,10 +26,10 @@ A simple, hearty minestrone with kidney beans, zucchini, and Rao's marinara.
 
 1. Heat olive oil in a large pot over medium-high heat. Add sausage, breaking it up into small pieces, and cook until browned. Remove sausage and set aside
 2. In the same pot with the rendered fat, add onion, carrots, Italian seasoning, and dried basil. Cook for 1-2 minutes until fragrant
-2. Add broth. Bring to a boil, then reduce to medium heat and cook for 10 minutes
-3. Add zucchini and pasta. Cook until pasta is done, adding water as needed if the pasta absorbs too much liquid
-4. Add Rao's marinara, drained kidney beans, and the browned sausage. Bring to a boil
-5. Season with salt, pepper, and additional Italian seasoning to taste
+3. Add broth. Bring to a boil, then reduce to medium heat and cook for 10 minutes
+4. Add zucchini and pasta. Cook until pasta is done, adding water as needed if the pasta absorbs too much liquid
+5. Add Rao's marinara, drained kidney beans, and the browned sausage. Bring to a boil
+6. Season with salt, pepper, and additional Italian seasoning to taste
 
 **Freeze:** Cool completely, then portion into containers for up to 3 months. Pasta may soften slightly upon reheating.
 

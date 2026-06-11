@@ -1,0 +1,28 @@
+/*
+ * Print stylesheet: used for printing the shopping list.
+ * Strips navigation/controls and renders the list in plain black-on-white.
+ */
+@media print {
+  .no-print,
+  .topnav,
+  .banner,
+  .picker,
+  .shopping-actions,
+  .tap-zones {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+    color: #000;
+    font-size: 12pt;
+  }
+
+  .shopping-layout {
+    display: block;
+  }
+
+  .agg-list li {
+    border-bottom: 1px solid #ddd;
+  }
+}

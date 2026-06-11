@@ -1,2 +1,3 @@
-cooked-log.csv
 pantry.json
+app/node_modules/
+app/dist/

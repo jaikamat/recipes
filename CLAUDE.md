@@ -10,6 +10,16 @@ A personal recipe collection organized into directories by meal type:
 - `dinner/` — dinner/main course recipes
 - `snacks/` — snacks, desserts, and drinks
 - `pantry/` — spice blends and pantry staples (no macros section required)
+- `app/` — local webapp over the collection (see below)
+
+## App
+
+`app/` contains a local TypeScript webapp (cook mode, shopping lists, weekly
+macro planner) documented in `app/README.md`. Launch it by double-clicking
+`start.command` or with `cd app && npm start`. The app treats the recipe
+markdown as **read-only** and re-parses it on every refresh. After bulk
+recipe edits, run `cd app && npm run validate` to check that every file
+still parses; the golden corpus test in `npm test` enforces the same.
 
 ## Recipe Template
 
