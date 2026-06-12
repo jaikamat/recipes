@@ -12,9 +12,9 @@ _Dough:_
 - 440g 00 flour
 - 60g vital wheat gluten
 - 5g sea salt
-- 5g active dry yeast
+- 7g active dry yeast
 - 14g ghee
-- 265g warm water, 110°F
+- 275ml warm water, 110°F
 
 _Filling:_
 
