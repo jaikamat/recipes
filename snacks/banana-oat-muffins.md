@@ -16,11 +16,11 @@ _Dry:_
 - 1 tsp cinnamon
 
 _Wet:_
-- 100g (1 medium) ripe banana, mashed
+- 100g (1 medium) banana, very ripe, mashed
 - 100g applesauce
 - 160g (120ml) maple syrup
-- 72g (80ml) melted ghee or olive oil
-- 120ml milk
+- 72g (80ml) olive oil
+- 120ml Fairlife 2% ultra-filtered milk
 - 1 tsp vanilla extract
 
 **Instructions:**

@@ -1,14 +1,14 @@
 ### High-Protein Cornbread
 
 **Servings:** 8 wedges
-**Per serving:** 183 cal | 8g protein | 5g fat | 25g carbs
-**Per 100g:** 254 cal | 11g protein | 7g fat | 35g carbs (~72g per wedge)
+**Per serving:** 177 cal | 9g protein | 4g fat | 24g carbs
+**Per 100g:** 246 cal | 12g protein | 6g fat | 33g carbs (~72g per wedge)
 
 **Ingredients:**
 
 - 240g (2 cups) Martha White self-rising cornmeal, plus 1/2 tsp for skillet
 - 30-40g unflavored whey protein
-- 360ml (~1.5 cups) whole milk, adjust for consistency
+- 360ml (~1.5 cups) Fairlife 2% ultra-filtered milk, adjust for consistency
 - 1 egg
 - 1 TBSP olive oil, plus 1-2 tsp for skillet
 

@@ -12,7 +12,7 @@ _Cake:_
 - 432g (15.25 oz) box devil's food cake mix
 - 167g (5.9 oz) box instant chocolate pudding mix
 - 230g (1 cup) sour cream
-- 218ml (1 cup) vegetable oil
+- 218ml (1 cup) olive oil
 - 180ml (3/4 cup) warm water
 - 3 eggs
 - 336g (2 cups) chocolate chips

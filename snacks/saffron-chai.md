@@ -1,8 +1,8 @@
 ### Saffron Chai
 
 **Servings:** 2
-**Per serving:** 126 cal | 4g protein | 4g fat | 19g carbs
-**Per 100g:** 29 cal | 1g protein | 1g fat | 4g carbs (~430g per serving)
+**Per serving:** 111 cal | 7g protein | 2g fat | 16g carbs
+**Per 100g:** 26 cal | 2g protein | 1g fat | 4g carbs (~430g per serving)
 
 A spiced Assam chai with ginger paste, warm spices, and a touch of saffron.
 
@@ -16,7 +16,7 @@ A spiced Assam chai with ginger paste, warm spices, and a touch of saffron.
 - 1 pinch black pepper, ground
 - 2 saffron strands
 - 4 tsp Assam tea
-- 240ml (1 cup) whole milk
+- 240ml (1 cup) Fairlife 2% ultra-filtered milk
 - 22g brown sugar
 
 **Instructions:**

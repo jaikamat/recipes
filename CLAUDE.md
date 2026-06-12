@@ -66,6 +66,28 @@ Pantry recipes (spice blends, sauces) use `**Yield:**` instead of `**Servings:**
 - Some volume-only ingredients (spices, extracts) may use tsp/tbsp/cups alone when gram precision is impractical
 - Tablespoons are written `TBSP`, teaspoons as `tsp`
 
+## Canonical Ingredient Names
+
+So the app's shopping list aggregates cleanly, ingredient lines use one
+canonical name per pantry item. Preparation goes after a comma ("cheddar,
+shredded"); brands or size hints go in parentheses ("cheddar (Kerrygold
+Reserve)", "onion, diced (about 1 large)").
+
+- **Proteins/dairy:** egg, butter (never "unsalted"/"melted X"), cheddar,
+  parmesan, 0% cottage cheese, Fairlife 2% ultra-filtered milk
+- **Pantry:** 00 flour (used for all flour), rolled oats, cornstarch,
+  breadcrumbs, dutch process cocoa powder, chocolate chips, granulated
+  sugar, brown sugar (no light/dark distinction), vanilla extract,
+  vanilla whey protein, unflavored whey protein
+- **Aromatics/produce:** onion (no size/color qualifiers), garlic paste,
+  ginger paste, cilantro, basil, spinach, poblano pepper, carrots, celery,
+  banana
+- **Seasoning/liquids:** sea salt (the only salt), black pepper, olive oil
+  (the only cooking oil; sesame oil and ghee stay distinct), Kirkland
+  chicken bone broth (the only broth)
+
+Ingredients marked "(optional)" are excluded from the recipe's macros.
+
 ## Macro and Nutrition Preferences
 
 - Every recipe includes per-serving macros: calories, carbs, protein, fat

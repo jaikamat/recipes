@@ -15,7 +15,8 @@
     "test:watch": "vitest",
     "check": "tsc --noEmit && prettier --check .",
     "format": "prettier --write .",
-    "validate": "tsx scripts/validate.ts"
+    "validate": "tsx scripts/validate.ts",
+    "audit": "tsx scripts/audit-macros.ts"
   },
   "dependencies": {
     "express": "^5.1.0",

@@ -27,15 +27,16 @@ npm start
 
 ## Scripts
 
-| Command            | What it does                                                                         |
-| ------------------ | ------------------------------------------------------------------------------------ |
-| `npm start`        | Build if app code changed, start the server, open the browser                        |
-| `npm run dev`      | Development mode: tsx-watched server + Vite client with hot reload                   |
-| `npm test`         | Run the full Vitest suite (parser, aggregation, components)                          |
-| `npm run validate` | Parse every recipe and report problems (`-- -v` lists pass-through ingredient lines) |
-| `npm run check`    | Typecheck (`tsc --noEmit`) + Prettier formatting check                               |
-| `npm run format`   | Apply Prettier formatting                                                            |
-| `npm run build`    | Production client build into `dist/`                                                 |
+| Command            | What it does                                                                                                                         |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
+| `npm start`        | Build if app code changed, start the server, open the browser                                                                        |
+| `npm run dev`      | Development mode: tsx-watched server + Vite client with hot reload                                                                   |
+| `npm test`         | Run the full Vitest suite (parser, aggregation, components)                                                                          |
+| `npm run validate` | Parse every recipe and report problems (`-- -v` lists pass-through ingredient lines)                                                 |
+| `npm run audit`    | Recompute every recipe's macros from `scripts/nutrition.ts` and report deviations from the stated values (report only, never writes) |
+| `npm run check`    | Typecheck (`tsc --noEmit`) + Prettier formatting check                                                                               |
+| `npm run format`   | Apply Prettier formatting                                                                                                            |
+| `npm run build`    | Production client build into `dist/`                                                                                                 |
 
 Requires Node ≥ 20.19 (`nvm install 22`).
 

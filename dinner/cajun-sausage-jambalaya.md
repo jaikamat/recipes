@@ -8,7 +8,7 @@
 
 - 1134g (2.5 lbs) Amylu paleo chicken andouille, sliced diagonally ¼-⅜" thick
 - 3 onions, diced ⅜"
-- 4 celery stalks, diced ⅜"
+- 160g celery, diced ⅜" (about 4 stalks)
 - 3 poblano peppers, diced ⅜"
 - 30g garlic paste
 - 3 green onions, sliced ⅜-½"

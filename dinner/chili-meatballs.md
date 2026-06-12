@@ -20,8 +20,8 @@ Spiced Indian-style meatballs with a crispy pan-fried crust.
 - 1/4 serrano pepper, finely chopped
 - 60g (1/4 cup) onion, finely chopped
 - 1 TBSP cilantro, chopped
-- 1/2 tsp oil (for the mixture)
-- 1 TBSP oil (for cooking)
+- 1/2 tsp olive oil (for the mixture)
+- 1 TBSP olive oil (for cooking)
 
 **Instructions:**
 

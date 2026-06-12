@@ -11,7 +11,7 @@ A simple, hearty minestrone with kidney beans, zucchini, and Rao's marinara.
 - 454g (1 lb) Italian sausage, casings removed
 - 30ml (2 TBSP) olive oil
 - 75g (1/2 cup) onion, finely chopped
-- 130g (1 cup) baby carrots, chopped
+- 130g (1 cup) carrots, chopped
 - 1 tsp Italian seasoning
 - 1/2 tsp dried basil
 - 907g (32 oz) Kirkland chicken bone broth

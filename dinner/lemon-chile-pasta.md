@@ -1,7 +1,7 @@
 ### Fresh Lemon and Chile Pasta
 
 **Servings:** 4
-**Per serving:** 452 cal | 30g protein | 20g fat | 85g carbs
+**Per serving:** 452 cal | 31g protein | 20g fat | 84g carbs
 **Per 100g:** 129 cal | 9g protein | 6g fat | 24g carbs (~350g per serving)
 
 Andy Baraghani's creamy, bright, and spicy pasta — butter, lemon, serrano, and parmesan come together in minutes.
@@ -15,7 +15,7 @@ Andy Baraghani's creamy, bright, and spicy pasta — butter, lemon, serrano, and
 - 1 tsp black pepper, freshly ground
 - 30g (2 TBSP) Shaoxing wine
 - 1 lemon
-- 120ml (1/2 cup) 2% milk
+- 120ml (1/2 cup) Fairlife 2% ultra-filtered milk
 - 2-3g (1/2 tsp) sodium citrate
 - 130g (4.5 oz) parmesan, plus more for serving
 - Sea salt to taste

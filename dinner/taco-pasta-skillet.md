@@ -1,12 +1,12 @@
 ### Taco Pasta Skillet
 
 **Servings:** 4
-**Per serving:** 630 cal | 60g protein | 37g fat | 48g carbs
-**Per 100g:** 137 cal | 13g protein | 8g fat | 10g carbs (~460g per serving)
+**Per serving:** 645 cal | 65g protein | 37g fat | 48g carbs
+**Per 100g:** 140 cal | 14g protein | 8g fat | 10g carbs (~460g per serving)
 
 **Ingredients:**
 
-- 30ml (2 TBSP) extra virgin olive oil
+- 30ml (2 TBSP) olive oil
 - 10g garlic paste
 - 1/2 onion, diced
 - 567g (1.25 lbs) ground turkey (taco seasoned) or ground turkey + low-sodium taco seasoning packet

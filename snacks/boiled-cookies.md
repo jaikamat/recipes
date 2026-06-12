@@ -9,7 +9,7 @@ Classic no-bake chocolate peanut butter oat cookies — just boil, mix, and drop
 **Ingredients:**
 
 - 400g (2 cups) granulated sugar
-- 120ml (1/2 cup) milk
+- 120ml (1/2 cup) Fairlife 2% ultra-filtered milk
 - 113g (1 stick) butter
 - 21g (1/4 cup) dutch process cocoa powder
 - 200g (2 1/2 cups) rolled oats

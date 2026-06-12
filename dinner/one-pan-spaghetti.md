@@ -20,7 +20,7 @@
 - 0.5 tsp dried oregano
 - 0.5 tsp chili flakes
 - Sea salt to taste (6-8g works with Costco broth)
-- Oil for cooking
+- Olive oil for cooking
 
 **Instructions:**
 

@@ -1,20 +1,20 @@
 ### Broccoli Cheddar Soup
 
 **Servings:** 4
-**Per serving:** 520 cal | 32g protein | 34g fat | 22g carbs
-**Per 100g:** 100 cal | 6g protein | 7g fat | 4g carbs (~525g per serving)
+**Per serving:** 505 cal | 34g protein | 32g fat | 21g carbs
+**Per 100g:** 96 cal | 6g protein | 6g fat | 4g carbs (~525g per serving)
 
 **Ingredients:**
 
 - 4 TBSP butter
 - 1 onion, chopped
-- 1 large carrot, chopped
-- 2 stalks celery, chopped
+- 72g carrots, chopped (about 1 large)
+- 80g celery, chopped (about 2 stalks)
 - 1/2 tsp sea salt
 - Black pepper to taste
 - 15g garlic paste
 - 1/4 cup (36g) powdered roux mix (or 1/4 cup 00 flour)
-- 1 cup whole milk
+- 240ml (1 cup) Fairlife 2% ultra-filtered milk
 - 3 cups Kirkland chicken bone broth
 - 3 cups chopped broccoli florets
 - 1/2 tsp Dijon mustard

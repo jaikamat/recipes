@@ -1,8 +1,8 @@
 ### Ricotta Pancakes
 
 **Servings:** 4
-**Per serving:** 268 cal | 12g protein | 13g fat | 24g carbs
-**Per 100g:** 223 cal | 10g protein | 11g fat | 20g carbs (~120g per serving)
+**Per serving:** 265 cal | 12g protein | 13g fat | 23g carbs
+**Per 100g:** 221 cal | 10g protein | 11g fat | 19g carbs (~120g per serving)
 
 **Ingredients:**
 
@@ -11,7 +11,7 @@
 - 1.25g baking soda
 - 1.5g sea salt
 - 185g ricotta cheese
-- 90g milk or water
+- 90g Fairlife 2% ultra-filtered milk (or water)
 - 2 eggs (100g)
 - 2.5g vanilla extract
 - 28g butter, melted

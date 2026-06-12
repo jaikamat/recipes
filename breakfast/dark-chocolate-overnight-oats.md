@@ -1,7 +1,7 @@
 ### Dark Chocolate Overnight Oats
 
 **Servings:** 1
-**Per serving:** 327 cal | 23g protein | 4g fat | 58g carbs
+**Per serving:** 335 cal | 23g protein | 4g fat | 59g carbs
 
 A MUSH-style overnight oats with dark cocoa and date paste. No cooking required — just mix and refrigerate overnight.
 
@@ -10,7 +10,7 @@ A MUSH-style overnight oats with dark cocoa and date paste. No cooking required 
 - 1.5 frozen date paste cubes (3 TBSP)
 - 115g (1/2 cup) 0% cottage cheese
 - 10g (2 TBSP) dutch process cocoa powder
-- 60mL (1/4 cup) Fairlife 0% skim milk
+- 60ml (1/4 cup) Fairlife 2% ultra-filtered milk
 - 20g (1/4 cup) rolled oats
 - 1mL (1/4 tsp) vanilla extract
 - 5g (1 tsp) erythritol

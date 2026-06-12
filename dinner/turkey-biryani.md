@@ -1,8 +1,8 @@
 ### Turkey Biryani
 
 **Servings:** 4
-**Per serving:** 577 cal | 41g protein | 16g fat | 63g carbs
-**Per 100g:** 155 cal | 11g protein | 4g fat | 17g carbs (~373g per serving)
+**Per serving:** 574 cal | 41g protein | 15g fat | 63g carbs
+**Per 100g:** 154 cal | 11g protein | 4g fat | 17g carbs (~373g per serving)
 
 A quick weeknight biryani using ground turkey and a DEEP brand ready-to-cook biryani spice packet. Cottage cheese stands in for yogurt, and spinach sneaks in extra greens without changing the flavor.
 
@@ -28,7 +28,7 @@ _Biryani:_
 - 240ml (1 cup) Kirkland chicken bone broth (for sauce)
 - 100-150g spinach, chopped (fresh or frozen, thawed and squeezed dry)
 - 1 onion, finely diced
-- 1 TBSP oil
+- 1 TBSP olive oil
 - 1 TBSP ghee
 
 _Garnish:_
