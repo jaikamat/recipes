@@ -1,8 +1,8 @@
 ### Banana Oat Muffins
 
 **Servings:** 12 muffins
-**Per serving:** 172 cal | 3g protein | 8g fat | 24g carbs
-**Per 100g:** 313 cal | 5g protein | 15g fat | 44g carbs (~55g per muffin)
+**Per serving:** 169 cal | 3g protein | 8g fat | 23g carbs
+**Per 100g:** 313 cal | 5g protein | 15g fat | 43g carbs (~54g per muffin)
 
 **Ingredients:**
 
@@ -20,14 +20,14 @@ _Wet:_
 - 100g applesauce
 - 160g (120ml) maple syrup
 - 72g (80ml) olive oil
-- 120ml Fairlife 2% ultra-filtered milk
+- 120ml Ripple unsweetened original pea milk
 - 1 tsp vanilla extract
 
 **Instructions:**
 
 1. Preheat oven to 350°F
 2. Mix oat flour, rolled oats, flax seeds, baking soda, baking powder, salt, and cinnamon in a large bowl
-3. In a separate bowl, whisk mashed banana, applesauce, maple syrup, melted ghee, milk, and vanilla until combined
+3. In a separate bowl, whisk mashed banana, applesauce, maple syrup, olive oil, milk, and vanilla until combined
 4. Pour wet ingredients into dry and fold gently until just combined — do not overmix
 5. Scoop batter into 12 lined or greased muffin cups
 6. Bake for 18-22 minutes, until lightly golden and a toothpick comes out clean
