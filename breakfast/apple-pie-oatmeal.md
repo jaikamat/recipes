@@ -7,7 +7,7 @@
 **Ingredients:**
 
 - 5 small apples or 3 large (any variety)
-- 3 TBSP butter
+- 3 TBSP olive oil
 - 2-3 TBSP maple syrup
 - 1 tsp cinnamon
 - 1/2 tsp ground cardamom

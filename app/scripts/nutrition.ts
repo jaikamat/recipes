@@ -70,6 +70,8 @@ export const NUTRITION: Record<string, NutritionEntry> = {
     c: 2.5,
     density: 1.03,
   },
+  // non-dairy — label: per 1 cup (224g) 70cal, 8P, 4.5F, 0C
+  'ripple unsweetened original pea milk': { cal: 31, p: 3.6, f: 2, c: 0, density: 0.93 },
   cheddar: { cal: 403, p: 23, f: 33, c: 3, density: 0.47 }, // shredded, ~113g/cup
   parmesan: { cal: 431, p: 38, f: 29, c: 4 },
   'parmesan (parmigiano reggiano)': { cal: 431, p: 38, f: 29, c: 4 },
@@ -292,11 +294,14 @@ export const NUTRITION: Record<string, NutritionEntry> = {
     lowConfidence: true,
   }, // piece = scoop
   'unflavored whey protein': { cal: 380, p: 85, f: 3, c: 4, lowConfidence: true },
+  // pea protein — label: per ~28g scoop 100cal, 20P, 2F, 0.5C
+  'truvani unflavored protein powder': { cal: 357, p: 71, f: 7, c: 2, piece: 28 },
 
   // ---- Spices & seasonings (meaningful quantities only) -------------------
   'sea salt': ZERO,
   msg: ZERO,
   'sodium citrate': ZERO,
+  'xanthan gum': ZERO, // sub-gram thickener; negligible macros
   'black pepper': { cal: 251, p: 10, f: 3.3, c: 64, density: 0.48 },
   'white pepper': { cal: 296, p: 10, f: 2.1, c: 69, density: 0.48 },
   'szechuan peppercorn': { cal: 280, p: 9, f: 8, c: 60, lowConfidence: true },
