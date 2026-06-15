@@ -91,6 +91,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'peanut butter': { cal: 588, p: 25, f: 50, c: 20 },
   'raw almond butter': { cal: 614, p: 21, f: 56, c: 19 },
   'pbfit peanut butter powder': { cal: 437, p: 50, f: 12.5, c: 31 },
+  'peanut butter powder': { cal: 437, p: 50, f: 12.5, c: 31, density: 0.4 },
 
   // ---- Grains, flours, starches ------------------------------------------
   '00 flour': { cal: 364, p: 11, f: 1, c: 76, density: 0.53 },
@@ -178,6 +179,9 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'worcestershire sauce': { cal: 78, p: 0, f: 0, c: 19, density: 1.1 },
   'hot sauce': { cal: 11, p: 0.5, f: 0.4, c: 1.8, density: 1 },
   'white vinegar': { cal: 18, p: 0, f: 0, c: 0, density: 1 },
+  'rice vinegar': { cal: 18, p: 0, f: 0, c: 0.5, density: 1 },
+  'chili crisp': { cal: 520, p: 7, f: 50, c: 13, density: 0.9, lowConfidence: true }, // oil-based; brand varies
+  'coconut milk': { cal: 197, p: 2, f: 21, c: 3, density: 0.98 }, // canned, full-fat
   'chinese black vinegar': {
     cal: 50,
     p: 0.5,
@@ -246,6 +250,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'green onion': { cal: 32, p: 1.8, f: 0.2, c: 7.3, piece: 15 },
   scallion: { cal: 32, p: 1.8, f: 0.2, c: 7.3 },
   'garlic paste': { cal: 149, p: 6.4, f: 0.5, c: 33, density: 1.1 },
+  'garlic clove': { cal: 149, p: 6.4, f: 0.5, c: 33, piece: 3 }, // per clove, minced
   'ginger paste': { cal: 80, p: 1.8, f: 0.8, c: 18, density: 1.1 },
   carrot: { cal: 41, p: 0.9, f: 0.2, c: 9.6 },
   celery: { cal: 14, p: 0.7, f: 0.2, c: 3 },
@@ -284,6 +289,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'sliced almond': { cal: 579, p: 21, f: 50, c: 22, density: 0.38 },
   'chia seed': { cal: 486, p: 17, f: 31, c: 42, density: 0.7 },
   'flax seed': { cal: 534, p: 18, f: 42, c: 29, density: 0.6 },
+  'sesame seed': { cal: 573, p: 17, f: 50, c: 23, density: 0.6 },
 
   // ---- Protein powders ----------------------------------------------------
   'vanilla whey protein': {
@@ -379,6 +385,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   water: ZERO,
   'cold water': ZERO,
   'warm water': ZERO,
+  'reserved pasta water': ZERO,
 };
 
 /**
