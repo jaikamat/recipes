@@ -159,6 +159,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   },
   'chocolate icing': { cal: 397, p: 1, f: 17, c: 63, lowConfidence: true }, // canned frosting per 100g
   'espresso powder or 1/2 tsp ground coffee': ZERO,
+  'decaf espresso powder': ZERO,
 
   // ---- Broths, sauces, condiments ----------------------------------------
   'kirkland chicken bone broth': { cal: 18.75, p: 4.6, f: 0, c: 0, density: 1 },
@@ -268,7 +269,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'fresh blackberry': { cal: 43, p: 1.4, f: 0.5, c: 10, density: 0.6 },
   'frozen wild blueberry': { cal: 57, p: 0.7, f: 0.3, c: 14, density: 0.65 },
   'blueberry preserve': { cal: 250, p: 0, f: 0, c: 62, density: 1.35 },
-  'medjool date': { cal: 277, p: 1.8, f: 0.2, c: 75 },
+  'medjool date': { cal: 277, p: 1.8, f: 0.2, c: 75, piece: 22 }, // pitted, per date
   'frozen date paste cube': { cal: 277, p: 1.8, f: 0.2, c: 75, piece: 30 }, // ~2 TBSP cube
   applesauce: { cal: 42, p: 0.1, f: 0.1, c: 11, piece: 90 }, // piece = 90g pouch
   'unsweetened applesauce': { cal: 42, p: 0.1, f: 0.1, c: 11, piece: 90 },
