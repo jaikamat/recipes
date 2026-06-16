@@ -192,6 +192,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   },
   'shaoxing wine': { cal: 100, p: 0.5, f: 0, c: 5, density: 1, lowConfidence: true },
   doubanjiang: { cal: 130, p: 6, f: 5, c: 15, lowConfidence: true },
+  'calabrian chile': { cal: 230, p: 2, f: 23, c: 6, density: 0.95, lowConfidence: true }, // jarred, chopped in oil
   'marinara sauce': { cal: 72, p: 1.6, f: 4.8, c: 5.6 }, // Rao's-style
   'jar marinara sauce': { cal: 72, p: 1.6, f: 4.8, c: 5.6, piece: 680 }, // 24oz jar
   'marinara sauce for dipping': { cal: 72, p: 1.6, f: 4.8, c: 5.6 },
@@ -266,6 +267,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   jalapeño: { cal: 29, p: 0.9, f: 0.4, c: 6.5, piece: 14 },
   'crimini mushroom': { cal: 22, p: 2.5, f: 0.1, c: 4.3, piece: 227 }, // piece = 8oz box
   'dried shiitake mushroom': { cal: 296, p: 9.6, f: 1, c: 75 },
+  'mushroom powder': { cal: 296, p: 10, f: 1, c: 75, density: 0.33, lowConfidence: true }, // ground dried mushrooms
   'dried red chile': { cal: 324, p: 12, f: 6, c: 70, piece: 2 },
   lemon: { cal: 29, p: 1.1, f: 0.3, c: 9.3, piece: 58 },
   banana: { cal: 89, p: 1.1, f: 0.3, c: 23, piece: 118 },
@@ -309,6 +311,14 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   msg: ZERO,
   'sodium citrate': ZERO,
   'xanthan gum': ZERO, // sub-gram thickener; negligible macros
+  'nutritional yeast': {
+    cal: 345,
+    p: 50,
+    f: 6,
+    c: 36,
+    density: 0.33,
+    lowConfidence: true,
+  },
   'black pepper': { cal: 251, p: 10, f: 3.3, c: 64, density: 0.48 },
   'white pepper': { cal: 296, p: 10, f: 2.1, c: 69, density: 0.48 },
   'szechuan peppercorn': { cal: 280, p: 9, f: 8, c: 60, lowConfidence: true },
