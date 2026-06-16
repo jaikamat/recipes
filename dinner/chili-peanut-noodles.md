@@ -1,8 +1,8 @@
 ### Chili Peanut Noodles
 
 **Servings:** 2
-**Per serving:** 497 cal | 26g protein | 19g fat | 107g carbs
-**Per 100g:** 121 cal | 6g protein | 5g fat | 26g carbs (~410g per serving)
+**Per serving:** 468 cal | 26g protein | 15g fat | 107g carbs
+**Per 100g:** 114 cal | 6g protein | 4g fat | 26g carbs (~410g per serving)
 
 **Ingredients:**
 
@@ -18,14 +18,14 @@
 - 1 TBSP rice vinegar
 - 12g (1 TBSP) granulated sugar
 - 1 TBSP chili crisp
-- 45ml (3 TBSP) coconut milk
+- 45ml (3 TBSP) light coconut milk
 - ~45ml (3 TBSP) reserved pasta water
 - Green onion, chopped peanuts, julienned cucumber, extra chili crisp for serving (garnish, not included in macros)
 
 **Instructions:**
 
 1. Cook noodles al dente. Reserve ~3 TBSP pasta water, then drain and rinse under cold water
-2. Whisk the peanut butter powder with the warm water until smooth, then stir in soy sauce, rice vinegar, sugar, chili crisp, and coconut milk. Set this sauce aside
+2. Whisk the peanut butter powder with the warm water until smooth, then stir in soy sauce, rice vinegar, sugar, chili crisp, and light coconut milk. Set this sauce aside
 3. Heat the olive oil in a pan over medium-high until shimmering. Add garlic, red pepper flakes, sesame seeds, and green onion whites. Fry 30-60 seconds, stirring, until fragrant and just golden — don't let the garlic burn
 4. Lower heat to medium and pour in the sauce. Stir and let it warm through and thicken slightly, about 1 minute
 5. Add the noodles and toss until fully coated
@@ -36,4 +36,4 @@
 
 **Notes:** Macros are estimates and swing most on noodle type and chili crisp brand. PB powder slurried in water matches the peanut flavor of ~2.5 TBSP peanut butter at a fraction of the fat; add another TBSP of powder for a thicker sauce rather than more oil.
 
-Leftover coconut milk freezes well — whisk the can smooth, portion into 2 TBSP silicone cubes (this recipe uses 1.5), and freeze. It separates when thawed but re-emulsifies in the warm sauce; add the cubes frozen straight to the pan.
+Leftover light coconut milk freezes well — whisk the can smooth, portion into 2 TBSP silicone cubes (this recipe uses 1.5), and freeze. It separates when thawed but re-emulsifies in the warm sauce; add the cubes frozen straight to the pan.

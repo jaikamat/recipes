@@ -181,7 +181,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'white vinegar': { cal: 18, p: 0, f: 0, c: 0, density: 1 },
   'rice vinegar': { cal: 18, p: 0, f: 0, c: 0.5, density: 1 },
   'chili crisp': { cal: 520, p: 7, f: 50, c: 13, density: 0.9, lowConfidence: true }, // oil-based; brand varies
-  'coconut milk': { cal: 197, p: 2, f: 21, c: 3, density: 0.98 }, // canned, full-fat
+  'light coconut milk': { cal: 64, p: 0, f: 5.8, c: 2.6, density: 0.99 }, // canned, light (~50 cal per 1/3 cup)
   'chinese black vinegar': {
     cal: 50,
     p: 0.5,
