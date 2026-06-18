@@ -13,20 +13,19 @@
 - 6g (2 tsp) sesame seeds
 - 33g (1/3 cup) green onion, sliced — whites for frying, greens for garnish
 - 18g (3 TBSP) peanut butter powder
-- 30ml (2 TBSP) warm water, to slurry the PB powder
 - 2 TBSP light soy sauce
 - 0.5 TBSP dark soy sauce
 - 10ml (2 tsp) rice vinegar
 - 12g (1 TBSP) granulated sugar
 - 1 TBSP chili crisp
 - 45ml (3 TBSP) light coconut milk
-- ~45ml (3 TBSP) reserved pasta water
+- ~75ml (5 TBSP) reserved pasta water (2 TBSP to slurry the PB powder, the rest to loosen)
 - Green onion, chopped peanuts, julienned cucumber, extra chili crisp for serving (garnish, not included in macros)
 
 **Instructions:**
 
-1. Cook noodles al dente. Reserve ~3 TBSP pasta water, then drain and rinse under cold water
-2. Whisk the peanut butter powder with the warm water until smooth, then stir in light soy sauce, dark soy sauce, rice vinegar, sugar, chili crisp, and light coconut milk. Set this sauce aside
+1. Cook noodles al dente. Reserve ~5 TBSP pasta water, then drain and rinse under cold water
+2. Whisk the peanut butter powder with 2 TBSP of the reserved pasta water until smooth, then stir in light soy sauce, dark soy sauce, rice vinegar, sugar, chili crisp, and light coconut milk. Set this sauce aside
 3. Heat the olive oil in a pan over medium-high until shimmering. Add garlic, red pepper flakes, sesame seeds, and green onion whites. Fry 30-60 seconds, stirring, until fragrant and just golden — don't let the garlic burn
 4. Lower heat to medium and pour in the sauce. Stir and let it warm through, simmering about 1 minute
 5. Add the noodles and toss until fully coated
