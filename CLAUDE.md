@@ -21,6 +21,13 @@ markdown as **read-only** and re-parses it on every refresh. After bulk
 recipe edits, run `cd app && npm run validate` to check that every file
 still parses; the golden corpus test in `npm test` enforces the same.
 
+## Recipe Change Workflow
+
+When adding, editing, or deleting any recipe, follow the **`recipe-change`**
+skill (`.claude/skills/recipe-change/`): update `app/scripts/nutrition.ts` for
+new ingredients, recompute the macro lines, and run `validate` → `audit` →
+`test` so a markdown edit never leaves an orphaned recipe behind.
+
 ## Recipe Template
 
 All recipes follow this Markdown format:
