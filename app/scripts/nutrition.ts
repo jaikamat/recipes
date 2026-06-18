@@ -76,6 +76,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   parmesan: { cal: 431, p: 38, f: 29, c: 4 },
   'parmesan (parmigiano reggiano)': { cal: 431, p: 38, f: 29, c: 4 },
   '0% cottage cheese': { cal: 70, p: 12, f: 0, c: 5 },
+  'cocojune unsweetened coconut yogurt': { cal: 107, p: 6.3, f: 8.2, c: 2.5, density: 1.03 }, // 170 cal per 159g tub serving
   'ricotta cheese': { cal: 174, p: 11, f: 13, c: 3 },
   'light cream cheese': { cal: 233, p: 8, f: 18, c: 8, lowConfidence: true },
   'fresh mozzarella': { cal: 280, p: 18, f: 22, c: 2 },
