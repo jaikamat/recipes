@@ -54,11 +54,13 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'turkey italian sausage': { cal: 140, p: 17, f: 8, c: 1, lowConfidence: true },
   'italian sausage': { cal: 290, p: 16, f: 25, c: 2, lowConfidence: true }, // pork assumed
   'batch breakfast sausage': { cal: 0, p: 0, f: 0, c: 0 }, // resolved from the recipe by the script
+  'batch dairy-free cheese sauce': { cal: 0, p: 0, f: 0, c: 0 }, // resolved from the recipe by the script
   ham: { cal: 145, p: 21, f: 6, c: 1.5 },
   bacon: { cal: 540, p: 37, f: 42, c: 1.4, piece: 12 }, // cooked, per strip
   egg: { cal: 143, p: 12.6, f: 9.5, c: 0.7, piece: 50 },
   'egg white': { cal: 52, p: 11, f: 0.2, c: 0.7, piece: 33 },
   'extra firm tofu': { cal: 90, p: 10, f: 5, c: 2 },
+  'firm tofu': { cal: 118, p: 13, f: 7, c: 3, lowConfidence: true },
   'soft tofu': { cal: 60, p: 6.5, f: 3.5, c: 1.8 },
 
   // ---- Dairy --------------------------------------------------------------
@@ -218,6 +220,8 @@ export const NUTRITION: Record<string, NutritionEntry> = {
     lowConfidence: true,
   },
   'lemon juice': { cal: 22, p: 0.4, f: 0.2, c: 6.9, density: 1 },
+  'lime juice': { cal: 25, p: 0.4, f: 0.1, c: 8.4, density: 1.02 },
+  'white miso': { cal: 199, p: 12, f: 6, c: 26, density: 1.15, lowConfidence: true },
 
   // ---- Tomatoes -----------------------------------------------------------
   tomato: { cal: 18, p: 0.9, f: 0.2, c: 3.9 },
@@ -338,6 +342,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
     lowConfidence: true,
   },
   paprika: { cal: 282, p: 14, f: 13, c: 54, density: 0.46 },
+  'smoked paprika': { cal: 282, p: 14, f: 13, c: 54, density: 0.46 },
   cumin: { cal: 375, p: 18, f: 22, c: 44, density: 0.5 },
   'cumin seed': { cal: 375, p: 18, f: 22, c: 44, density: 0.5 },
   'ground cumin': { cal: 375, p: 18, f: 22, c: 44, density: 0.5 },

@@ -126,8 +126,14 @@ for (const recipe of recipes) {
       // House convention: stated macros exclude optional ingredients
       // (boiled-cookies pecans, minestrone parmesan).
       if (/optional/i.test(ing.raw)) continue;
-      if (ing.name === 'batch breakfast sausage') {
-        const batch = batchTotal('breakfast/breakfast-sausage');
+      const batchRef =
+        ing.name === 'batch breakfast sausage'
+          ? 'breakfast/breakfast-sausage'
+          : ing.name === 'batch dairy-free cheese sauce'
+            ? 'snacks/dairy-free-cheese-sauce'
+            : null;
+      if (batchRef) {
+        const batch = batchTotal(batchRef);
         if (batch) {
           total.calories += batch.calories * ing.quantity!.value;
           total.protein += batch.protein * ing.quantity!.value;
