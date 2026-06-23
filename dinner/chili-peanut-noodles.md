@@ -36,4 +36,6 @@
 
 **Notes:** Macros are estimates and swing most on noodle type and chili crisp brand. PB powder slurried in water matches the peanut flavor of ~2.5 TBSP peanut butter at a fraction of the fat; add another TBSP of powder for a thicker sauce rather than more oil.
 
+To make it soy-free, swap both soy sauces (2.5 TBSP total) for coconut aminos. Coconut aminos is less salty and sweeter than soy sauce, so use about 3 TBSP (a touch more to make up for the lower saltiness), add a pinch of sea salt (~1/4 tsp) to bring back the savory edge, and cut the granulated sugar to ~1 tsp or skip it since the aminos is already sweet. The sauce comes out lighter in color without the dark soy. Also check your chili crisp and PB powder labels — many chili crisp brands contain soy.
+
 Leftover light coconut milk freezes well — whisk the can smooth, portion into 2 TBSP silicone cubes (this recipe uses 1.5), and freeze. It separates when thawed but re-emulsifies in the warm sauce; add the cubes frozen straight to the pan.
