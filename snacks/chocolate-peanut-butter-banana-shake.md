@@ -18,7 +18,7 @@ A thick, frosty, fully non-dairy chocolate-peanut-butter shake built for a cut â
 - 20g (5 tsp) erythritol, or to taste
 - 1/4 tsp decaf espresso powder
 - 1/4 tsp vanilla extract
-- 1/16 tsp ground cardamom (optional)
+- 1/16 tsp cinnamon
 - 1/8 tsp xanthan gum
 - Pinch of sea salt
 
