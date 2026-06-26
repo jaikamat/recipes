@@ -8,7 +8,7 @@ A nutty, savory nutritional-yeast blend with MSG for a cheesy, umami hit. Sprink
 
 - 3 TBSP nutritional yeast
 - 1 tsp garlic powder
-- 1 tsp sea salt
+- 1/2 tsp sea salt
 - 1/8 tsp MSG
 - 1/2 tsp black pepper
 - 1/2 tsp red pepper flakes
