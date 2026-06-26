@@ -310,6 +310,8 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'unflavored whey protein': { cal: 380, p: 85, f: 3, c: 4, lowConfidence: true },
   // pea protein — label: per ~28g scoop 100cal, 20P, 2F, 0.5C
   'truvani unflavored protein powder': { cal: 357, p: 71, f: 7, c: 2, piece: 28 },
+  // Orgain Organic Protein & Superfoods (Vanilla Bean) — label: per 51g (2 scoops) 160cal, 21P, 4.5F, 20C (8g fiber)
+  'orgain vanilla protein powder': { cal: 314, p: 41, f: 8.8, c: 39, piece: 25.5 },
 
   // ---- Spices & seasonings (meaningful quantities only) -------------------
   'sea salt': ZERO,
