@@ -1,23 +1,28 @@
 ### Taco Pasta Skillet
 
 **Servings:** 4
-**Per serving:** 594 cal | 51g protein | 28g fat | 59g carbs
-**Per 100g:** 128 cal | 11g protein | 6g fat | 13g carbs (~465g per serving)
+**Per serving:** 513 cal | 44g protein | 22g fat | 58g carbs
+**Per 100g:** 123 cal | 11g protein | 5g fat | 14g carbs (~415g per serving)
 
-A dairy-free skillet — the cheddar is replaced with a blended tofu-and-nutritional-yeast cheese sauce stirred in off the heat.
+A dairy- and soy-free skillet — the cheddar is replaced with a no-cook "cheeze" finish of coconut yogurt and nutritional yeast stirred in off the heat, which thickens the sauce as it melds.
 
 **Ingredients:**
 
 - 30ml (2 TBSP) olive oil
 - 10g garlic paste
 - 1/2 onion, diced
-- 567g (1.25 lbs) ground turkey (taco seasoned) or ground turkey + low-sodium taco seasoning packet
+- 454g (1 lb) ground turkey (taco seasoned) or ground turkey + low-sodium taco seasoning packet
 - 480ml (2 cups) Kirkland chicken bone broth
 - 538g (19oz) can red enchilada sauce
 - 227g (8oz, about 2.5 cups) Carbe Diem elbow pasta
 - 60g (2 cups) spinach
 - Pinch of sea salt
-- 1/2 batch Dairy-Free Cheese Sauce (see recipe; ~250g)
+
+_Cheeze finish:_
+
+- 120g cocojune unsweetened coconut yogurt
+- 40g (about 1/2 cup) nutritional yeast
+- 2g MSG
 
 **Instructions:**
 
@@ -27,11 +32,11 @@ A dairy-free skillet — the cheddar is replaced with a blended tofu-and-nutriti
 4. Bring to a boil, then reduce heat to low and cover
 5. Cook covered for about 15 minutes. Add spinach partway through
 6. Remove lid and simmer for an additional 5 minutes until pasta is tender and sauce has reduced
-7. While the pasta cooks, blend up a batch of the Dairy-Free Cheese Sauce (see its recipe) until completely smooth. You'll use about half (~250g) here; refrigerate the rest
-8. Remove the skillet from the heat and stir in half the cheese sauce until glossy and evenly coated. Keep it over low heat or off the heat — don't boil it once the sauce is in, or the tofu can turn grainy
+7. Remove the skillet from the heat. Sprinkle the nutritional yeast and MSG over the top and stir until fully dissolved into the sauce — it drinks up the remaining liquid and thickens noticeably
+8. Stir in the coconut yogurt until the sauce turns glossy and creamy. Off the heat the residual warmth is exactly right; don't return it to a boil once the yogurt is in or it can split
 
 **Freeze:** Portion into containers after cooling. Pasta may soften slightly upon reheating.
 
-**Reheat:** Warm in a pan over medium-low heat with a splash of broth to loosen. Microwave works but stovetop gives better texture. The cheese sauce firms as it chills, so a little extra broth and a gentle stir bring it back glossy.
+**Reheat:** Warm in a pan over medium-low heat with a splash of broth to loosen. Microwave works but stovetop gives better texture. The sauce firms as it chills, so a little extra broth and a gentle stir bring it back glossy.
 
-**Notes:** For a richer sauce closer to full-fat cheddar, bump the olive oil or blend in 100g soaked cashews. To make the traditional dairy version, skip the cheese sauce and stir 226g (2 cups) shredded cheddar into the finished skillet off the heat instead.
+**Notes:** The 3:1 yogurt-to-yeast ratio is tuned for stirring into a finished dish — the skillet supplies the liquid, the yeast supplies cheesiness and thickening, and the yogurt supplies creaminess and a lactic tang that reads like melted cheese. For a richer, saucier version, swap the cheeze finish for a 1/2 batch (~215g) of the Dairy-Free Cheese Sauce in snacks/. To make the traditional dairy version, stir 226g (2 cups) shredded cheddar into the finished skillet off the heat instead.
