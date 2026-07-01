@@ -32,4 +32,5 @@ A soy-free stand-in for medium-firm tofu, in the tradition of Japanese tamago do
 - Firmness dial: the broth is the tenderizer. Omit it entirely for the firmest, bounciest block; 150g gives a braisable medium-firm; up to 225g approaches soft/silken and is best spooned rather than cubed
 - Culinary precedent: Japanese tamago dofu and the commercial "egg tofu" tubes in Asian markets are the same idea with whole eggs and dashi — they're routinely cubed, fried, and braised in Chinese cooking. Egg whites alone set firmer and leaner
 - Broth adds a light savory backbone; use water plus a pinch more salt and MSG if you want it flavor-neutral
+- A silicone mold (e.g. a 4-cup Souper Cubes rectangle) works as well as metal and releases cleaner — no oil or parchment needed. Set the mold in the roasting pan before filling (full of liquid it's floppy), cover with foil rather than the plastic lid (not oven-safe), and expect the set to take 10-15 minutes longer since silicone insulates. The jiggle/165°F doneness test doesn't change
 - Made for the Mapo Tofu in dinner/ — swap 400g of cubes in for the soft tofu, added off a hard boil in the final 2-3 minutes
