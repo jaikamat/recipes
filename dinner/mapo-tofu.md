@@ -39,3 +39,5 @@
 **Freeze:** In portions after cooling. Tofu will become chewier and more porous, absorbing more sauce.
 
 **Reheat:** Warm gently in a pot over medium-low heat. Add a splash of broth if too thick.
+
+**Notes:** For a soy-free tofu base, the Egg White Tofu in snacks/ subs 1:1 for the 400g soft tofu — add the cubes in the final 2-3 minutes off a hard boil and stir gently. (A fully soy-free mapo also needs swaps for the doubanjiang and soy sauce.)
