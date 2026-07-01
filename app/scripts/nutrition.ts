@@ -55,6 +55,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'italian sausage': { cal: 290, p: 16, f: 25, c: 2, lowConfidence: true }, // pork assumed
   'batch breakfast sausage': { cal: 0, p: 0, f: 0, c: 0 }, // resolved from the recipe by the script
   'batch dairy-free cheese sauce': { cal: 0, p: 0, f: 0, c: 0 }, // resolved from the recipe by the script
+  'batch egg white tofu': { cal: 0, p: 0, f: 0, c: 0 }, // resolved from the recipe by the script
   ham: { cal: 145, p: 21, f: 6, c: 1.5 },
   bacon: { cal: 540, p: 37, f: 42, c: 1.4, piece: 12 }, // cooked, per strip
   egg: { cal: 143, p: 12.6, f: 9.5, c: 0.7, piece: 50 },
@@ -178,6 +179,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'soy sauce': { cal: 53, p: 8, f: 0, c: 5, density: 1.15 },
   'light soy sauce': { cal: 53, p: 8, f: 0, c: 5, density: 1.15 },
   'dark soy sauce': { cal: 60, p: 8, f: 0, c: 8, density: 1.2 },
+  'coconut aminos': { cal: 85, p: 1, f: 0, c: 17, density: 1.15, lowConfidence: true }, // ~5 cal per tsp label
   'oyster sauce': { cal: 51, p: 1.4, f: 0, c: 11, density: 1.25 },
   'worcestershire sauce': { cal: 78, p: 0, f: 0, c: 19, density: 1.1 },
   'hot sauce': { cal: 11, p: 0.5, f: 0.4, c: 1.8, density: 1 },

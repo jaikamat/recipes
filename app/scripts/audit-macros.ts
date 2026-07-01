@@ -131,7 +131,9 @@ for (const recipe of recipes) {
           ? 'breakfast/breakfast-sausage'
           : ing.name === 'batch dairy-free cheese sauce'
             ? 'snacks/dairy-free-cheese-sauce'
-            : null;
+            : ing.name === 'batch egg white tofu'
+              ? 'snacks/egg-white-tofu'
+              : null;
       if (batchRef) {
         const batch = batchTotal(batchRef);
         if (batch) {
