@@ -1,8 +1,8 @@
 ### Taco Pasta Skillet
 
 **Servings:** 4
-**Per serving:** 513 cal | 44g protein | 22g fat | 58g carbs
-**Per 100g:** 123 cal | 11g protein | 5g fat | 14g carbs (~415g per serving)
+**Per serving:** 500 cal | 43g protein | 21g fat | 58g carbs
+**Per 100g:** 124 cal | 11g protein | 5g fat | 14g carbs (~403g per serving)
 
 A dairy- and soy-free skillet — the cheddar is replaced with a no-cook "cheeze" finish of coconut yogurt and nutritional yeast stirred in off the heat, which thickens the sauce as it melds.
 
@@ -20,7 +20,7 @@ A dairy- and soy-free skillet — the cheddar is replaced with a no-cook "cheeze
 
 _Cheeze finish:_
 
-- 120g cocojune unsweetened coconut yogurt
+- 70g cocojune unsweetened coconut yogurt
 - 40g (about 1/2 cup) nutritional yeast
 - 2g MSG
 
