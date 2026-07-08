@@ -142,6 +142,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   // ---- Chocolate & baking -------------------------------------------------
   'chocolate chip': { cal: 500, p: 3.5, f: 28.6, c: 64.3, density: 0.72 }, // Toll House semisweet label
   'chocolate chips (toll house)': { cal: 500, p: 3.5, f: 28.6, c: 64.3 },
+  'dark chocolate': { cal: 598, p: 7.8, f: 42.6, c: 45.9 }, // USDA 70-85% cacao, dairy-free
   'dutch process cocoa powder': { cal: 228, p: 19.6, f: 13.7, c: 57.9, density: 0.41 },
   'vanilla extract': { cal: 288, p: 0, f: 0, c: 13, density: 0.88 },
   'baking powder': { cal: 53, p: 0, f: 0, c: 28, density: 0.9 },
