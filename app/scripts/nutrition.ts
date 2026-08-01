@@ -107,6 +107,14 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'rolled oat': { cal: 379, p: 13, f: 6.5, c: 67, density: 0.34 },
   cornstarch: { cal: 381, p: 0.3, f: 0.1, c: 91, density: 0.54 },
   breadcrumb: { cal: 395, p: 13, f: 5.3, c: 72 },
+  "annie's organic flaky biscuit": {
+    cal: 298,
+    p: 5.3,
+    f: 10.5,
+    c: 43.9,
+    piece: 57,
+    lowConfidence: true, // label: 170 cal / 3P / 6F / 25C per 57g biscuit
+  },
   'basmati rice': { cal: 365, p: 7.5, f: 0.6, c: 80, density: 0.85 }, // dry
   'uncooked basmati rice': { cal: 365, p: 7.5, f: 0.6, c: 80, density: 0.85 },
   polenta: { cal: 362, p: 8, f: 2, c: 79, density: 0.65 }, // dry cornmeal
@@ -394,6 +402,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   sage: { cal: 315, p: 11, f: 13, c: 61, density: 0.3 },
   rosemary: { cal: 331, p: 5, f: 15, c: 64, density: 0.3 },
   'dried oregano': { cal: 265, p: 9, f: 4, c: 69, density: 0.3 },
+  'dried thyme': { cal: 276, p: 9.1, f: 7.4, c: 64, density: 0.3 },
   'crushed oregano leave': { cal: 265, p: 9, f: 4, c: 69, density: 0.3 },
   'dried basil': { cal: 233, p: 23, f: 4, c: 48, density: 0.25 },
   'dry mustard': { cal: 508, p: 26, f: 36, c: 28, density: 0.5 },
