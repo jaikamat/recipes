@@ -56,3 +56,4 @@ _Dumplings:_
 - No flour on hand: skip step 3 and whisk 12g (1.5 TBSP) cornstarch into 60ml cold broth, stirring it in at the end of step 4
 - 99/1 turkey will read dry and chalky no matter what you do with it. Use 93/7 or 85/15
 - Protein knob: the full 770g packet with broth scaled to 1.6L gives 5 servings at roughly 650 cal | 51g protein | 25g fat | 53g carbs. Same can of biscuits
+- Turkey & Slick Dumplings is the leaner rebuild of this — rolled pizza dough instead of canned biscuits, at 523 cal | 55g protein | 16g fat per serving and about a third the sodium
