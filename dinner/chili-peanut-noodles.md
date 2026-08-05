@@ -15,7 +15,7 @@
 - 18g (3 TBSP) peanut butter powder
 - 52g (3 TBSP) coconut aminos
 - 1/4 tsp sea salt
-- 10ml (2 tsp) rice vinegar
+- 8g (1.5 tsp) Chinese black vinegar
 - 1 TBSP chili crisp
 - 60ml (4 TBSP) light coconut milk
 - ~75ml (5 TBSP) reserved pasta water (2 TBSP to slurry the PB powder, the rest to loosen)
@@ -24,7 +24,7 @@
 **Instructions:**
 
 1. Cook noodles al dente. Reserve ~5 TBSP pasta water, then drain and rinse under cold water
-2. Whisk the peanut butter powder with 2 TBSP of the reserved pasta water until smooth, then stir in coconut aminos, sea salt, rice vinegar, chili crisp, and light coconut milk. Set this sauce aside
+2. Whisk the peanut butter powder with 2 TBSP of the reserved pasta water until smooth, then stir in coconut aminos, sea salt, black vinegar, chili crisp, and light coconut milk. Set this sauce aside
 3. Heat the olive oil in a pan over medium-high until shimmering. Add garlic, red pepper flakes, sesame seeds, and green onion whites. Fry 30-60 seconds, stirring, until fragrant and just golden — don't let the garlic burn
 4. Lower heat to medium and pour in the sauce. Stir and let it warm through, simmering about 1 minute
 5. Add the noodles and toss until fully coated
@@ -34,6 +34,8 @@
 **Storage:** The sauce slurry (step 2) keeps in the fridge 3-4 days — fry the aromatics and toss fresh when serving. Dressed noodles don't freeze well, so this one is best made to order.
 
 **Notes:** Macros are estimates and swing most on noodle type and chili crisp brand. PB powder slurried in water matches the peanut flavor of ~2.5 TBSP peanut butter at a fraction of the fat; add another TBSP of powder for a thicker sauce rather than more oil.
+
+The black vinegar is doing real work here — aged and malty, it backfills some of the fermented depth this soy-free build gives up, and darkens the sauce a little. Use real Chinkiang (Gold Plum), not a blend cut with caramel color. Rice vinegar is the fallback if that's what's on hand: it's brighter and one-note, so use 10ml (2 tsp) to make up for the lost body.
 
 This is the soy-free build: coconut aminos stand in for both soy sauces — slightly more volume to make up for the lower saltiness, backed by the 1/4 tsp sea salt — and there's no added sugar because the aminos are already sweet. The sauce comes out lighter in color without dark soy. Check your chili crisp and PB powder labels too — many chili crisp brands contain soy. For the traditional version, swap the aminos and salt for 2 TBSP light soy sauce + 0.5 TBSP dark soy sauce and add 12g (1 TBSP) granulated sugar.
 
