@@ -176,6 +176,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'chocolate icing': { cal: 397, p: 1, f: 17, c: 63, lowConfidence: true }, // canned frosting per 100g
   'espresso powder or 1/2 tsp ground coffee': ZERO,
   'decaf espresso powder': ZERO,
+  'decaf instant coffee': ZERO,
 
   // ---- Broths, sauces, condiments ----------------------------------------
   'kirkland chicken bone broth': { cal: 18.75, p: 4.6, f: 0, c: 0, density: 1 },
