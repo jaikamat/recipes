@@ -115,6 +115,10 @@ export const NUTRITION: Record<string, NutritionEntry> = {
     piece: 57,
     lowConfidence: true, // label: 170 cal / 3P / 6F / 25C per 57g biscuit
   },
+  // Bob's Red Mill label: per 47g dry — 170 cal, 6P, 1F, 34C (5g fiber).
+  // 1/4 cup dry = 47g, so a cup is ~188g (density 0.79).
+  'semi-pearled farro': { cal: 362, p: 12.8, f: 2.1, c: 72.3, density: 0.79 },
+  farro: { cal: 362, p: 12.8, f: 2.1, c: 72.3, density: 0.79 },
   'basmati rice': { cal: 365, p: 7.5, f: 0.6, c: 80, density: 0.85 }, // dry
   'uncooked basmati rice': { cal: 365, p: 7.5, f: 0.6, c: 80, density: 0.85 },
   polenta: { cal: 362, p: 8, f: 2, c: 79, density: 0.65 }, // dry cornmeal
@@ -239,6 +243,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
 
   // ---- Tomatoes -----------------------------------------------------------
   tomato: { cal: 18, p: 0.9, f: 0.2, c: 3.9 },
+  'cherry tomato': { cal: 18, p: 0.9, f: 0.2, c: 3.9, piece: 17 },
   'tomato paste': { cal: 82, p: 4.3, f: 0.5, c: 19, density: 1.1 },
   'crushed tomato': { cal: 32, p: 1.6, f: 0.3, c: 7 },
   'canned tomato': { cal: 19, p: 0.9, f: 0.1, c: 4.3 },
@@ -276,6 +281,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   celery: { cal: 14, p: 0.7, f: 0.2, c: 3 },
   'baby carrot': { cal: 41, p: 0.9, f: 0.2, c: 9.6 },
   spinach: { cal: 23, p: 2.9, f: 0.4, c: 3.6, piece: 283, density: 0.13 }, // piece = 10oz bag; cup ~30g
+  kale: { cal: 49, p: 4.3, f: 0.9, c: 8.8, piece: 15, density: 0.07 }, // piece = 1 large leaf, destemmed
   'chopped broccoli floret': { cal: 34, p: 2.8, f: 0.4, c: 7, density: 0.37 }, // cup ~88g
   zucchini: { cal: 17, p: 1.2, f: 0.3, c: 3.1, piece: 200 },
   'medium zucchini': { cal: 17, p: 1.2, f: 0.3, c: 3.1, piece: 200 },
