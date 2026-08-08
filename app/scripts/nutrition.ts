@@ -44,6 +44,8 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   '90% lean ground pork': { cal: 176, p: 20, f: 10, c: 0, lowConfidence: true },
   'chicken breast': { cal: 120, p: 22.5, f: 2.6, c: 0 },
   'boneless skinless chicken breast': { cal: 120, p: 22.5, f: 2.6, c: 0 },
+  // Perdue 98% fat free label: per 4 oz (112g) — 110 cal, 24g P, 1.5g F, 0 C
+  'ground chicken breast': { cal: 98, p: 22, f: 1.5, c: 0, lowConfidence: true },
   'amylu paleo chicken andouille': {
     cal: 165,
     p: 15,
@@ -295,6 +297,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'mushroom powder': { cal: 296, p: 10, f: 1, c: 75, density: 0.33, lowConfidence: true }, // ground dried mushrooms
   'dried red chile': { cal: 324, p: 12, f: 6, c: 70, piece: 2 },
   lemon: { cal: 29, p: 1.1, f: 0.3, c: 9.3, piece: 58 },
+  'lemon zest': { cal: 47, p: 1.5, f: 0.3, c: 16, density: 0.4 }, // USDA lemon peel, raw
   banana: { cal: 89, p: 1.1, f: 0.3, c: 23, piece: 118 },
   'ripe banana': { cal: 89, p: 1.1, f: 0.3, c: 23, piece: 118 },
   'small apples or 3 large': { cal: 52, p: 0.3, f: 0.2, c: 14, piece: 150 },
@@ -306,6 +309,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   applesauce: { cal: 42, p: 0.1, f: 0.1, c: 11, piece: 90 }, // piece = 90g pouch
   'unsweetened applesauce': { cal: 42, p: 0.1, f: 0.1, c: 11, piece: 90 },
   cilantro: { cal: 23, p: 2.1, f: 0.5, c: 3.7, density: 0.1 },
+  dill: { cal: 43, p: 3.5, f: 1.1, c: 7, density: 0.1 }, // fresh dill weed
   basil: { cal: 23, p: 3.2, f: 0.6, c: 2.7 },
   'basil leave': { cal: 23, p: 3.2, f: 0.6, c: 2.7, piece: 0.5, density: 0.1 },
 
@@ -408,6 +412,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   nutmeg: { cal: 525, p: 6, f: 36, c: 49, density: 0.5 },
   sage: { cal: 315, p: 11, f: 13, c: 61, density: 0.3 },
   rosemary: { cal: 331, p: 5, f: 15, c: 64, density: 0.3 },
+  'dried dill': { cal: 253, p: 20, f: 4.4, c: 55.8, density: 0.2 }, // 1 tsp ≈ 1g
   'dried oregano': { cal: 265, p: 9, f: 4, c: 69, density: 0.3 },
   'dried thyme': { cal: 276, p: 9.1, f: 7.4, c: 64, density: 0.3 },
   'crushed oregano leave': { cal: 265, p: 9, f: 4, c: 69, density: 0.3 },
@@ -418,6 +423,8 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'whole clove': { cal: 274, p: 6, f: 13, c: 66, density: 0.45 },
   'saffron strand': { cal: 310, p: 11, f: 6, c: 65 },
   'small bay leaf': { cal: 313, p: 8, f: 8, c: 75, piece: 0.2 },
+  'bay leaf': { cal: 313, p: 8, f: 8, c: 75, piece: 0.2 },
+  'bay leave': { cal: 313, p: 8, f: 8, c: 75, piece: 0.2 }, // plural fold of "bay leaves"
   'assam tea': ZERO,
 
   // ---- Liquids ------------------------------------------------------------
