@@ -412,6 +412,9 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   nutmeg: { cal: 525, p: 6, f: 36, c: 49, density: 0.5 },
   sage: { cal: 315, p: 11, f: 13, c: 61, density: 0.3 },
   rosemary: { cal: 331, p: 5, f: 15, c: 64, density: 0.3 },
+  'dried rosemary': { cal: 331, p: 5, f: 15, c: 64, density: 0.3 },
+  // celery seed cut with salt, roughly 1:2 — 1 tsp ≈ 2.5g
+  'celery salt': { cal: 130, p: 4, f: 8, c: 11, density: 0.5, lowConfidence: true },
   'dried dill': { cal: 253, p: 20, f: 4.4, c: 55.8, density: 0.2 }, // 1 tsp ≈ 1g
   'dried oregano': { cal: 265, p: 9, f: 4, c: 69, density: 0.3 },
   'dried thyme': { cal: 276, p: 9.1, f: 7.4, c: 64, density: 0.3 },
