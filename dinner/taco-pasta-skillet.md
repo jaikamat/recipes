@@ -1,8 +1,8 @@
 ### Taco Pasta Skillet
 
 **Servings:** 4
-**Per serving:** 675 cal | 50g protein | 38g fat | 56g carbs
-**Per 100g:** 156 cal | 12g protein | 9g fat | 13g carbs (~432g per serving)
+**Per serving:** 561 cal | 44g protein | 29g fat | 55g carbs
+**Per 100g:** 139 cal | 11g protein | 7g fat | 14g carbs (~404g per serving)
 
 **Ingredients:**
 
@@ -13,7 +13,7 @@
 - 480ml (2 cups) Kirkland chicken bone broth
 - 538g (19oz) can red enchilada sauce
 - 227g (8oz, about 2.5 cups) Carbe Diem elbow pasta
-- 226g (2 cups) cheddar (Kerrygold Reserve)
+- 113g (1 cup) cheddar (Kerrygold Reserve)
 - 60g (2 cups) spinach
 - Pinch of sea salt
 
