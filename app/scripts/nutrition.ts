@@ -80,6 +80,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   cheddar: { cal: 403, p: 23, f: 33, c: 3, density: 0.47 }, // shredded, ~113g/cup
   parmesan: { cal: 431, p: 38, f: 29, c: 4 },
   'parmesan (parmigiano reggiano)': { cal: 431, p: 38, f: 29, c: 4 },
+  gruyère: { cal: 413, p: 29.8, f: 32.3, c: 0.4 },
   '0% cottage cheese': { cal: 70, p: 12, f: 0, c: 5 },
   // creamed, large or small curd — USDA reference values
   '4% cottage cheese': { cal: 98, p: 11.1, f: 4.3, c: 3.4 },
@@ -137,6 +138,9 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   // Carbs here are TOTAL carbs, matching the house macro convention.
   'carbe diem spaghetti': { cal: 196, p: 14.3, f: 0.9, c: 71.4 },
   'carbe diem elbow pasta': { cal: 196, p: 14.3, f: 0.9, c: 71.4 },
+  // Generic high-protein wheat pasta (Barilla Protein+ style label):
+  // per 56g dry — 200 cal, 10P, 1.5F, 38C.
+  'protein pasta': { cal: 357, p: 17.9, f: 2.7, c: 67.9, lowConfidence: true },
   'leftover bread stuffing': {
     cal: 195,
     p: 4,
@@ -280,6 +284,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'garlic clove': { cal: 149, p: 6.4, f: 0.5, c: 33, piece: 3 }, // per clove, minced
   'ginger paste': { cal: 80, p: 1.8, f: 0.8, c: 18, density: 1.1 },
   carrot: { cal: 41, p: 0.9, f: 0.2, c: 9.6 },
+  'frozen pea': { cal: 77, p: 5.2, f: 0.4, c: 13.6, density: 0.61 }, // cup ~145g
   celery: { cal: 14, p: 0.7, f: 0.2, c: 3 },
   'baby carrot': { cal: 41, p: 0.9, f: 0.2, c: 9.6 },
   spinach: { cal: 23, p: 2.9, f: 0.4, c: 3.6, piece: 283, density: 0.13 }, // piece = 10oz bag; cup ~30g
@@ -416,6 +421,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   // celery seed cut with salt, roughly 1:2 — 1 tsp ≈ 2.5g
   'celery salt': { cal: 130, p: 4, f: 8, c: 11, density: 0.5, lowConfidence: true },
   'dried dill': { cal: 253, p: 20, f: 4.4, c: 55.8, density: 0.2 }, // 1 tsp ≈ 1g
+  'dried marjoram': { cal: 271, p: 12.7, f: 7, c: 60.6, density: 0.2 },
   'dried oregano': { cal: 265, p: 9, f: 4, c: 69, density: 0.3 },
   'dried thyme': { cal: 276, p: 9.1, f: 7.4, c: 64, density: 0.3 },
   'crushed oregano leave': { cal: 265, p: 9, f: 4, c: 69, density: 0.3 },
