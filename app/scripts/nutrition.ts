@@ -209,6 +209,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'rice vinegar': { cal: 18, p: 0, f: 0, c: 0.5, density: 1 },
   'chili crisp': { cal: 520, p: 7, f: 50, c: 13, density: 0.9, lowConfidence: true }, // oil-based; brand varies
   'light coconut milk': { cal: 64, p: 0, f: 5.8, c: 2.6, density: 0.99 }, // canned, light (~50 cal per 1/3 cup)
+  'coconut milk': { cal: 197, p: 2, f: 21, c: 2.8, density: 0.98 }, // canned, full-fat
   'chinese black vinegar': {
     cal: 50,
     p: 0.5,
@@ -305,7 +306,10 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'lemon zest': { cal: 47, p: 1.5, f: 0.3, c: 16, density: 0.4 }, // USDA lemon peel, raw
   banana: { cal: 89, p: 1.1, f: 0.3, c: 23, piece: 118 },
   'ripe banana': { cal: 89, p: 1.1, f: 0.3, c: 23, piece: 118 },
+  apple: { cal: 52, p: 0.3, f: 0.2, c: 13.8, piece: 182 }, // raw, with skin
   'small apples or 3 large': { cal: 52, p: 0.3, f: 0.2, c: 14, piece: 150 },
+  // canned, unsweetened (not pie filling); piece = 15 oz can
+  'pumpkin puree': { cal: 34, p: 1.1, f: 0.3, c: 8.1, density: 1.02, piece: 425 },
   'fresh blackberry': { cal: 43, p: 1.4, f: 0.5, c: 10, density: 0.6 },
   'frozen wild blueberry': { cal: 57, p: 0.7, f: 0.3, c: 14, density: 0.65 },
   'blueberry preserve': { cal: 250, p: 0, f: 0, c: 62, density: 1.35 },
