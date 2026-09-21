@@ -381,6 +381,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   cumin: { cal: 375, p: 18, f: 22, c: 44, density: 0.5 },
   'cumin seed': { cal: 375, p: 18, f: 22, c: 44, density: 0.5 },
   'ground cumin': { cal: 375, p: 18, f: 22, c: 44, density: 0.5 },
+  'fennel seed': { cal: 345, p: 15.8, f: 14.9, c: 52.3, density: 0.42 },
   'ground coriander': { cal: 298, p: 12, f: 18, c: 55, density: 0.4 },
   'coriander powder': { cal: 298, p: 12, f: 18, c: 55, density: 0.4 },
   'garam masala': { cal: 320, p: 12, f: 12, c: 50, density: 0.45 },
