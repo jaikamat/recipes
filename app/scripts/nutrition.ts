@@ -44,6 +44,9 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   '90% lean ground pork': { cal: 176, p: 20, f: 10, c: 0, lowConfidence: true },
   'chicken breast': { cal: 120, p: 22.5, f: 2.6, c: 0 },
   'boneless skinless chicken breast': { cal: 120, p: 22.5, f: 2.6, c: 0 },
+  // Retail boneless/skinless thigh, raw and trimmed — fattier than breast
+  'boneless skinless chicken thigh': { cal: 143, p: 19.7, f: 6.6, c: 0 },
+  'chicken thigh': { cal: 143, p: 19.7, f: 6.6, c: 0 },
   // Perdue 98% fat free label: per 4 oz (112g) — 110 cal, 24g P, 1.5g F, 0 C
   'ground chicken breast': { cal: 98, p: 22, f: 1.5, c: 0, lowConfidence: true },
   'amylu paleo chicken andouille': {
@@ -219,6 +222,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
     lowConfidence: true,
   },
   'shaoxing wine': { cal: 100, p: 0.5, f: 0, c: 5, density: 1, lowConfidence: true },
+  'dry white wine': { cal: 82, p: 0.1, f: 0, c: 2.6, density: 0.99 }, // pinot grigio/sauv blanc
   doubanjiang: { cal: 130, p: 6, f: 5, c: 15, lowConfidence: true },
   'calabrian chile': { cal: 230, p: 2, f: 23, c: 6, density: 0.95, lowConfidence: true }, // jarred, chopped in oil
   'marinara sauce': { cal: 72, p: 1.6, f: 4.8, c: 5.6 }, // Rao's-style
@@ -294,6 +298,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   zucchini: { cal: 17, p: 1.2, f: 0.3, c: 3.1, piece: 200 },
   'medium zucchini': { cal: 17, p: 1.2, f: 0.3, c: 3.1, piece: 200 },
   'medium sweet potato': { cal: 86, p: 1.6, f: 0.1, c: 20, piece: 130 },
+  'yukon gold potato': { cal: 79, p: 2.1, f: 0.1, c: 17.8, piece: 170 }, // raw, skin on
   'poblano pepper': { cal: 20, p: 1, f: 0.2, c: 4.6, piece: 100, lowConfidence: true },
   'serrano pepper': { cal: 32, p: 1.7, f: 0.4, c: 6.7, piece: 6 },
   'small serrano chile': { cal: 32, p: 1.7, f: 0.4, c: 6.7, piece: 6 },
@@ -321,6 +326,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   dill: { cal: 43, p: 3.5, f: 1.1, c: 7, density: 0.1 }, // fresh dill weed
   basil: { cal: 23, p: 3.2, f: 0.6, c: 2.7 },
   'basil leave': { cal: 23, p: 3.2, f: 0.6, c: 2.7, piece: 0.5, density: 0.1 },
+  'fresh thyme': { cal: 101, p: 5.6, f: 1.7, c: 24, piece: 1 }, // piece = 1 sprig
 
   // ---- Nuts & seeds -------------------------------------------------------
   cashew: { cal: 553, p: 18, f: 44, c: 30 },
