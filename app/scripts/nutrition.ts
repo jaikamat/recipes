@@ -434,6 +434,8 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'dried dill': { cal: 253, p: 20, f: 4.4, c: 55.8, density: 0.2 }, // 1 tsp ≈ 1g
   'dried marjoram': { cal: 271, p: 12.7, f: 7, c: 60.6, density: 0.2 },
   'dried oregano': { cal: 265, p: 9, f: 4, c: 69, density: 0.3 },
+  'dried parsley': { cal: 292, p: 26.6, f: 5.5, c: 50, density: 0.09 }, // 1 TBSP ≈ 1.3g
+  'dried cilantro': { cal: 279, p: 21.9, f: 4.8, c: 52, density: 0.12 }, // dried coriander leaf
   'dried thyme': { cal: 276, p: 9.1, f: 7.4, c: 64, density: 0.3 },
   'crushed oregano leave': { cal: 265, p: 9, f: 4, c: 69, density: 0.3 },
   'dried basil': { cal: 233, p: 23, f: 4, c: 48, density: 0.25 },
