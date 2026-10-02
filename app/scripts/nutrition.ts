@@ -279,6 +279,15 @@ export const NUTRITION: Record<string, NutritionEntry> = {
     piece: 425,
     lowConfidence: true,
   },
+  // Read off the can: 1/2 cup (130g) = 100 cal, 5P, 0.5F, 18C, 1000mg sodium,
+  // ~3.5 servings per container. Pinto beans in tomato paste.
+  "bush's chili magic classic southwest chili starter": {
+    cal: 76.9,
+    p: 3.8,
+    f: 0.4,
+    c: 13.8,
+    piece: 439,
+  },
   'dried pinto bean': { cal: 347, p: 21, f: 1, c: 63 },
 
   // ---- Produce ------------------------------------------------------------

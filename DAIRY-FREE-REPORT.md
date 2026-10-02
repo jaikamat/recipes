@@ -33,6 +33,7 @@ These contain no dairy (assuming standard, label-checked prepared ingredients). 
 | **dinner/cajun-sausage-jambalaya** | Check the andouille and Tony's roux mix labels, but both are typically dairy-free. |
 | **dinner/chili-meatballs** | Turkey + spices, cooked in olive oil. |
 | **dinner/chili-oil-turkey-wontons** | Wonton wrappers, turkey, chili oil — all dairy-free. |
+| **dinner/easy-turkey-chili** | Turkey, canned chili starter, beans, spinach. Check the Bush's starter and chili bean labels. |
 | **dinner/crispy-marinara-baked-tofu** | Dairy-free **if your marinara has no cheese** (Rao's Marinara is fine). |
 | **dinner/minestrone-soup** | Parmesan is **optional garnish only** and already excluded from macros — omit it. |
 | **dinner/pr-style-basmati-rice** | Rice, broth, sofrito, oil. Check sofrito label. |
@@ -56,7 +57,6 @@ Dairy is a minor, swappable component — flavor stays close to the original.
 | **dinner/mapo-tofu** | Ghee | Neutral/olive oil (use a high-smoke-point oil for the chile bloom). |
 | **dinner/kung-pao-chicken** | Ghee | Neutral oil for stir-frying. |
 | **dinner/turkey-bao-buns** | Ghee (14g, dough) | Neutral oil. |
-| **dinner/easy-white-chili** | Cheddar (topping only) | Omit, or dairy-free shred — added after cooking. |
 | **dinner/one-pan-spaghetti** | Parmesan (50g) | Omit, or nutritional yeast / dairy-free parm. |
 | **snacks/high-protein-peanut-butter-spread** | Vanilla whey | Vanilla pea protein. |
 
@@ -135,6 +135,7 @@ Make as-is (just confirm the noted labels).
 | **breakfast/crispy-polenta-cakes** | Use the water base; skip the optional milk. |
 | **dinner/buckaroo-beans** | None. |
 | **dinner/chili-meatballs** | None. |
+| **dinner/easy-turkey-chili** | Check the Bush's starter and chili bean labels for soy. |
 | **dinner/minestrone-soup** | Omit the optional parmesan; confirm marinara (Rao's is fine). |
 | **dinner/pr-style-basmati-rice** | Check sofrito + sazon labels. |
 | **snacks/blackberry-basil-lemonade** | None. |
@@ -151,7 +152,6 @@ Make as-is (just confirm the noted labels).
 | **breakfast/apple-pie-oatmeal** | Butter → coconut oil or olive oil. | Trivial |
 | **snacks/high-protein-peanut-butter-spread** | Whey → **pea** protein (not soy isolate). | Trivial |
 | **dinner/one-pan-spaghetti** | Omit parmesan or use nutritional yeast. | Trivial |
-| **dinner/easy-white-chili** | Skip the cheese topping. | Trivial |
 | **snacks/saffron-chai** | Milk → oat or coconut milk (not soy milk). | Trivial |
 | **breakfast/blueberry-lemon-muffins** | Yogurt → coconut yogurt; butter → oil. | Easy |
 | **snacks/banana-oat-muffins** | Milk → oat/coconut; ghee → olive oil; any chips → soy-lecithin-free + dairy-free. | Easy |
