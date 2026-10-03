@@ -66,7 +66,9 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   egg: { cal: 143, p: 12.6, f: 9.5, c: 0.7, piece: 50 },
   'egg white': { cal: 52, p: 11, f: 0.2, c: 0.7, piece: 33 },
   'extra firm tofu': { cal: 90, p: 10, f: 5, c: 2 },
-  'firm tofu': { cal: 118, p: 13, f: 7, c: 3, lowConfidence: true },
+  // Retail 14 oz block (House Foods Premium Firm): 79g = 70 cal, 8P, 3.5F, 2C.
+  // Must stay at or below extra-firm, which has less water per 100g.
+  'firm tofu': { cal: 89, p: 10.1, f: 4.4, c: 2.5 },
   'soft tofu': { cal: 60, p: 6.5, f: 3.5, c: 1.8 },
 
   // ---- Dairy --------------------------------------------------------------
@@ -87,7 +89,13 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   '0% cottage cheese': { cal: 70, p: 12, f: 0, c: 5 },
   // creamed, large or small curd — USDA reference values
   '4% cottage cheese': { cal: 98, p: 11.1, f: 4.3, c: 3.4 },
-  'cocojune unsweetened coconut yogurt': { cal: 107, p: 6.3, f: 8.2, c: 2.5, density: 1.03 }, // 170 cal per 159g tub serving
+  'cocojune unsweetened coconut yogurt': {
+    cal: 107,
+    p: 6.3,
+    f: 8.2,
+    c: 2.5,
+    density: 1.03,
+  }, // 170 cal per 159g tub serving
   'ricotta cheese': { cal: 174, p: 11, f: 13, c: 3 },
   'light cream cheese': { cal: 233, p: 8, f: 18, c: 8, lowConfidence: true },
   'fresh mozzarella': { cal: 280, p: 18, f: 22, c: 2 },
@@ -251,6 +259,15 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'lemon juice': { cal: 22, p: 0.4, f: 0.2, c: 6.9, density: 1 },
   'lime juice': { cal: 25, p: 0.4, f: 0.1, c: 8.4, density: 1.02 },
   'white miso': { cal: 199, p: 12, f: 6, c: 26, density: 1.15, lowConfidence: true },
+  // Seasoned/roasted seaweed snack pack: 4g pack ≈ 25 cal, 1P, 2F, 0C.
+  'chung jung one perilla oil seaweed': {
+    cal: 625,
+    p: 25,
+    f: 50,
+    c: 0,
+    piece: 4,
+    lowConfidence: true,
+  },
 
   // ---- Tomatoes -----------------------------------------------------------
   tomato: { cal: 18, p: 0.9, f: 0.2, c: 3.9 },

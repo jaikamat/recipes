@@ -1,16 +1,17 @@
 ### Pumpkin Apple Pie Pouches
 
-**Servings:** 10
-**Per serving:** 62 cal | 1g protein | 1g fat | 14g carbs
-**Per 100g:** 68 cal | 1g protein | 1g fat | 15g carbs (~91g per serving)
+**Servings:** 6
+**Per serving:** 103 cal | 1g protein | 2g fat | 23g carbs
+**Per 100g:** 68 cal | 1g protein | 1g fat | 15g carbs (~152g per serving)
 
 A clone of the Once Upon a Farm *Farmer Jen's Pumpkin Apple Pie* kid pouch, built to the
-same ingredient list and the same 91g (3.2 oz) serving. Batched to a finished weight of
-910g so ten pouches come out of one pot. Against the store label — 60 cal, 1g fat, 0.5g
-saturated fat, 14g carbs, 2g fiber, 9g sugar, 1g protein, 0mg sodium — this lands on
-every line once nutrition-label rounding is applied.
+same ingredient list. Batched to a finished weight of 910g, which fills one 6-portion
+Souper Cube tray at about 152g a cavity — roughly 1.7 store pouches each. Against the
+store label — 60 cal, 1g fat, 0.5g saturated fat, 14g carbs, 2g fiber, 9g sugar, 1g
+protein, 0mg sodium — this lands on every line at the store's 91g (3.2 oz) serving once
+nutrition-label rounding is applied.
 
-No sweetener goes in beyond the dates; all 9g of sugar per pouch comes from the apple
+No sweetener goes in beyond the dates; all 15g of sugar per portion comes from the apple
 and the fruit.
 
 **Ingredients:**
@@ -34,16 +35,16 @@ and the fruit.
 
 3. Blend on high for 60-90 seconds, until there is no fleck of apple skin or grain of oat left. This is a pouch, not an applesauce — anything short of completely smooth will read as gritty to a kid
 
-4. Weigh the purée and add water until it hits 910g, then pulse to combine. This is the step that makes the macros land: the batch is built so that 910g divided into 91g portions matches the store pouch serving for serving
+4. Weigh the purée and add water until it hits 910g, then pulse to combine. This is the step that makes the macros land: the batch is built so one pot divides cleanly into six 152g portions, and still matches the store pouch gram for gram at its 91g serving
 
-5. Portion 91g into reusable pouches or small jars on the scale. Chill fully before serving
+5. Pour into a 6-portion Souper Cube tray, about 152g a cavity, and level the tops with a spatula. Chill fully before serving, or freeze straight from the tray
 
-**Freeze:** Fill reusable pouches to 91g, leaving a little headspace, and freeze flat for up to 3 months. They double as an ice pack in a lunch bag.
+**Freeze:** Fill the 6-portion Souper Cube tray to about 152g a cavity, freeze solid, then pop the blocks out into a zip bag for up to 3 months. A frozen block doubles as an ice pack in a lunch bag.
 
-**Thaw:** Overnight in the fridge, or 20-30 minutes at room temperature. Squeeze the pouch to redistribute before opening — separation is normal.
+**Thaw:** Overnight in the fridge, or 20-30 minutes at room temperature. Stir or squeeze to redistribute before serving — separation is normal.
 
-**Serve:** Straight from the pouch cold, or spooned over Greek yogurt with a few oats on top for an adult-sized breakfast bowl.
+**Serve:** Cold by the spoon, squeezed into a reusable pouch for a lunch bag, or spooned over Greek yogurt with a few oats on top for an adult-sized breakfast bowl. One portion is about 1.7 store pouches, so it splits into two kid servings.
 
-**Storage:** Refrigerate in sealed pouches or jars for up to 4 days. This is a home purée with no high-pressure processing behind it, so the fridge window is shorter than the store pouch's printed date.
+**Storage:** Refrigerate in a sealed container for up to 4 days. This is a home purée with no high-pressure processing behind it, so the fridge window is shorter than the store pouch's printed date.
 
-**Notes:** The apples go in with the skin on — that is where most of the 2g of fiber per pouch comes from. Peel them if the blender is not strong enough to disappear the skin, and expect fiber to drop to about 1g per pouch. Any sweet-tart eating apple works; Honeycrisp, Gala, and Fuji all land in the right place, while Granny Smith needs an extra date to hit the same sugar. Canned pumpkin puree — not pie filling, which is pre-sweetened. The one number this does not match is potassium: the store pouch claims 217mg per serving and this comes out near 155mg, which no combination of apple, pumpkin, and date reaches at 60 calories.
+**Notes:** The apples go in with the skin on — that is where most of the 3g of fiber per portion comes from. Peel them if the blender is not strong enough to disappear the skin, and expect fiber to drop to about 2g per portion. Any sweet-tart eating apple works; Honeycrisp, Gala, and Fuji all land in the right place, while Granny Smith needs an extra date to hit the same sugar. Canned pumpkin puree — not pie filling, which is pre-sweetened. The one number this does not match is potassium: the store pouch claims 217mg per 91g serving and this comes out near 155mg, which no combination of apple, pumpkin, and date reaches at 60 calories.
