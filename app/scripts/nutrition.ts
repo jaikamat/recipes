@@ -136,6 +136,9 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'basmati rice': { cal: 365, p: 7.5, f: 0.6, c: 80, density: 0.85 }, // dry
   'uncooked basmati rice': { cal: 365, p: 7.5, f: 0.6, c: 80, density: 0.85 },
   polenta: { cal: 362, p: 8, f: 2, c: 79, density: 0.65 }, // dry cornmeal
+  // Dry stone-ground grits, whole-grain white corn. 1 cup ≈ 170g.
+  'stone-ground grits': { cal: 365, p: 8.5, f: 2.5, c: 76, density: 0.68, lowConfidence: true },
+  grit: { cal: 365, p: 8.5, f: 2.5, c: 76, density: 0.68, lowConfidence: true }, // plural fold of "grits"
   'martha white self-rising cornmeal': {
     cal: 370,
     p: 8,
@@ -325,6 +328,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   'medium zucchini': { cal: 17, p: 1.2, f: 0.3, c: 3.1, piece: 200 },
   'medium sweet potato': { cal: 86, p: 1.6, f: 0.1, c: 20, piece: 130 },
   'yukon gold potato': { cal: 79, p: 2.1, f: 0.1, c: 17.8, piece: 170 }, // raw, skin on
+  'bell pepper': { cal: 26, p: 1, f: 0.3, c: 5.5, piece: 150 }, // mixed red/green, trimmed
   'poblano pepper': { cal: 20, p: 1, f: 0.2, c: 4.6, piece: 100, lowConfidence: true },
   'serrano pepper': { cal: 32, p: 1.7, f: 0.4, c: 6.7, piece: 6 },
   'small serrano chile': { cal: 32, p: 1.7, f: 0.4, c: 6.7, piece: 6 },

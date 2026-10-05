@@ -83,13 +83,14 @@ Reserve)", "onion, diced (about 1 large)").
 - **Proteins/dairy:** egg, butter (never "unsalted"/"melted X"), cheddar,
   parmesan, 0% cottage cheese, 4% cottage cheese, Fairlife 2% ultra-filtered
   milk
-- **Pantry:** 00 flour (used for all flour), rolled oats, cornstarch,
-  breadcrumbs, dutch process cocoa powder, chocolate chips, dark chocolate, granulated
+- **Pantry:** 00 flour (used for all flour), rolled oats, stone-ground grits,
+  cornstarch, breadcrumbs, dutch process cocoa powder, chocolate chips,
+  dark chocolate, granulated
   sugar, brown sugar (no light/dark distinction), vanilla extract,
   vanilla whey protein, unflavored whey protein
 - **Aromatics/produce:** onion (no size/color qualifiers), garlic paste,
   ginger paste, cilantro, basil, spinach, poblano pepper, carrots, celery,
-  banana
+  banana, bell pepper
 - **Seasoning/liquids:** sea salt (the only salt), black pepper, olive oil
   (the only cooking oil; sesame oil and ghee stay distinct), Kirkland
   chicken bone broth (the only broth)
