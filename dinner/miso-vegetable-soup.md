@@ -1,7 +1,7 @@
 ### Miso Vegetable Soup
 
 **Servings:** 4
-**Per serving:** 330 cal | 26g protein | 13g fat | 30g carbs
+**Per serving:** 334 cal | 26g protein | 13g fat | 31g carbs
 **Per 100g:** 67 cal | 5g protein | 3g fat | 6g carbs (~495g per serving)
 
 Adapted from Hikari Miso's vegetable miso soup. Potato-and-onion miso soup is a Japanese home-cooking staple; this version bulks it up with carrots and a full block of firm tofu, and swaps the water for unsalted bone broth. The broth does double duty: it gives the soup a savory backbone plain water can't, and it's where a little over 40% of the protein comes from. Because it's unsalted, the miso is the only real seasoning, which makes salt easy to control — weigh the miso and adjust at the end. Protein is close to a third of the calories.
@@ -12,6 +12,7 @@ _Soup:_
 
 - 30ml (2 TBSP) olive oil
 - 150g onion, diced (about 1 medium)
+- 12g (2 tsp) garlic paste
 - 350g Yukon Gold potatoes, peeled and cut into 2cm (3/4 in) pieces (about 2 medium)
 - 130g carrots, peeled and cut into 6mm (1/4 in) coins (about 2 medium)
 - 960ml (4 cups) Kirkland chicken bone broth
@@ -26,7 +27,7 @@ _To finish:_
 **Instructions:**
 
 1. Cut the potatoes into 2cm pieces and the carrots into thin 6mm coins. Carrots cook slower than potatoes, so cutting them thinner means both finish at the same time. Drain the tofu, pat it dry, and cube it
-2. Heat the oil in a 4- to 5-quart soup pot over medium. Add the onion and cook 5 minutes, stirring occasionally, until translucent
+2. Heat the oil in a 4- to 5-quart soup pot over medium. Add the onion and cook 5 minutes, stirring occasionally, until translucent. Stir in the garlic paste and cook 45 seconds, until it smells sweet rather than raw — it should not take on color. Jarred garlic paste scorches faster than minced garlic, so it goes in last and the potatoes follow immediately
 3. Add the potatoes and carrots and cook 3 more minutes, stirring, until everything is coated and the edges start to soften
 4. Pour in the broth, scraping the bottom clean, and bring to a boil. Boil 12-15 minutes, until a fork slides through the largest potato piece and the carrots with no resistance. Start checking at 12
 5. Drop the heat to low so the soup is barely moving. Slide in the tofu and let it warm through for 3 minutes. Stir gently, if at all — firm tofu holds its shape but breaks apart if you churn it

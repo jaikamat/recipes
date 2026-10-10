@@ -152,6 +152,7 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   // Carbs here are TOTAL carbs, matching the house macro convention.
   'carbe diem spaghetti': { cal: 196, p: 14.3, f: 0.9, c: 71.4 },
   'carbe diem elbow pasta': { cal: 196, p: 14.3, f: 0.9, c: 71.4 },
+  'carbe diem rotini': { cal: 196, p: 14.3, f: 0.9, c: 71.4 },
   // Generic high-protein wheat pasta (Barilla Protein+ style label):
   // per 56g dry — 200 cal, 10P, 1.5F, 38C.
   'protein pasta': { cal: 357, p: 17.9, f: 2.7, c: 67.9, lowConfidence: true },

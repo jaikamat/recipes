@@ -1,16 +1,16 @@
 ### Schinkennudeln (One-Pot Ham & Cheese Noodle Bake)
 
 **Servings:** 6
-**Per serving:** 537 cal | 45g protein | 18g fat | 51g carbs
-**Per 100g:** 140 cal | 12g protein | 5g fat | 13g carbs (~385g per serving)
+**Per serving:** 446 cal | 43g protein | 17g fat | 53g carbs
+**Per 100g:** 116 cal | 11g protein | 4g fat | 14g carbs (~385g per serving)
 
-The Austrian baked version of this is _Schinkenfleckerl_ — noodles and ham bound in an egg-and-quark custard, baked until the top sets and browns. Blended cottage cheese stands in for the quark, which is both the authentic move and where most of the protein comes from. Everything happens in one Dutch oven: the pasta cooks in its own broth by absorption, the custard goes in off-heat, and the pot goes straight into the oven. Protein is a third of the calories here, roughly double what a standard Schinkennudeln lands at.
+The Austrian baked version of this is _Schinkenfleckerl_ — noodles and ham bound in an egg-and-quark custard, baked until the top sets and browns. Blended cottage cheese stands in for the quark, which is both the authentic move and where most of the protein comes from. Everything happens in one Dutch oven: the pasta cooks in its own broth by absorption, the custard goes in off-heat, and the pot goes straight into the oven. Protein is nearly 40% of the calories here, roughly double what a standard Schinkennudeln lands at.
 
 **Ingredients:**
 
 _Pot:_
 
-- 340g (12 oz) protein pasta, short shape — rotini, cavatappi, or broken egg noodles
+- 340g (12 oz) Carbe Diem rotini
 - 340g (12 oz) ham, cut into 1cm dice (Black Forest deli, lean)
 - 15ml (1 TBSP) olive oil
 - 150g onion, diced (about 1 medium)
@@ -60,7 +60,7 @@ _Custard:_
 - Grating the carrot rather than dicing it is deliberate: it disappears into the custard and adds sweetness and volume without anyone picking around orange coins
 - Peas are worth adding. They are the cheapest protein in the dish (about 8g across the pot) and they hold their shape where the spinach collapses to nothing
 - **Volume knob:** another 150g of spinach and 100g of peas adds about 40g per serving for under 20 cal. This bakes fine at that volume in a 5-quart pot
-- **Protein knob:** swapping in 200g of shredded rotisserie chicken alongside the ham takes it to about 53g protein per serving. Or use a chickpea/lentil pasta instead of wheat protein pasta for about +1g per serving, though the texture goes softer and you will want to pull it 4 minutes short in step 6 instead of 3
-- Regular semolina pasta drops it to about 42g protein per serving. Still respectable — the cottage cheese and ham are doing most of the work
+- **Protein knob:** swapping in 200g of shredded rotisserie chicken alongside the ham takes it to about 51g protein per serving. Or use a chickpea/lentil pasta in place of the Carbe Diem for about +6g protein per serving, though it also adds roughly 80 cal, the texture goes softer, and you will want to pull it 4 minutes short in step 6 instead of 3
+- Regular semolina pasta lands at about 42g protein per serving but takes it to roughly 537 cal — the Carbe Diem is doing most of the calorie saving, not the protein. Still respectable either way; the cottage cheese and ham are doing most of the protein work
 - Gruyère is the one place not to economize. 100g of something sharp and nutty beats 200g of mild cheese at half the fat
-- Fleckerl (square flakes) are the traditional shape and nearly impossible to find in the US. Rotini traps the custard better than anything else in a normal grocery store
+- Fleckerl (square flakes) are the traditional shape and nearly impossible to find in the US. Rotini traps the custard better than any other shape, and cavatappi or broken egg noodles work if that is what you have
