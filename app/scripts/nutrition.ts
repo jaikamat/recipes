@@ -235,6 +235,9 @@ export const NUTRITION: Record<string, NutritionEntry> = {
   },
   'shaoxing wine': { cal: 100, p: 0.5, f: 0, c: 5, density: 1, lowConfidence: true },
   'dry white wine': { cal: 82, p: 0.1, f: 0, c: 2.6, density: 0.99 }, // pinot grigio/sauv blanc
+  // Supermarket shelf-stable cooking wine (Holland House style label): per
+  // 30ml — 20 cal, 1C, 190mg sodium. Salted, unlike drinking wine.
+  'white cooking wine': { cal: 67, p: 0, f: 0, c: 3.3, density: 0.99 },
   doubanjiang: { cal: 130, p: 6, f: 5, c: 15, lowConfidence: true },
   'calabrian chile': { cal: 230, p: 2, f: 23, c: 6, density: 0.95, lowConfidence: true }, // jarred, chopped in oil
   'marinara sauce': { cal: 72, p: 1.6, f: 4.8, c: 5.6 }, // Rao's-style
