@@ -1,8 +1,8 @@
 ### Chile and Black Pepper Pasta
 
 **Servings:** 4
-**Per serving:** 452 cal | 31g protein | 20g fat | 84g carbs
-**Per 100g:** 129 cal | 9g protein | 6g fat | 24g carbs (~350g per serving)
+**Per serving:** 461 cal | 31g protein | 19g fat | 85g carbs
+**Per 100g:** 132 cal | 9g protein | 5g fat | 24g carbs (~350g per serving)
 
 Adapted from Andy Baraghani's fresh lemon and chile pasta, with the lemon dropped and the pepper raised to carry it instead. Creamy and spicy — butter, serrano, black pepper, and parmesan come together in minutes. Closer to a chile cacio e pepe than the original.
 
